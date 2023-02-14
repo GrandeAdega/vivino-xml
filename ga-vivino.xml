@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-13T17:05:39.397Z</feed-generation-date>
+    <feed-generation-date>2023-02-14T20:47:16.552Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2020</product-name>
@@ -10,8 +10,21 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>60</inventory-count>
     <product-id>25013</product-id>
+    <extras>
+      <producer>Bodegas Montes Toscanini</producer>
+      <wine-name>Reserva Familiar Tannat</wine-name>
+      <appelation>Canelones</appelation>
+      <vintage>2020</vintage>
+      <country>Uruguai</country>
+      <color>Tinto</color>
+      <image>https://grandeadega.vteximg.com.br/arquivos/montes-toscanini-reserva-familiar-tannat.png</image>
+      <GTIN>7730910250297</GTIN>
+      <description>Apresenta aromas de frutas escuras, com notas de chocolate e tostado. Em boca, possui excelente acidez com taninos bem estruturados e final equilibrado.</description>
+      <alcohol />
+      <ageing />
+    </extras>
   </product>
   <product>
     <product-name>João Portugal Ramos Ramos Reserva Tinto 2020</product-name>
@@ -20,8 +33,21 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/ramos-reserva-tinto/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>41</inventory-count>
     <product-id>12262</product-id>
+    <extras>
+      <producer>João Portugal Ramos</producer>
+      <wine-name>Ramos Reserva Tinto</wine-name>
+      <appelation>Alentejo</appelation>
+      <vintage>2020</vintage>
+      <country>Portugal</country>
+      <color>Tinto</color>
+      <image>https://grandeadega.vteximg.com.br/arquivos/RamosReservaSelected.png</image>
+      <GTIN>5604135020039</GTIN>
+      <description>Vinho português da Denominação de Origem Controlada (DOC) Alentejo. Preserva as características frutadas e taninos macios.</description>
+      <alcohol />
+      <ageing />
+    </extras>
   </product>
   <product>
     <product-name>Putos Tinto Alentejo DOC 2021</product-name>
@@ -30,8 +56,21 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/putos-tinto-alentejo-doc/p</link>
-    <inventory-count>76</inventory-count>
+    <inventory-count>129</inventory-count>
     <product-id>12286</product-id>
+    <extras>
+      <producer>Putos</producer>
+      <wine-name>Putos Tinto Alentejo DOC</wine-name>
+      <appelation>Alentejo</appelation>
+      <vintage>2021</vintage>
+      <country>Portugal</country>
+      <color>Tinto</color>
+      <image>https://grandeadega.vteximg.com.br/arquivos/12286-putos-tinto.png</image>
+      <GTIN>7898152997414</GTIN>
+      <description>Tal qual as Caravelas Santa Maria, Pinta e Niña, os distintos cavalheiros Danilo Gentili, Oscar Filho e Diogo Portugal são desbravadores, mas do Stand Up brasileiro. Por este motivo, estes ícones do humor nacional criaram este nobre vinho tinto composto pelas uvas Alicante Bouschet, Aragonez e Trincadeira. Cabe a você, assim como Colombo, descobrir os aromas de frutas vermelhas maduras, como amoras e groselhas, e notas de baunilha, que se aplicam igualmente a cada um destes epopeicos humoristas.</description>
+      <alcohol />
+      <ageing />
+    </extras>
   </product>
   <product>
     <product-name>Bodega Norton Sexy Fish Rosé 2022</product-name>
@@ -42,6 +81,19 @@
     <link>https://www.grandeadega.com.br/sexy-fish-rose/p</link>
     <inventory-count>12</inventory-count>
     <product-id>11588</product-id>
+    <extras>
+      <producer>Bodega Norton</producer>
+      <wine-name>Sexy Fish Rosé</wine-name>
+      <appelation>Luján de Cuyo,Mendoza</appelation>
+      <vintage>2022</vintage>
+      <country>Argentina</country>
+      <color>Rosé</color>
+      <image>https://grandeadega.vteximg.com.br/arquivos/2023-JAN-SexyFish-Rosado.png</image>
+      <GTIN>7792319972057</GTIN>
+      <description>Despojado, este vinho apresenta aromas de frutas vermelhas, como cerejas e framboesa. Em boca, é fresco e tem boa acidez.</description>
+      <alcohol />
+      <ageing />
+    </extras>
   </product>
 </vivino-product-list>
 
