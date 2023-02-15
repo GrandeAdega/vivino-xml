@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-15T14:41:50.201Z</feed-generation-date>
+    <feed-generation-date>2023-02-15T14:57:25.272Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2020</product-name>
@@ -93,6 +93,29 @@
       <description>Despojado, este vinho apresenta aromas de frutas vermelhas, como cerejas e framboesa. Em boca, é fresco e tem boa acidez.</description>
       <alcohol>13%</alcohol>
       <ageing />
+    </extras>
+  </product>
+  <product>
+    <product-name>Filipa Pato Espumante 3B Rosé NV</product-name>
+    <price>112.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-3b-rose/p</link>
+    <inventory-count>8</inventory-count>
+    <product-id>12186</product-id>
+    <extras>
+      <producer>Filipa Pato</producer>
+      <wine-name>Espumante 3B Rosé</wine-name>
+      <appelation>Bairrada</appelation>
+      <vintage>NV</vintage>
+      <country>Portugal</country>
+      <color>Espumante</color>
+      <image>https://grandeadega.vteximg.com.br/arquivos/espumante-3b-rose-filipa-pato.png</image>
+      <GTIN>5601743900142</GTIN>
+      <description>Espumante elaborado pela prestigiada enóloga Filipa Pato, na Bairrada, em Portugal. É seco, frutado e tem ótima acidez, além das borbulhas numerosas e intensas. Excelente sozinho, mas também indicado para acompanhar uma refeição inteira, da entrada ao prato principal, o rótulo é produzido com vinhas de, em média, 30 anos de idade.</description>
+      <alcohol>12.0%</alcohol>
+      <ageing>A uva Baga é fermentada em barris usados e a Bical em aço inoxidável com controle de temperatura de 18 ° C. Segunda fermentação ocorre em garrafa, com método tradicional.</ageing>
     </extras>
   </product>
 </vivino-product-list>
