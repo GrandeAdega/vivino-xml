@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-15T14:28:34.484Z</feed-generation-date>
+    <feed-generation-date>2023-02-15T14:29:31.698Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2020</product-name>
@@ -22,7 +22,7 @@
       <image>https://grandeadega.vteximg.com.br/arquivos/montes-toscanini-reserva-familiar-tannat.png</image>
       <GTIN>7730910250297</GTIN>
       <description>Apresenta aromas de frutas escuras, com notas de chocolate e tostado. Em boca, possui excelente acidez com taninos bem estruturados e final equilibrado.</description>
-      <alcohol>12.5%%</alcohol>
+      <alcohol>12.5%</alcohol>
       <ageing>Amadurece em barrica de carvalho para maior complexidade.</ageing>
     </extras>
   </product>
@@ -45,7 +45,7 @@
       <image>https://grandeadega.vteximg.com.br/arquivos/RamosReservaSelected.png</image>
       <GTIN>5604135020039</GTIN>
       <description>Vinho português da Denominação de Origem Controlada (DOC) Alentejo. Preserva as características frutadas e taninos macios.</description>
-      <alcohol>14%%</alcohol>
+      <alcohol>14%</alcohol>
       <ageing>Passa 6 meses em barrica</ageing>
     </extras>
   </product>
@@ -68,7 +68,7 @@
       <image>https://grandeadega.vteximg.com.br/arquivos/12286-putos-tinto.png</image>
       <GTIN>7898152997414</GTIN>
       <description>Tal qual as Caravelas Santa Maria, Pinta e Niña, os distintos cavalheiros Danilo Gentili, Oscar Filho e Diogo Portugal são desbravadores, mas do Stand Up brasileiro. Por este motivo, estes ícones do humor nacional criaram este nobre vinho tinto composto pelas uvas Alicante Bouschet, Aragonez e Trincadeira. Cabe a você, assim como Colombo, descobrir os aromas de frutas vermelhas maduras, como amoras e groselhas, e notas de baunilha, que se aplicam igualmente a cada um destes epopeicos humoristas.</description>
-      <alcohol>13.5%%</alcohol>
+      <alcohol>13.5%</alcohol>
       <ageing />
     </extras>
   </product>
@@ -91,7 +91,7 @@
       <image>https://grandeadega.vteximg.com.br/arquivos/2023-JAN-SexyFish-Rosado.png</image>
       <GTIN>7792319972057</GTIN>
       <description>Despojado, este vinho apresenta aromas de frutas vermelhas, como cerejas e framboesa. Em boca, é fresco e tem boa acidez.</description>
-      <alcohol>13%%</alcohol>
+      <alcohol>13%</alcohol>
       <ageing />
     </extras>
   </product>
