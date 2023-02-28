@@ -1,1387 +1,907 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-17T18:35:30.678Z</feed-generation-date>
+    <feed-generation-date>2023-02-28T13:56:39.419Z</feed-generation-date>
   </meta-data>
   <product>
-    <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
-    <price>54</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bardolino-cornale/p</link>
-    <inventory-count>14</inventory-count>
-    <product-id>11008</product-id>
-    <extras>
-      <producer>Cantina Bennati</producer>
-      <wine-name>Bardolino Cornale</wine-name>
-      <appelation>Vêneto</appelation>
-      <vintage>2016</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/BARDOLINO-CORNALE-TTO-750ML.png</image>
-      <GTIN>8002167000130</GTIN>
-      <description>Um ícone da Cantina Bennati, este vinho italiano apresenta aromas de frutas vermelhas e baunilha. Em boca, é seco, com médio corpo e possui taninos estruturados.</description>
-      <alcohol>11.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bennati Valpolicella Cornale 2016</product-name>
-    <price>96</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/valpolicella-cornale/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>11009</product-id>
-    <extras>
-      <producer>Cantina Bennati</producer>
-      <wine-name>Valpolicella Cornale</wine-name>
-      <appelation>Vêneto</appelation>
-      <vintage>2016</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/11009-valpolicella-cornale.png</image>
-      <GTIN>8002167000222</GTIN>
-      <description>Representando o melhor da região do Vêneto, este vinho tinto apresenta aromas de frutas vermelhas e amêndoas. Em boca, é seco, de médio corpo, possui taninos macios e final equilibrado.</description>
-      <alcohol>11.5%</alcohol>
-      <ageing>Amadurece um breve período em barricas de carvalho.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino DOCG Camigliano 2014</product-name>
-    <price>539.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/brunello-di-montalcino-docg-camigliano/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>11013</product-id>
-    <extras>
-      <producer>Cantina Camigliano</producer>
-      <wine-name>Brunello di Montalcino DOCG Camigliano</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2014</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/2022-out-camigliano-brunellodimontalcino.png</image>
-      <GTIN>8006114000013</GTIN>
-      <description>Um toscano de qualidade ímpar, este tinto apresenta aromas de frutas escuras, couro, chocolate e tabaco. No paladar, é seco, encorpado, possui acidez acentuada, taninos macios e bem estruturados, além de um final longo e complexo.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece em barrica por 24 meses e passa 12 meses em garrafa antes da sua comercialização.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Camigliano Rosso di Montalcino Camigliano 2018</product-name>
-    <price>237</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/rosso-di-montalcino-camigliano/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>11028</product-id>
-    <extras>
-      <producer>Cantina Camigliano</producer>
-      <wine-name>Rosso di Montalcino Camigliano</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/11028_rosso_di_montalcino.png</image>
-      <GTIN>8006114000020</GTIN>
-      <description>Diretamente da famosíssima região da Toscana, o rótulo apresenta aromas de frutas vermelhas frescas, baunilha e chocolate. No paladar, é seco, possui médio corpo, boa acidez e possui taninos finos.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece 6 meses de barrica francesa e mais 6 meses para envelhecimento em garrafa antes da sua comercialização.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bennati Barbera La Quercia 2020</product-name>
-    <price>55</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barbera-la-quercia/p</link>
-    <inventory-count>40</inventory-count>
-    <product-id>11029</product-id>
-    <extras>
-      <producer>Cantina Bennati</producer>
-      <wine-name>Barbera La Quercia</wine-name>
-      <appelation>Piemonte</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/11029-Barbera-La-Quercia.png</image>
-      <GTIN>8002167000192</GTIN>
-      <description>Do Piemonte, o vinho tinto apresenta aromas de frutas vermelhas e florais, especialmente de violeta. Em boca, é seco e aveludado.</description>
-      <alcohol>11.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina San Marco Frascati San Marco 2020</product-name>
-    <price>76</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/frascati-san-marco/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11038</product-id>
-    <extras>
-      <producer>Cantina San Marco</producer>
-      <wine-name>Frascati San Marco</wine-name>
-      <appelation>Lazio</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/2022-NOV-SanMarco-Frascati.png</image>
-      <GTIN>8005644100750</GTIN>
-      <description>Um expoente da Cantina San Marco, este vinho branco possui aromas de frutas frescas, como abacaxi, além de toques florais. Em boca, é seco, de corpo leve, tem acidez intensa e caráter muito refrescante.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bertani Amarone della Valpolicella Valpantena DOCG NV</product-name>
-    <price>749</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/amarone-della-valpolicella-valpantena-docg/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>11052</product-id>
-    <extras>
-      <producer>Cantina Bertani</producer>
-      <wine-name>Amarone della Valpolicella Valpantena DOCG</wine-name>
-      <appelation>Vêneto</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/2022-NOV-CantinaBertani-AmaroneDellaValpolicella-Valpantena.png</image>
-      <GTIN>8008326146152</GTIN>
-      <description>Um ícone da região do Vêneto, este clássico vinho Amarone apresenta aromas de cereja madura, amêndoas, frutas de bosque, frutas secas e especiarias. Em boca, possui boa acidez, bom corpo e taninos finíssimos, além de um final longo e complexo.</description>
-      <alcohol>15.5%</alcohol>
-      <ageing>Amadurece em barricas de carvalho por 30 meses e passa mais 6 meses na adega antes de ser comercializado.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino Gualto DOCG Camigliano NV</product-name>
-    <price>1539</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/brunello-di-montalcino-gualto-docg-camigliano/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>11054</product-id>
-    <extras>
-      <producer>Cantina Camigliano</producer>
-      <wine-name>Brunello di Montalcino Gualto DOCG Camigliano</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/brunello-di-montalcino-gualto-cantina-camigliano.png</image>
-      <GTIN>8006114032311</GTIN>
-      <description>De tipicidade única, o vinho da Cantina Camigliano apresenta aromas de frutas vermelhas, mentol e chocolate. No paladar, é seco, encorpado, possui alta acidez, taninos finos e muito bem estruturados, com um final longo e complexo.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece em grandes barricas de carvalho por 36 meses e mais 2 anos em garrafa antes da sua comercialização.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Caldora Caldora Yume Montepulciano d'Abruzzo DOC 2018</product-name>
-    <price>195</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/caldora-yume-montepulciano-d-abruzzo-doc/p</link>
-    <inventory-count>22</inventory-count>
-    <product-id>11059</product-id>
-    <extras>
-      <producer>Cantina Caldora</producer>
-      <wine-name>Caldora Yume Montepulciano d'Abruzzo DOC</wine-name>
-      <appelation>Abruzzo</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/yume-cantina-caldora.png</image>
-      <GTIN>8019873124432</GTIN>
-      <description>Com as melhores qualidades que um Montepulciano d'Abruzzo tem a oferecer, o vinho apresenta aromas de frutas vermelhas, notas de flores secas e especiarias. Em boca, é seco, encorpado, quente e com taninos abundantes, porém macios.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece por 6 meses em barricas, sendo 60% francesas e 40% americanas.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bertani Amarone della Valpolicella Clássico DOC NV</product-name>
-    <price>1599</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/amarone-della-valpolicella-classico-doc/p</link>
-    <inventory-count>0</inventory-count>
-    <product-id>11075</product-id>
-    <extras>
-      <producer>Cantina Bertani</producer>
-      <wine-name>Amarone della Valpolicella Clássico DOC</wine-name>
-      <appelation>Vêneto</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/amarone-della-valpoliccela-cantina-bertani.png</image>
-      <GTIN>8008326008153</GTIN>
-      <description>Apresenta aromas de frutas secas, ameixas, anis e notas de chá. Possui excelente acidez, bom corpo e taninos finos, abundantes e persistentes.</description>
-      <alcohol>15.0%</alcohol>
-      <ageing>Amadurece em barricas de carvalho esloveno por 6 anos e passa mais 12 meses na adega antes de ser comercializado.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Caldora Caldora Sangiovese IGT 2020</product-name>
-    <price>89</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/caldora-sangiovese-igt/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>11085</product-id>
-    <extras>
-      <producer>Cantina Caldora</producer>
-      <wine-name>Caldora Sangiovese IGT</wine-name>
-      <appelation>Abruzzo</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/caldora-sangiovese-igt.png</image>
-      <GTIN>8019873524409</GTIN>
-      <description>De excelente custo-benefício, o rótulo apresenta aromas de frutas vermelhas em compota e notas florais. No paladar, é seco, encorpado, possui ótima acidez e taninos macios.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bertani Velante Pinot Grigio DOC Friuli-Venezia Giulia 2020</product-name>
-    <price>174</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/velante-pinot-grigio-doc-friuli-venezia-giulia/p</link>
-    <inventory-count>3</inventory-count>
-    <product-id>11094</product-id>
-    <extras>
-      <producer>Cantina Bertani</producer>
-      <wine-name>Velante Pinot Grigio DOC Friuli-Venezia Giulia</wine-name>
-      <appelation>Friuli-Venezia Giulia</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/11094_bertani-velante-pinot-grigio-2020.png</image>
-      <GTIN>8008326195150</GTIN>
-      <description>Com toda expressividade da região de Friuli-Venezia Giulia, este vinho branco apresenta aromas de frutas maduras, como maçãs e pêssegos. Em boca, é seco, possui ótima acidez, corpo leve e final delicado.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Camigliano Poderuccio Camigliano NV</product-name>
-    <price>214</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/poderuccio-camigliano/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>11120</product-id>
-    <extras>
-      <producer>Cantina Camigliano</producer>
-      <wine-name>Poderuccio Camigliano</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/11120-vinho-tinto-poderuccio-camigliano-toscana.png</image>
-      <GTIN>8006097000253</GTIN>
-      <description>Um clássico vinho toscano, o Poderuccio Camigliano apresenta aromas de frutas vermelhas maduras, leve toque de baunilha e um tostado singular. Em boca, é seco, possui corpo médio, boa acidez, taninos estruturados e um final equilibrado.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>Somente 30% do vinho amadurece em barricas de carvalho francês, posteriormente estagia 4 meses em garrafa antes da comercialização.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bertani Valpolicella DOC Bertani 2017</product-name>
-    <price>179.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/valpolicella-doc-bertani/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>11124</product-id>
-    <extras>
-      <producer>Cantina Bertani</producer>
-      <wine-name>Valpolicella DOC Bertani</wine-name>
-      <appelation>Valpolicella Classica</appelation>
-      <vintage>2017</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/2022-nov-cantinabertani-valpolicella.png</image>
-      <GTIN>8008326131158</GTIN>
-      <description>Da Valpolicella Classica, o vinho ícone da Cantina Bertani apresenta aromas de ameixa, framboesa, cereja e especiarias. Em boca, é seco, com boa acidez, corpo médio, taninos macios e bem estruturados, além de ter final longo.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing>Estagia por 3 meses em garrafa antes da comercialização.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Camigliano Chianti Colli Senesi 2018</product-name>
-    <price>179</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chianti-colli-senesi/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>11125</product-id>
-    <extras>
-      <producer>Cantina Camigliano</producer>
-      <wine-name>Chianti Colli Senesi</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/chianti-colli-senesi-cantina-camigliano.png</image>
-      <GTIN>8006114000037</GTIN>
-      <description>Da milenar Cantina Camigliano, este Chianti possui aromas de frutas vermelhas frescas. No paladar, é seco, possui corpo médio, taninos finos e um final equilibrado.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>Parte de seu amadurecimento é feito em grandes barricas de carvalho.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Caldora Caldora Montepulciano d'Abruzzo DOC 2018</product-name>
-    <price>104</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/caldora-montepulciano-d-abruzzo-doc/p</link>
-    <inventory-count>16</inventory-count>
-    <product-id>11128</product-id>
-    <extras>
-      <producer>Cantina Caldora</producer>
-      <wine-name>Caldora Montepulciano d'Abruzzo DOC</wine-name>
-      <appelation>Abruzzo</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/caldora-montepulciano-dabruzzo.png</image>
-      <GTIN>8019873124401</GTIN>
-      <description>Um dos destaques da Cantina Caldora, este vinho italiano apresenta aromas de frutas vermelhas. No paladar, é seco, encorpado, com taninos bem estruturados e equilibrado.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Terre Natuzzi Don Giovanni Chianti Clássico DOCG 2020</product-name>
+    <product-name>Club Masterchef MasterChef Crianza DOCa Rioja
+ 2018</product-name>
     <price>159.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terre-natuzzi-don-giovanni-chianti-classico-docg/p</link>
-    <inventory-count>3</inventory-count>
-    <product-id>11142</product-id>
-    <extras>
-      <producer>Terre Natuzzi</producer>
-      <wine-name>Terre Natuzzi Don Giovanni Chianti Clássico DOCG</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/terre-natuzzi-don-giovanni-chianti-classico-docg.png</image>
-      <GTIN>8019873578068</GTIN>
-      <description>Um toscano de excelente custo-benefício, o vinho é elaborado com as uvas Sangiovese (90%), Canaiolo (5%) e Cabernet Sauvignon (5%), todas selecionadas. Apresenta intensos aromas de frutas vermelhas silvestres com final de especiarias. Em boca, é encorpado e com ótimos taninos.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing>Amadurece por 9 meses em barris de carvalho pequenos e grandes.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/masterchef-crianza-doca-rioja
+/p</link>
+    <inventory-count>43</inventory-count>
+    <product-id>24136</product-id>
   </product>
   <product>
-    <product-name>Terre Natuzzi Bianco Toscana IGT NV</product-name>
-    <price>74</price>
+    <product-name>Club Masterchef MasterChef Roble Ribera del Duero
+ 2019</product-name>
+    <price>152.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terre-natuzzi-bianco-toscana-igt/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>11143</product-id>
-    <extras>
-      <producer>Terre Natuzzi</producer>
-      <wine-name>Terre Natuzzi Bianco Toscana IGT</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/terre-natuzzi-bianco-toscana.png</image>
-      <GTIN>8019873578044</GTIN>
-      <description>Refrescante, o Terre Natuzzi Bianco Toscana IGT tem aromas florais e toques de frutas, como banana e abacaxi. Em boca, é fresco e tem bom corpo.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/masterchef-roble-ribera-del-duero
+/p</link>
+    <inventory-count>39</inventory-count>
+    <product-id>24137</product-id>
   </product>
   <product>
-    <product-name>Terre Natuzzi Chianti DOCG Riserva 2017</product-name>
-    <price>109.9</price>
+    <product-name>Bosio Barolo DOCG Truffle Hunter Leda 2018</product-name>
+    <price>237</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terre-natuzzi-chianti-docg-riserva/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>11146</product-id>
-    <extras>
-      <producer>Terre Natuzzi</producer>
-      <wine-name>Terre Natuzzi Chianti DOCG Riserva</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2017</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/terre-natuzzi-chianti-docg-riserva.png</image>
-      <GTIN>8019873578006</GTIN>
-      <description>Uma união entre a tradição e a modernidade das técnicas italianas de produção, este vinho é elaborado com as uvas Sangiovese e Cabernet Sauvignon. Apresenta aromas de especiarias adocicadas e traços de frutas vermelhas. Em boca, é delicado e macio, com notas de frutas maduras.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing>"Amadurece em barris de carvalho francês por 9 meses e permanece em garrafa por no mínimo 5 meses antes da comercialização."</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Terre Natuzzi Rosso Toscana IGT NV</product-name>
-    <price>78</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terre-natuzzi-rosso-toscana-igt/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>11147</product-id>
-    <extras>
-      <producer>Terre Natuzzi</producer>
-      <wine-name>Terre Natuzzi Rosso Toscana IGT</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/terre-natuzzi-rosso-toscana.png</image>
-      <GTIN>8019873578020</GTIN>
-      <description>Toscano, o vinho é produzido com uvas Sangiovese e Merlot selecionadas. Na degustação, apresenta aromas de frutas vermelhas frescas com notas florais. Em boca, é fresco, com bom corpo e taninos macios.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Lombardo Marsala Superiore Ambra Dolce (Licoroso) NV</product-name>
-    <price>128</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/lombardo-marsala-superiore-ambra-dolce--licoroso-/p</link>
-    <inventory-count>11</inventory-count>
-    <product-id>11204</product-id>
-    <extras>
-      <producer>Lombardo Marsala</producer>
-      <wine-name>Lombardo Marsala Superiore Ambra Dolce (Licoroso)</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Sobremesa</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/lombardo-marsala-dolce.png</image>
-      <GTIN>8009495204759</GTIN>
-      <description>De aspecto licoroso, este vinho fortificado de cor âmbar tem aromas de frutas cítricas, frutas secas, toques balsâmicos e de mel. Em boca, é doce, possui boa acidez, é encorpado e tem final longo e persistente.</description>
-      <alcohol>18.0%</alcohol>
-      <ageing>Amadurece, no mínimo, por 24 meses em barrica de carvalho.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Bertani Due Uve Rosso 2017</product-name>
-    <price>168</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/due-uve-rosso/p</link>
-    <inventory-count>11</inventory-count>
-    <product-id>11233</product-id>
-    <extras>
-      <producer>Cantina Bertani</producer>
-      <wine-name>Due Uve Rosso</wine-name>
-      <appelation>Vêneto</appelation>
-      <vintage>2017</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/due-uve-rosso.png</image>
-      <GTIN>8008326194153</GTIN>
-      <description>Os vinhedos localizados entre as províncias de Verona e Vicenza, ambas no Vêneto. Cada cepa é vinificada separadamente. Além da fermentação alcoólica também há a malolática. Apresenta intensos aromas de frutas vermelhas frescas, com notas de baunilha e frutas secas. Fresco e equilibrado, com taninos delicados e adocicados.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing>Matura durante 9 meses em tanques de concreto.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Poderi del Paradiso Vernaccia di San Gimignano DOCG 2020</product-name>
-    <price>139</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/vernaccia-di-san-gimignano-docg/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>11402</product-id>
-    <extras>
-      <producer>Cantina Poderi del Paradiso</producer>
-      <wine-name>Vernaccia di San Gimignano DOCG</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/poderi-del-paradiso-vernaccia2.png</image>
-      <GTIN>683371000055</GTIN>
-      <description>Produzido com a uva Vernaccia di San Gimignano, este vinho apresenta aromas de frutas cítricas com notas florais. Em boca, é seco, possui boa acidez e persistência.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Vin Santo 2014</product-name>
-    <price>278</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/poderi-del-paradiso-vin-santo/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11403</product-id>
-    <extras>
-      <producer>Cantina Poderi del Paradiso</producer>
-      <wine-name>Poderi del Paradiso Vin Santo</wine-name>
-      <appelation>San Gimignano</appelation>
-      <vintage>2014</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/poderi-del-paradiso-vin-santo.png</image>
-      <GTIN>683371000086</GTIN>
-      <description>Possui aromas de frutas e flores secas. Na boca é doce, equilibrado, untuoso, encorpado, possui boa acidez e longa persistência.</description>
-      <alcohol>15.0%</alcohol>
-      <ageing>Amadurece por 4 anos nos tradicionais caratelli (pequenos barris de 100 litros de carvalho) e posterior envelhecimento em garrafa.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Poderi del Paradiso Poderi Del Paradiso Silicum IGT 2019</product-name>
-    <price>399.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/poderi-del-paradiso-silicum-igt/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11405</product-id>
-    <extras>
-      <producer>Cantina Poderi del Paradiso</producer>
-      <wine-name>Poderi Del Paradiso Silicum IGT</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/poderi-del-paradiso-silicum.png</image>
-      <GTIN>683371000178</GTIN>
-      <description>Um excelente vinho toscano, este rótulo da Cantina Poderi del Paradiso apresenta aromas de frutas vermelhas maduras, especiarias e couro, com elegante tostado. Em boca, é seco, encorpado, possui taninos finos bem integrados, boa concentração e longa persistência. Estagia 14 meses em barricas de carvalho francês de primeiro uso.</description>
-      <alcohol>14.5%</alcohol>
-      <ageing>Estagia 14 meses em barricas de carvalho francês de primeiro uso.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Saxa Calida 2010</product-name>
-    <price>799</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/poderi-del-paradiso-saxa-calida/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>11407</product-id>
-    <extras>
-      <producer>Cantina Poderi del Paradiso</producer>
-      <wine-name>Poderi del Paradiso Saxa Calida</wine-name>
-      <appelation>San Gimignano</appelation>
-      <vintage>2010</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/poderi-del-paradiso-saxa-calida.png</image>
-      <GTIN>683371000024</GTIN>
-      <description>O grande destaque da Cantina Poderi del Paradiso, este vinho tinto apresenta aromas de frutas silvestres, café, cera de abelhas e notas de balsâmico. Em boca, possui boa acidez, taninos finos e integrados, final longo e elegante. complexo, o rótulo amadurece por 16 meses em barricas de carvalho francês.</description>
-      <alcohol>14.5%</alcohol>
-      <ageing>Amadurece por 16 meses em barricas de carvalho francês.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Caldora Caldora Trebbiano d'Abruzzo DOC 2018</product-name>
-    <price>84</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/caldora-trebbiano-d-abruzzo-doc/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>11409</product-id>
-    <extras>
-      <producer>Cantina Caldora</producer>
-      <wine-name>Caldora Trebbiano d'Abruzzo DOC</wine-name>
-      <appelation>Abruzzo</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/caldora-trebbiano-dabruzzo.png</image>
-      <GTIN>8019873324405</GTIN>
-      <description>Perfeito para acompanhar entradas, aperitivos e pescados, este vinho branco apresenta aromas de frutas tropicais. Em boca, é seco, possui médio corpo, acidez bem integrada e final refrescante.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Primitivo Puglia IGP 2019</product-name>
-    <price>103.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp/p</link>
-    <inventory-count>21</inventory-count>
-    <product-id>11425</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Luccarelli Primitivo Puglia IGP</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luccarelli-primitivo-puglia-igp.png</image>
-      <GTIN>8019873924650</GTIN>
-      <description>De excelente custo-benefício, este vinho da Puglia apresenta aromas de frutas escuras, como ameixa e cereja, ervas finas e notas de baunilha. No paladar, é seco, apresenta corpo médio, boa acidez, taninos macios e final persistente.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Negroamaro IGP 2020</product-name>
-    <price>103</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luccarelli-negroamaro-igp/p</link>
-    <inventory-count>20</inventory-count>
-    <product-id>11427</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Luccarelli Negroamaro IGP</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luccarelli-negroamaro.png</image>
-      <GTIN>8019873924551</GTIN>
-      <description>Um vinho moderno, mas que respeita toda a tradição da Puglia, este tinto apresenta aromas de frutas vermelhas e ervas, como tomilho. Em boca, é seco, possui corpo médio, boa acidez, taninos finos, com final longo.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Cellaro Due Lune Nerello Mascalese Nero D'Avola IGT 2019</product-name>
-    <price>329</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/due-lune-nerello-mascalese-nero-d-avola-igt/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11430</product-id>
-    <extras>
-      <producer>Cantina Cellaro</producer>
-      <wine-name>Due Lune Nerello Mascalese Nero D'Avola IGT</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/due-lune-nerello-mascalese-nero-davola.png</image>
-      <GTIN>8005374127843</GTIN>
-      <description>Um tinto cheio de tipicidade, o Due Lune Nerello Mascalese Nero D'Avola IGT apresenta aromas de frutas vermelhas, frutas escuras, especiarias e couro. No paladar, é seco, encorpado, apresenta boa acidez, taninos muito bem estruturados e final longo. Este vinho estagia por 6 meses em barrica.</description>
-      <alcohol>14.5%</alcohol>
-      <ageing>Estagia por 6 meses em barrica.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Cellaro Lumà Grillo IGT 2020</product-name>
-    <price>104</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luma-grillo-igt/p</link>
-    <inventory-count>15</inventory-count>
-    <product-id>11431</product-id>
-    <extras>
-      <producer>Cantina Cellaro</producer>
-      <wine-name>Lumà Grillo IGT</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luma-grillo.png</image>
-      <GTIN>8005374000405</GTIN>
-      <description>Com toda expressividade da Sicília, este vinho branco apresenta aromas de frutas frescas e delicado floral. No paladar, é seco, possui corpo leve, boa acidez e final harmônico.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT 2019</product-name>
-    <price>159</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luma-nero-d-avola-igt/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>11432</product-id>
-    <extras>
-      <producer>Cantina Cellaro</producer>
-      <wine-name>Lumà Nero D'Avola IGT</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luma-nero-davola.png</image>
-      <GTIN>8005374000429</GTIN>
-      <description>Da Cantina Cellaro, este vinho tinto apresenta aromas de frutas vermelhas e escuras. No paladar, é seco, encorpado, apresenta boa acidez e taninos bem estruturados com final longo. Amadurece em barrica de carvalho francês por 6 meses.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>Amadurece em barrica de carvalho francês por 6 meses.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Cellaro Micina Nerello Mascalese Sicilia IGT 2019</product-name>
-    <price>154</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/micina-nerello-mascalese-sicilia-igt/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>11433</product-id>
-    <extras>
-      <producer>Cantina Cellaro</producer>
-      <wine-name>Micina Nerello Mascalese Sicilia IGT</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/micina-nerello-mascalese.png</image>
-      <GTIN>8005374000870</GTIN>
-      <description>Um vinho siciliano estruturado e encorpado, este rótulo apresenta aromas de frutas vermelhas e escuras, especiarias, e couro, tem final longo e amadurece por 6 meses em barrica de carvalho.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing>Amadurece por 6 meses em barrica de carvalho.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Cantina Cellaro Solea Nero D'Avola IGT 2019</product-name>
-    <price>95</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/solea-nero-d-avola-igt/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11435</product-id>
-    <extras>
-      <producer>Cantina Cellaro</producer>
-      <wine-name>Solea Nero D'Avola IGT</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/solea-nero-davola.png</image>
-      <GTIN>8005374000207</GTIN>
-      <description>Produzido da uva Nero D'Avola, este tinto siciliano apresenta aromas de frutas vermelhas e do bosque. No paladar, é seco, encorpado, tem boa acidez, taninos finos e final longo.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Campo Marina Primitivo Merlot IGP 2018</product-name>
-    <price>199</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/campo-marina-primitivo-merlot-igp/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>11441</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Campo Marina Primitivo Merlot IGP</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/campo-marina-primitivo-merlot.png</image>
-      <GTIN>8019873724731</GTIN>
-      <description>O Campo Marina Primitivo Merlot IGP é um dos destaques da Luccarelli. O vinho apresenta aromas de frutas escuras, como cereja, vermelhas, como morango, e especiarias, como canela. No paladar, é seco, apresenta corpo médio, boa acidez, taninos macios e final longo. Amadurece em barrica de carvalho francês e americano de segundo uso entre 6 e 8 meses.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>Amadurece em barrica de carvalho francês e americano de segundo uso entre 6 e 8 meses.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Rosso Puglia IGP 2020</product-name>
-    <price>74</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-    <inventory-count>30</inventory-count>
-    <product-id>11442</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Luccarelli Rosso Puglia IGP</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luccarelli-rosso-puglia.png</image>
-      <GTIN>8019873824585</GTIN>
-      <description>Produzido com as uvas Aglianico, Malvasia Nera, e Sangiovese, o vinho tinto apresenta aromas de frutas vermelhas. Em boca, corpo médio, macio e bem balanceado.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Campo Marina Primitivo di Manduria 2020</product-name>
-    <price>199</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/campo-marina-primitivo-di-manduria/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>11443</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Campo Marina Primitivo di Manduria</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/campo-marina-primitivo-di-maduria.png</image>
-      <GTIN>8019873724717</GTIN>
-      <description>Um vinho que expressa todas as qualidades da uva Primitivo, o tinto apresenta aromas de frutas escuras, cacau e baunilha. No paladar, é seco, apresenta corpo médio, boa acidez, taninos finos e final equilibrado. Amadurece em barrica de carvalho francês e americano de segundo uso entre 8-10 meses..</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece em barrica de carvalho francês e americano de segundo uso entre 8-10 meses.</ageing>
-    </extras>
-  </product>
-  <product>
-    <product-name>Luccarelli Primitivo di Manduria Old Vines DOP 2018</product-name>
-    <price>391</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/luccarelli-primitivo-di-manduria-old-vines-dop/p</link>
+    <link>https://www.grandeadega.com.br/barolo-docg-truffle-hunter-leda/p</link>
     <inventory-count>13</inventory-count>
-    <product-id>11444</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Luccarelli Primitivo di Manduria Old Vines DOP</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/luccarelli-primitivo-di-manduria-old-vines.png</image>
-      <GTIN>8019873924957</GTIN>
-      <description>Elegante e sofisticado, o Luccarelli Primitivo di Manduria Old Vines DOP é um autêntico vinho da Puglia. O tinto apresenta aromas de ameixa e cereja, notas de tabaco, chocolate e pimenta. Em boca, é aveludado, com taninos finos e macios, e tem um toque de baunilha e café. Amadurece em barris de carvalho francês e americano por 12 meses.</description>
-      <alcohol>14.5%</alcohol>
-      <ageing>Amadurece em barris de carvalho francês e americano por 12 meses.</ageing>
-    </extras>
+    <product-id>12320</product-id>
   </product>
   <product>
-    <product-name>Luccarelli Campo Marina Malvasia Nera Salento 2018</product-name>
-    <price>119.9</price>
+    <product-name>Bosio Barbaresco DOCG Truffle Hunter Leda 2018</product-name>
+    <price>196</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/campo-marina-malvasia-nera-salento/p</link>
-    <inventory-count>165</inventory-count>
-    <product-id>11445</product-id>
-    <extras>
-      <producer>Luccarelli</producer>
-      <wine-name>Campo Marina Malvasia Nera Salento</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/Campo-Marina-Malvasia-Nera-Salento.png</image>
-      <GTIN>8019873724779</GTIN>
-      <description>Um vinho de presença, este Malvasia Nera apresenta aromas de frutas escuras, como cereja, e notas de especiarias. Em boca, é seco, apresenta corpo médio, boa acidez, taninos macios e tem um característico frescor final. Estagia em barrica de carvalho francês e americano entre 6 e 8 meses.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>Estagia em barrica de carvalho francês e americano entre 6 e 8 meses.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/barbaresco-docg-truffle-hunter-leda/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>12321</product-id>
   </product>
   <product>
-    <product-name>Cantina Caldora Yume Tre Autoctoni NV</product-name>
-    <price>499</price>
+    <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda #N/A</product-name>
+    <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/yume-tre-autoctoni/p</link>
-    <inventory-count>14</inventory-count>
-    <product-id>11447</product-id>
-    <extras>
-      <producer>Cantina Caldora</producer>
-      <wine-name>Yume Tre Autoctoni</wine-name>
-      <appelation>Abruzzo,Puglia,Sicília</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/yume-tre-autoctoni-rosso.png</image>
-      <GTIN>8019873124302</GTIN>
-      <description>Com uvas selecionadas de três regiões da Itália: a Montepulciano, de Abruzzo, a Primitivo, da Puglia, e a Nerello Mascalese, da Sicília, este elegante vinho apresenta aromas frutado que lembra cereja, ameixa e groselhas, com nuances de tabaco e tostado. Em boca, possui grande estrutura, é macio e rico em taninos aveludados, muito persistente, com um final longo e notas de baunilha e chocolate. O vinho estagia em barricas de carvalho por um período de 9 a 12 meses.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>O vinho estagia em barricas de carvalho por um período de 9 a 12 meses.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/nebbiolo-d’alba-doc-truffle-hunter-leda/p</link>
+    <inventory-count>20</inventory-count>
+    <product-id>12322</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi Luigi Einaudi Barolo Ludo DOCG 2015</product-name>
-    <price>769</price>
+    <product-name>Bosio Barbera d’Alba DOC Truffle Hunter Leda 2019</product-name>
+    <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barolo-ludo-docg/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>11500</product-id>
-    <extras>
-      <producer>Cantina Poderi Luigi Einaudi</producer>
-      <wine-name>Barolo Ludo DOCG</wine-name>
-      <appelation>Barolo e Monforte D’Alba,Piemonte</appelation>
-      <vintage>2015</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/barolo-ludo-luigi-einaudi.png</image>
-      <GTIN>8026879001018</GTIN>
-      <description>O Barolo é, sem dúvidas, um dos vinhos italianos mais conhecidos e reverenciados. Este, em específico, destaca-se ainda mais. O rótulo apresenta aromas exuberantes de frutas e especiarias que ao longo dos anos evoluem para couro e trufas. Em boca, é encorpado, volumoso, suculento e aveludado, com final longo e equilibrado. Além de tudo isso, o vinho tem grande potencial de envelhecimento e amadurece por 30 meses em barrica de carvalho seguido de um longo descanso em garrafa antes da comercializa</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece por 30 meses em barrica de carvalho seguido de um longo descanso em garrafa antes da comercialização.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/barbera-d’alba-doc-truffle-hunter-leda/p</link>
+    <inventory-count>26</inventory-count>
+    <product-id>12323</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi Luigi Einaudi Dogliani DOCG NV</product-name>
-    <price>239.7</price>
+    <product-name>undefined Barbera d’Asti DOCG Truffle Hunter Leda
+ 2020</product-name>
+    <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/dogliani-docg/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>11501</product-id>
-    <extras>
-      <producer>Cantina Poderi Luigi Einaudi</producer>
-      <wine-name>Dogliani DOCG</wine-name>
-      <appelation>Piemonte</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/2022-DEZ-PoderiLuigiEinaudi-Dogliani.png</image>
-      <GTIN>8026879002015</GTIN>
-      <description>Da mundialmente reconhecida Cantina Poderi Luigi Einaudi, este vinho apresenta aromas frutado com leve toque de amêndoa. Em boca, é fresco, equilibrado, com corpo médio e longa persistência.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda
+/p</link>
+    <inventory-count>33</inventory-count>
+    <product-id>12324</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi Luigi Einaudi Langhe Nebbiolo DOC 2020</product-name>
-    <price>319</price>
+    <product-name>Bosio Piemonte DOC Barbera Appassimento Truffle Hunter Leda 2020</product-name>
+    <price>87</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/langhe-nebbiolo-doc/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>11505</product-id>
-    <extras>
-      <producer>Cantina Poderi Luigi Einaudi</producer>
-      <wine-name>Langhe Nebbiolo DOC</wine-name>
-      <appelation>Piemonte</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/LANGHE-NEBBIOLO-TTO-750ML.png</image>
-      <GTIN>8026879005016</GTIN>
-      <description>Um verdadeiro clássico do Pìemonte, o vinho tem aromas de frutas negras, como ameixa e amora, e toques de baunilha. Em boca, é encorpado, macio, equilibrado e tem taninos bem estruturados.  O rótulo madurece por 12 meses em barricas de carvalho e mais dois meses em garrafa antes da comercialização.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece por 12 meses em barricas de carvalho e mais dois meses em garrafa antes da comercialização.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/piemonte-doc-barbera-appassimento-truffle-hunter-leda/p</link>
+    <inventory-count>5</inventory-count>
+    <product-id>12325</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Piano del Cerro Aglianico del Vulture Riserva DOC 2018</product-name>
-    <price>289</price>
+    <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda 2020</product-name>
+    <price>72</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/piano-del-cerro-aglianico-del-vulture-riserva-doc/p</link>
+    <link>https://www.grandeadega.com.br/langhe-doc-rosso-truffle-hunter-leda/p</link>
     <inventory-count>8</inventory-count>
-    <product-id>11830</product-id>
-    <extras>
-      <producer>Vigneti del Vulture</producer>
-      <wine-name>Piano del Cerro Aglianico del Vulture Riserva DOC</wine-name>
-      <appelation>Basilicata</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/piano-del-cerro-aglianico-del-vulture.png</image>
-      <GTIN>8019873924414</GTIN>
-      <description>Possui aromas de amoras e especiarias. Em boca apresenta notas de balsâmico, grande estrutura e final longo e persistente.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing>Amadurece em barrica de carvalho nova por 24 meses.</ageing>
-    </extras>
+    <product-id>12326</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Pipoli Aglianico del Vulture DOC 2019</product-name>
-    <price>126</price>
+    <product-name>Bosio Moscato d’Asti DOCG Truffle Hunter Leda
+ 2021</product-name>
+    <price>72</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pipoli-aglianico-del-vulture-doc/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>11831</product-id>
-    <extras>
-      <producer>Vigneti del Vulture</producer>
-      <wine-name>Pipoli Aglianico del Vulture DOC</wine-name>
-      <appelation>Basilicata</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/pipoli-aglianico-del-vulture.png</image>
-      <GTIN>8019873924315</GTIN>
-      <description>Da conhecida região da Basilicata, este tinto possui intensos aromas de cereja preta com notas de especiarias e baunilha. Em boca, apresenta ótima estrutura e taninos maduros. 40% do vinho é envelhecido em barris por um período de 10 meses e, posteriormente, estagia em garrafa durante 3 meses antes da comercialização.</description>
-      <alcohol>13.5%</alcohol>
-      <ageing>40% do vinho é envelhecido em barris por um período de 10 meses, posteriormente estagia em garrafa durante 3 meses antes da comercialização.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/moscato-d’asti-docg-truffle-hunter-leda
+/p</link>
+    <inventory-count>29</inventory-count>
+    <product-id>12327</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Pipoli Greco-Fiano IGT 2020</product-name>
-    <price>109.9</price>
+    <product-name>undefined Espumante Asti DOCG Dolce Millesimato
+ #N/A</product-name>
+    <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pipoli-greco-fiano-igt/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>11832</product-id>
-    <extras>
-      <producer>Vigneti del Vulture</producer>
-      <wine-name>Pipoli Greco-Fiano IGT</wine-name>
-      <appelation>Basilicata</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/pipoli-greco-fiano-igp.png</image>
-      <GTIN>8019873824219</GTIN>
-      <description>Este refrescante vinho branco é produzido com as uvas Greco e Fiano. Entre seus aromas, notas de frutas brancas. Em boca, é fresco e apresenta ótima acidez.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/espumante-asti-docg-dolce-millesimato
+/p</link>
+    <inventory-count>8</inventory-count>
+    <product-id>12328</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Pipoli Rosato  IGT 2018</product-name>
-    <price>109.9</price>
+    <product-name>Les Grand Chais de France Espumante Beau Rocher Brut branco #N/A</product-name>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pipoli-rosato--igt/p</link>
+    <link>https://www.grandeadega.com.br/espumante-beau-rocher-brut-branco/p</link>
+    <inventory-count>56</inventory-count>
+    <product-id>23312</product-id>
+  </product>
+  <product>
+    <product-name>Les Grand Chais de France Espumante Beau Rocher Brut Rosé #N/A</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-beau-rocher-brut-rose/p</link>
+    <inventory-count>31</inventory-count>
+    <product-id>23313</product-id>
+  </product>
+  <product>
+    <product-name>undefined Alambrado Chardonnay 2021</product-name>
+    <price>64.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/alambrado-chardonnay/p</link>
+    <inventory-count>8</inventory-count>
+    <product-id>23303</product-id>
+  </product>
+  <product>
+    <product-name>undefined Alambrado Bonarda 2020</product-name>
+    <price>64.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/alambrado-bonarda/p</link>
     <inventory-count>4</inventory-count>
-    <product-id>11833</product-id>
-    <extras>
-      <producer>Vigneti del Vulture</producer>
-      <wine-name>Pipoli Rosato  IGT</wine-name>
-      <appelation>Basilicata</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Rosé</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/pipoli-rosato-igt.png</image>
-      <GTIN>8019873924216</GTIN>
-      <description>Um rosé da Basilicata, o vinho tem aromas de cerejas pretas. Em boca, apresenta uma entrada fresca e equilibrada, com estrutura média.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
+    <product-id>23304</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Tufarello Nero di Troia IGT 2019</product-name>
-    <price>119.9</price>
+    <product-name>undefined Alambrado Cabernet Franc 2020</product-name>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/tufarello-nero-di-troia-igt/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>11834</product-id>
-    <extras>
-      <producer>Vigneti del Vulture</producer>
-      <wine-name>Tufarello Nero di Troia IGT</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/tuffarelo-nero-di-troia.png</image>
-      <GTIN>8019873147257</GTIN>
-      <description>Produzido pela Vigneti del Vulture, o vinho italiano apresenta intensos aromas frutados. Em boca, possui ótima estrutura e taninos equilibrados.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/alambrado-cabernet-franc/p</link>
+    <inventory-count>22</inventory-count>
+    <product-id>23305</product-id>
   </product>
   <product>
-    <product-name>Corbelli Primitivo 2021</product-name>
-    <price>54.9</price>
+    <product-name>undefined Gran Alambrado Cabernet Sauvignon 2020</product-name>
+    <price>92.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-primitivo/p</link>
-    <inventory-count>44</inventory-count>
-    <product-id>11836</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Primitivo</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2021</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/corbelli-primitivo.png</image>
-      <GTIN>8002153227091</GTIN>
-      <description>Perfeito para acompanhar pratos picantes, este tintop apresenta aromas frutados com notas de alcaçuz. Em boca, é encorpado, estruturado e tem taninos firmes.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/gran-alambrado-cabernet-sauvignon/p</link>
+    <inventory-count>9</inventory-count>
+    <product-id>23306</product-id>
   </product>
   <product>
-    <product-name>Corbelli Sangiovese 2019</product-name>
-    <price>54.9</price>
+    <product-name>undefined Gran Alambrado Blend Malbec e Cabernet Sauvignon 2020</product-name>
+    <price>92.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-sangiovese/p</link>
+    <link>https://www.grandeadega.com.br/gran-alambrado-blend-malbec-e-cabernet-sauvignon/p</link>
     <inventory-count>12</inventory-count>
-    <product-id>11837</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Sangiovese</wine-name>
-      <appelation>Puglia</appelation>
-      <vintage>2019</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/corbelli-sangiovese.png</image>
-      <GTIN>8002153219997</GTIN>
-      <description>Da Puglia, este vinho italiano tem excelente custo-benefício. O rótulo apresenta aromas frutados, que lembram cerejas e morangos, com notas de especiarias. Em boca, é equilibrado e levemente tânico.</description>
-      <alcohol>12.5%</alcohol>
-      <ageing />
-    </extras>
+    <product-id>23307</product-id>
   </product>
   <product>
-    <product-name>Corbelli Nero d'Avola 2020</product-name>
-    <price>54.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-    <inventory-count>41</inventory-count>
-    <product-id>11838</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Nero d'Avola</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/corbelli-nero-davola.png</image>
-      <GTIN>8002153227107</GTIN>
-      <description>Um siciliano com ótimo custo-benefício, o vinho apresenta aromas de frutas vermelhas e cereja preta. Em boca, é muito concentrado, poderoso e marcante.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Corbelli Montepulciano 2020</product-name>
-    <price>54.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-montepulciano/p</link>
-    <inventory-count>18</inventory-count>
-    <product-id>11839</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Montepulciano</wine-name>
-      <appelation>Abruzzo</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/corbelli_montepulciano.png</image>
-      <GTIN>8002153227114</GTIN>
-      <description>Este tinto é produzido em Abruzzo e apresenta aromas de frutas vermelhas maduras, notas florais e de especiarias. Em boca, é robusto e possui notas que lembram alcatrão.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Corbelli Pinot Grigio 2021</product-name>
-    <price>54.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-pinot-grigio/p</link>
-    <inventory-count>49</inventory-count>
-    <product-id>11840</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Pinot Grigio</wine-name>
-      <appelation>Sicília</appelation>
-      <vintage>2021</vintage>
-      <country>Itália</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/COD-867--1-.png</image>
-      <GTIN>8002153227121</GTIN>
-      <description>Refrescante, o siciliano Corbelli Pinot Grigio é perfeito para acompanhar carnes brancas, aperitivos e risotos. Este vinho branco apresenta aromas de frutas como maçã e pera, com toque de cítricos e florais. Em boca, tem ótima acidez e sabores de frutas brancas. Neste vinho, a vinificação inclui contato com a casca de parte do vinho para maior extrato e corpo.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing />
-    </extras>
-  </product>
-  <product>
-    <product-name>Corbelli Chianti DOCG 2020</product-name>
+    <product-name>undefined  Pata Negra Toro Tempranillo Blend 2020</product-name>
     <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-    <inventory-count>48</inventory-count>
-    <product-id>11841</product-id>
-    <extras>
-      <producer>Corbelli</producer>
-      <wine-name>Corbelli Chianti DOCG</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2020</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/corbelli-chianti.png</image>
-      <GTIN>8002153229064</GTIN>
-      <description>O vinho ganhador da disputada Medalha de Ouro no Gilbert &amp; Gaillard apresenta aromas florais que lembram violetas. Em boca, é gastronômico e tem notas de cerejas e frutas escuras.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/-pata-negra-toro-tempranillo-blend/p</link>
+    <inventory-count>15</inventory-count>
+    <product-id>14197</product-id>
   </product>
   <product>
-    <product-name>Tenuta di Ceppaiano Ceppaiano Violetta IGT Toscana 2013</product-name>
-    <price>172</price>
+    <product-name>undefined Luccarelli Bianco IGP Puglia 2020</product-name>
+    <price>87</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/ceppaiano-violetta-igt-toscana/p</link>
+    <link>https://www.grandeadega.com.br/luccarelli-bianco-igp-puglia/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>11448</product-id>
+  </product>
+  <product>
+    <product-name>undefined  Sperone Moscato #N/A</product-name>
+    <price>75</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-sperone-moscato/p</link>
+    <inventory-count>14</inventory-count>
+    <product-id>14195</product-id>
+  </product>
+  <product>
+    <product-name>undefined  Sperone Prosecco DOC Rosé Millesimato #N/A</product-name>
+    <price>108</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-sperone-prosecco-doc-rose-millesimato/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>14196</product-id>
+  </product>
+  <product>
+    <product-name>undefined  Castillo San Simón Shiraz #N/A</product-name>
+    <price>34</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-castillo-san-simon-shiraz/p</link>
+    <inventory-count>15</inventory-count>
+    <product-id>14234</product-id>
+  </product>
+  <product>
+    <product-name>undefined Reguengos Reserva dos Sócios 2020</product-name>
+    <price>149</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/reguengos-reserva-dos-socios/p</link>
+    <inventory-count>36</inventory-count>
+    <product-id>12293</product-id>
+  </product>
+  <product>
+    <product-name>Maxim’s Cuvée Brut #N/A</product-name>
+    <price>387</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/maxim’s-cuvee-brut/p</link>
     <inventory-count>3</inventory-count>
-    <product-id>11842</product-id>
-    <extras>
-      <producer>Tenuta di Ceppaiano</producer>
-      <wine-name>Ceppaiano Violetta IGT Toscana</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2013</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/COD-869.png</image>
-      <GTIN>8002153999851</GTIN>
-      <description>Mais que um vinho, uma verdadeira obra de arte!! Este rótulo é elaborado com as uvas Sangiovese (90%) e Cabernet Sauvignon (10%), e apresenta aromas complexos com notas de frutas, menta, alcaçuz, carvalho e café torrado. Em boca, é untuoso e possui longo final. A arte do rótulo foi inspirada no trabalho da artista Violetta Viola.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing>Amadurece por 12 meses em barricas de carvalho francês.</ageing>
-    </extras>
+    <product-id>21376</product-id>
   </product>
   <product>
-    <product-name>Sandro Forte e Figlio Forte Ambrone Etichetta Nera IGT Toscana 2018</product-name>
-    <price>67</price>
+    <product-name>Maxim’s Cuvée Brut com Cartucho #N/A</product-name>
+    <price>387</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-    <inventory-count>75</inventory-count>
-    <product-id>11843</product-id>
-    <extras>
-      <producer>Sandro Forte e Figlio</producer>
-      <wine-name>Forte Ambrone Etichetta Nera IGT Toscana</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2018</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/forte-ambrone-etichetta-nera.png</image>
-      <GTIN>8002153229200</GTIN>
-      <description>Perfeito para acompanhar pratos com carnes vermelhas grelhadas, este vinho toscano é elaborado com as uvas Sangiovese (85%), Merlot (10%) e Syrah (5%). Apresenta aromas de cerejas, frutas pretas e notas de baunilha. Em boca, destacam-se seus taninos delicados e macios. Esse tinto representa as tradições e ao mesmo tempo o espírito inovador da Toscana.</description>
-      <alcohol>13.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/maxim’s-cuvee-brut-com-cartucho/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>21377</product-id>
   </product>
   <product>
-    <product-name>Sandro Forte e Figlio Forte Ambrone Vino Rosso NV</product-name>
+    <product-name>Bodega Norton Gernot Langes 2018</product-name>
+    <price>579</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/gernot-langes/p</link>
+    <inventory-count>4</inventory-count>
+    <product-id>11559</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Privado Family Blend 2019</product-name>
+    <price>149.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/privado-family-blend/p</link>
+    <inventory-count>8</inventory-count>
+    <product-id>11560</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Altura Malbec #N/A</product-name>
+    <price>112</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/altura-malbec/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>11561</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Altura Cabernet Franc 2020</product-name>
+    <price>112</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/altura-cabernet-franc/p</link>
+    <inventory-count>7</inventory-count>
+    <product-id>11562</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Reserva Malbec 2020</product-name>
+    <price>74.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-reserva-malbec/p</link>
+    <inventory-count>15</inventory-count>
+    <product-id>11563</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Reserva Cabernet Sauvignon 2020</product-name>
+    <price>74.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-reserva-cabernet-sauvignon/p</link>
+    <inventory-count>33</inventory-count>
+    <product-id>11564</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Reserva Chardonnay 2021</product-name>
+    <price>74.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-reserva-chardonnay/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>11565</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton D.O.C. Malbec 2021</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/forte-ambrone-vino-rosso/p</link>
-    <inventory-count>37</inventory-count>
-    <product-id>11844</product-id>
-    <extras>
-      <producer>Sandro Forte e Figlio</producer>
-      <wine-name>Forte Ambrone Vino Rosso</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>NV</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/forte-ambrone-vino-rosso-ditalia.png</image>
-      <GTIN>8002153226858</GTIN>
-      <description>Encorpado e de ótimo custo-benefício, o Forte Ambrone Vino Rosso apresenta aromas intensos de frutas vermelhas e cerejas negras. Em boca, é macio e apresenta taninos sedosos.</description>
-      <alcohol>14.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/norton-d-o-c--malbec/p</link>
+    <inventory-count>25</inventory-count>
+    <product-id>11566</product-id>
   </product>
   <product>
-    <product-name>Tenuta di Ceppaiano Ceppaiano Alle Viole Toscana IGT 2014</product-name>
-    <price>119.9</price>
+    <product-name>Bodega Norton Norton Select Malbec 2021</product-name>
+    <price>58</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/ceppaiano-alle-viole-toscana-igt/p</link>
-    <inventory-count>8</inventory-count>
-    <product-id>11845</product-id>
-    <extras>
-      <producer>Tenuta di Ceppaiano</producer>
-      <wine-name>Ceppaiano Alle Viole Toscana IGT</wine-name>
-      <appelation>Toscana</appelation>
-      <vintage>2014</vintage>
-      <country>Itália</country>
-      <color>Tinto</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/ceppaian-alle-viole-toscana-igt.png</image>
-      <GTIN>8002153999844</GTIN>
-      <description>O Ceppaiano Alle Viole Toscana IGT não foi premiado por acaso. Elegante, o vinho tinto possuia romas que lembram balsâmico, hortelã e eucalipto. Em boca, apresenta acidez suave e sabores de frutas escuras. A arte do seu rótulo foi inspirada no trabalho da artista Violetta Viola.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing>Estagia por 6 meses em barrica de carvalho francês.</ageing>
-    </extras>
+    <link>https://www.grandeadega.com.br/norton-select-malbec/p</link>
+    <inventory-count>17</inventory-count>
+    <product-id>11567</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Santola Vinho Verde 2020</product-name>
-    <price>49.9</price>
+    <product-name>Bodega Norton Norton Select Chardonnay 2022</product-name>
+    <price>57.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/santola-vinho-verde/p</link>
-    <inventory-count>27</inventory-count>
-    <product-id>12004</product-id>
-    <extras>
-      <producer>Caves Messias</producer>
-      <wine-name>Santola Vinho Verde</wine-name>
-      <appelation>Minho</appelation>
-      <vintage>2020</vintage>
-      <country>Portugal</country>
-      <color>Branco</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/santola-vinho-verde.png</image>
-      <GTIN>5601292124013</GTIN>
-      <description>Um Vinho Verde de ótimo custo-benefício, o Santola apresenta aromas frutados, intensos e bom frescor. É leve e muito fácil de beber.</description>
-      <alcohol>9.0%</alcohol>
-      <ageing />
-    </extras>
+    <link>https://www.grandeadega.com.br/norton-select-chardonnay/p</link>
+    <inventory-count>21</inventory-count>
+    <product-id>11568</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Espumante Grande Reserva Bairrada Brut 2014</product-name>
-    <price>206</price>
+    <product-name>Bodega Norton Norton Select Cabernet Sauvignon 2021</product-name>
+    <price>58</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-grande-reserva-bairrada-brut/p</link>
+    <link>https://www.grandeadega.com.br/norton-select-cabernet-sauvignon/p</link>
+    <inventory-count>18</inventory-count>
+    <product-id>11569</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Sexy Fish Malbec 2021</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/sexy-fish-malbec/p</link>
+    <inventory-count>40</inventory-count>
+    <product-id>11570</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Sexy Fish Cabernet Franc 2022</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/sexy-fish-cabernet-franc/p</link>
+    <inventory-count>19</inventory-count>
+    <product-id>11571</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Espumante Norton Extra Brut Branco #N/A</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-norton-extra-brut-branco/p</link>
+    <inventory-count>15</inventory-count>
+    <product-id>11573</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Espumante Norton Brut Rosé #N/A</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-norton-brut-rose/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>11574</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Porteño Malbec 2021</product-name>
+    <price>33</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/porteño-malbec/p</link>
+    <inventory-count>101</inventory-count>
+    <product-id>11575</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Porteño Cabernet Sauvignon 2022</product-name>
+    <price>32.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/porteño-cabernet-sauvignon/p</link>
+    <inventory-count>39</inventory-count>
+    <product-id>11576</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Porteño Suave e Refrescante Branco 2021</product-name>
+    <price>33</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/porteño-suave-e-refrescante-branco/p</link>
+    <inventory-count>3</inventory-count>
+    <product-id>11578</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Porteño Chardonnay 2022</product-name>
+    <price>33</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/porteño-chardonnay/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>11577</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Porteño Suave e Refrescante Tinto 2021</product-name>
+    <price>33</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/porteño-suave-e-refrescante-tinto/p</link>
+    <inventory-count>18</inventory-count>
+    <product-id>11579</product-id>
+  </product>
+  <product>
+    <product-name>Putos Tinto Alentejo DOC 2021</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/putos-tinto-alentejo-doc/p</link>
+    <inventory-count>125</inventory-count>
+    <product-id>12286</product-id>
+  </product>
+  <product>
+    <product-name>Putos Branco Alentejo DOC 2021</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/putos-branco-alentejo-doc/p</link>
+    <inventory-count>50</inventory-count>
+    <product-id>12287</product-id>
+  </product>
+  <product>
+    <product-name>Putos Rosé Alentejo DOC 2021</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/putos-rose-alentejo-doc/p</link>
+    <inventory-count>63</inventory-count>
+    <product-id>12288</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Sexy Fish Blanc de Blancs 2022</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/sexy-fish-blanc-de-blancs/p</link>
+    <inventory-count>39</inventory-count>
+    <product-id>11572</product-id>
+  </product>
+  <product>
+    <product-name>undefined Espumante Messias Extra Brut tinto #N/A</product-name>
+    <price>89.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-messias-extra-brut-tinto/p</link>
+    <inventory-count>5</inventory-count>
+    <product-id>12268</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina  Estelar 57 Sauvignon Blanc 2021</product-name>
+    <price>56.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-estelar-57-sauvignon-blanc/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>23127</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina  Estelar 57 Merlot 2020</product-name>
+    <price>56.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-estelar-57-merlot/p</link>
+    <inventory-count>15</inventory-count>
+    <product-id>23130</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina  Estelar 57 Chardonnay 2021</product-name>
+    <price>56.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/-estelar-57-chardonnay/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>23131</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina Estelar 57 Cabernet Sauvignon 2020</product-name>
+    <price>56.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/estelar-57-cabernet-sauvignon/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>23129</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina Estelar 57 Carmenère 2020</product-name>
+    <price>56.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/estelar-57-carmenere/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>23128</product-id>
+  </product>
+  <product>
+    <product-name>Provinco Barolo DOCG Cantine del Borgo Reale 2016</product-name>
+    <price>409</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/barolo-docg-cantine-del-borgo-reale/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>11521</product-id>
+  </product>
+  <product>
+    <product-name>Provinco Langhe Nebbiolo DOC Cantine del Borgo Reale 2019</product-name>
+    <price>179</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/langhe-nebbiolo-doc-cantine-del-borgo-reale/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>11522</product-id>
+  </product>
+  <product>
+    <product-name>Provinco Barbera d’Asti DOCG Cantine del Borgo Reale 2019</product-name>
+    <price>164</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-cantine-del-borgo-reale/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>11523</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Voga Pinot Grigio Delle Venezie DOC 2020</product-name>
+    <price>94.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/voga-pinot-grigio-delle-venezie-doc/p</link>
+    <inventory-count>29</inventory-count>
+    <product-id>11524</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Voga Rosé Trevenezie IGT #N/A</product-name>
+    <price>94.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/voga-rose-trevenezie-igt/p</link>
+    <inventory-count>21</inventory-count>
+    <product-id>11525</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Voga Merlot Terre Siciliane IGT 2020</product-name>
+    <price>94.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/voga-merlot-terre-siciliane-igt/p</link>
+    <inventory-count>25</inventory-count>
+    <product-id>11526</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Espumante Belvino Rosé Brut 2022</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-belvino-rose-brut/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>11527</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Amarone della Valpolicella DOCG Aristocratico 2018</product-name>
+    <price>294</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/amarone-della-valpolicella-docg-aristocratico/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>11528</product-id>
+  </product>
+  <product>
+    <product-name>Enoitalia Valpolicella Ripasso DOC Aristocratico 2019</product-name>
+    <price>146</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/valpolicella-ripasso-doc-aristocratico/p</link>
+    <inventory-count>10</inventory-count>
+    <product-id>11529</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Altura Pinot Noir 2022</product-name>
+    <price>112</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-altura-pinot-noir/p</link>
+    <inventory-count>3</inventory-count>
+    <product-id>11581</product-id>
+  </product>
+  <product>
+    <product-name>undefined Espumante 101 Bubbles Extra Brut NV</product-name>
+    <price>79.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-101-bubbles-extra-brut/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>11582</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Lote Negro 2020</product-name>
+    <price>232</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-lote-negro/p</link>
+    <inventory-count>4</inventory-count>
+    <product-id>11583</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Lote Lunlunta 2020</product-name>
+    <price>259</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-lote-lunlunta/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>11584</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Lote Finca La Colônia 2020</product-name>
+    <price>259</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-lote-finca-la-colonia/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>11585</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Lote Agrelo 2020</product-name>
+    <price>259</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-lote-agrelo/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>11586</product-id>
+  </product>
+  <product>
+    <product-name>Caves Messias Triunvirato nº 7 2022</product-name>
+    <price>436</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/triunvirato-nº-7/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>12166</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Alambrado Etiqueta Negra Malbec 375ml NV</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>375 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/alambrado-etiqueta-negra-malbec-375ml/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23314</product-id>
+  </product>
+  <product>
+    <product-name>Espumante Sperone Celebration Brut NV</product-name>
+    <price>44</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/espumante-sperone-celebration-brut/p</link>
+    <inventory-count>24</inventory-count>
+    <product-id>35082</product-id>
+  </product>
+  <product>
+    <product-name>Luccarelli Rosato Puglia NV</product-name>
+    <price>103</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/luccarelli-rosato-puglia/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>35080</product-id>
+  </product>
+  <product>
+    <product-name>undefined Montes Toscanini Reserva Familiar Cabernet Sauvignon 2020</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/montes-toscanini-reserva-familiar-cabernet-sauvignon/p</link>
+    <inventory-count>47</inventory-count>
+    <product-id>35084</product-id>
+  </product>
+  <product>
+    <product-name>undefined Luccarelli Primitivo Puglia IGP Magnum 2018</product-name>
+    <price>199</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp-magnum/p</link>
+    <inventory-count>5</inventory-count>
+    <product-id>35081</product-id>
+  </product>
+  <product>
+    <product-name>undefined Veuve du Vernay brut Black Edition Limitada NV</product-name>
+    <price>76</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/veuve-du-vernay-brut-black-edition-limitada/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>21408</product-id>
+  </product>
+  <product>
+    <product-name>undefined Tarefa Branco NV</product-name>
+    <price>219</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/tarefa-branco/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>12341</product-id>
+  </product>
+  <product>
+    <product-name>João Portugal Ramos Quinta de Foz de Arouce Tinto 2017</product-name>
+    <price>194</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/quinta-de-foz-de-arouce-tinto/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>12337</product-id>
+  </product>
+  <product>
+    <product-name>João Portugal Ramos Quinta de Foz de Arouce branco 2021</product-name>
+    <price>194</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/quinta-de-foz-de-arouce-branco/p</link>
+    <inventory-count>10</inventory-count>
+    <product-id>12338</product-id>
+  </product>
+  <product>
+    <product-name>João Portugal Ramos Quinta de Foz de Arouce Vinhas Velhas de Santa Maria 2017</product-name>
+    <price>899</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/quinta-de-foz-de-arouce-vinhas-velhas-de-santa-maria/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>12339</product-id>
+  </product>
+  <product>
+    <product-name>João Portugal Ramos Vinha do Jeremias Single Vineyard DOC Alentejo 2019</product-name>
+    <price>329</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/vinha-do-jeremias-single-vineyard-doc-alentejo/p</link>
+    <inventory-count>1</inventory-count>
+    <product-id>12335</product-id>
+  </product>
+  <product>
+    <product-name>João Portugal Ramos Vinha de São Lázaro Single Vineyard DOC Alentejo 2019</product-name>
+    <price>329</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/vinha-de-sao-lazaro-single-vineyard-doc-alentejo/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>12336</product-id>
+  </product>
+  <product>
+    <product-name>undefined Cava Brut Don Román Reserva Imperial NV</product-name>
+    <price>179.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>undefined</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/cava-brut-don-roman-reserva-imperial/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>14101</product-id>
+  </product>
+  <product>
+    <product-name>undefined Duorum LBV - Late Bottled Vintage 2018 2018</product-name>
+    <price>229</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/duorum-lbv---late-bottled-vintage-2018/p</link>
+    <inventory-count>4</inventory-count>
+    <product-id>12298</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Norton Reserva Cabernet Franc 2021</product-name>
+    <price>74.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/norton-reserva-cabernet-franc/p</link>
     <inventory-count>7</inventory-count>
-    <product-id>12005</product-id>
-    <extras>
-      <producer>Caves Messias</producer>
-      <wine-name>Espumante Grande Reserva Bairrada Brut</wine-name>
-      <appelation>Bairrada</appelation>
-      <vintage>2014</vintage>
-      <country>Portugal</country>
-      <color>Espumante</color>
-      <image>https://grandeadega.vteximg.com.br/arquivos/espumante-grande-reserva-bairrada-brut.png</image>
-      <GTIN>5601292131431</GTIN>
-      <description>Especial, este espumante tem produção limitada a poucas garrafas. O rótulo é elaborado pelo método tradicional (segunda fermentação em garrafa) e apresenta intenso aromas frutados e de panificação, resultado do período sur lies. Em boca, é cremoso, frutado e com acidez prolongada.</description>
-      <alcohol>12.0%</alcohol>
-      <ageing>Permanece 48 meses em contato com as borras das leveduras.</ageing>
-    </extras>
+    <product-id>11587</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Norton Sexy Fish Rosé 2022</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/sexy-fish-rose/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>11588</product-id>
+  </product>
+  <product>
+    <product-name>Bosio Truffle Hunter Leda Langhe Chardonnay DOC 2021</product-name>
+    <price>79</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/truffle-hunter-leda-langhe-chardonnay-doc/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>12329</product-id>
   </product>
 </vivino-product-list>
 
