@@ -1,529 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-28T14:17:15.449Z</feed-generation-date>
+    <feed-generation-date>2023-02-28T14:22:31.434Z</feed-generation-date>
   </meta-data>
   <product>
-    <product-name>undefined Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes Magnum 2017</product-name>
-    <price>469</price>
+    <product-name>Quinta do Zambujeiro Monte do Zambujeiro #N/A</product-name>
+    <price>195</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>1,5 L</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits-les-vignes-hautes-magnum/p</link>
+    <link>https://www.grandeadega.com.br/monte-do-zambujeiro/p</link>
     <inventory-count>0</inventory-count>
-    <product-id>23278</product-id>
+    <product-id>13055</product-id>
   </product>
   <product>
-    <product-name>Moillard Meursault Premier Cru Le Poruzot 2016</product-name>
-    <price>1077</price>
+    <product-name>Bodega Santa Julia Finca Beltran Duo Tempranillo e Malbec 2020</product-name>
+    <price>38.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/meursault-premier-cru-le-poruzot/p</link>
+    <link>https://www.grandeadega.com.br/finca-beltran-duo-tempranillo-e-malbec/p</link>
+    <inventory-count>208</inventory-count>
+    <product-id>23294</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Duo Syrah e Malbec 2020</product-name>
+    <price>38.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-duo-syrah-e-malbec/p</link>
+    <inventory-count>383</inventory-count>
+    <product-id>23295</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Duo Chenin e Chardonnay 2020</product-name>
+    <price>38.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-duo-chenin-e-chardonnay/p</link>
+    <inventory-count>124</inventory-count>
+    <product-id>23296</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Duo Malbec e Syrah Rosé 2020</product-name>
+    <price>38.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-duo-malbec-e-syrah-rose/p</link>
+    <inventory-count>549</inventory-count>
+    <product-id>23297</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Malbec 2020</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-malbec/p</link>
+    <inventory-count>359</inventory-count>
+    <product-id>23298</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Cabernet Sauvignon 2020</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-cabernet-sauvignon/p</link>
+    <inventory-count>185</inventory-count>
+    <product-id>23299</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Syrah Rosé 2020</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-syrah-rose/p</link>
+    <inventory-count>107</inventory-count>
+    <product-id>23300</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Bonarda 2020</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-bonarda/p</link>
+    <inventory-count>143</inventory-count>
+    <product-id>23301</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Finca Beltran Sauvignon Blanc 2020</product-name>
+    <price>39.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/finca-beltran-sauvignon-blanc/p</link>
+    <inventory-count>106</inventory-count>
+    <product-id>23302</product-id>
+  </product>
+  <product>
+    <product-name>Altolandon Rayuelo Bobal 2014</product-name>
+    <price>169.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/rayuelo-bobal/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>23246</product-id>
+  </product>
+  <product>
+    <product-name>Altolandon Syrah, Grenache e Cabernet Franc 2012</product-name>
+    <price>229.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/altolandon-syrah--grenache-e-cabernet-franc/p</link>
     <inventory-count>12</inventory-count>
-    <product-id>23279</product-id>
+    <product-id>23247</product-id>
   </product>
   <product>
-    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  2019</product-name>
-    <price>169</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/morgon-les-collines-cru-de-beaujolais-/p</link>
-    <inventory-count>0</inventory-count>
-    <product-id>23280</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Moulin-à-Vent Les Tuileries Tinto Cru de Beaujolais 2019</product-name>
-    <price>189</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/moulin-a-vent-les-tuileries-tinto-cru-de-beaujolais/p</link>
-    <inventory-count>0</inventory-count>
-    <product-id>23281</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Nuit-Saint-Georges Premier Cru Aux Boudots 2015</product-name>
-    <price>1105</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nuit-saint-georges-premier-cru-aux-boudots/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>23282</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Pommard Premier Cru Les Charmots 2015</product-name>
-    <price>909</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pommard-premier-cru-les-charmots/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>23283</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Pouilly-Fuissé Sous la Grotte 2019</product-name>
-    <price>398</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pouilly-fuisse-sous-la-grotte/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>23285</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Les Violettes Côtes du Rhône  2019</product-name>
-    <price>95.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/les-violettes-cotes-du-rhone-/p</link>
-    <inventory-count>8</inventory-count>
-    <product-id>23286</product-id>
-  </product>
-  <product>
-    <product-name>Moillard Volnay Premier Cru Clos des Chênes 2018</product-name>
-    <price>759</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/volnay-premier-cru-clos-des-chenes/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>23287</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Bag in Box Olaria Tinto 2020</product-name>
-    <price>160</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>5 L</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bag-in-box-olaria-tinto/p</link>
-    <inventory-count>7</inventory-count>
-    <product-id>12132</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Bag in Box Olaria Branco 2020</product-name>
-    <price>160</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>5 L</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bag-in-box-olaria-branco/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>12149</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Bag in Box Olaria Rosé 2020</product-name>
-    <price>176</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>5 L</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bag-in-box-olaria-rose/p</link>
-    <inventory-count>14</inventory-count>
-    <product-id>12243</product-id>
-  </product>
-  <product>
-    <product-name>Champagne Mandois Rosé Gran Reserva #N/A</product-name>
-    <price>439</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/champagne-mandois-rose-gran-reserva/p</link>
-    <inventory-count>17</inventory-count>
-    <product-id>14190</product-id>
-  </product>
-  <product>
-    <product-name>Champagne Mandois Blanc de Noirs 2015 #N/A</product-name>
-    <price>435</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/champagne-mandois-blanc-de-noirs-2015/p</link>
-    <inventory-count>3</inventory-count>
-    <product-id>14191</product-id>
-  </product>
-  <product>
-    <product-name>Domaine Denis Dubourdieu Château Reynon Sauvignon Blanc 2019 2019</product-name>
-    <price>169</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-reynon-sauvignon-blanc-2019/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>21956</product-id>
-  </product>
-  <product>
-    <product-name>Domaine Denis Dubourdieu Château Reynon 2018 #N/A</product-name>
-    <price>199</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-reynon-2018/p</link>
-    <inventory-count>0</inventory-count>
-    <product-id>21957</product-id>
-  </product>
-  <product>
-    <product-name>Domaine Denis Dubourdieu Château Haura 2016 #N/A</product-name>
+    <product-name>Altolandon L’Ame Malbec 2014</product-name>
     <price>229</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-haura-2016/p</link>
+    <link>https://www.grandeadega.com.br/l’ame-malbec/p</link>
+    <inventory-count>10</inventory-count>
+    <product-id>23248</product-id>
+  </product>
+  <product>
+    <product-name>Altolandon Mil Historias Bobal 2018</product-name>
+    <price>115</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/mil-historias-bobal/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>23249</product-id>
+  </product>
+  <product>
+    <product-name>Altolandon Mil Historias Garnacha 2018</product-name>
+    <price>115</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/mil-historias-garnacha/p</link>
+    <inventory-count>13</inventory-count>
+    <product-id>23250</product-id>
+  </product>
+  <product>
+    <product-name>Altolandon Mil Historias Syrah 2018</product-name>
+    <price>115</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/mil-historias-syrah/p</link>
     <inventory-count>12</inventory-count>
-    <product-id>21958</product-id>
+    <product-id>23251</product-id>
   </product>
   <product>
-    <product-name>Nony Borie Château Caronne Ste. Gemme 2016 2016</product-name>
-    <price>228</price>
+    <product-name>Altolandon Mil Historias Tempranillo 2018</product-name>
+    <price>115</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-caronne-ste--gemme-2016/p</link>
-    <inventory-count>15</inventory-count>
-    <product-id>21436</product-id>
+    <link>https://www.grandeadega.com.br/mil-historias-tempranillo/p</link>
+    <inventory-count>20</inventory-count>
+    <product-id>23252</product-id>
   </product>
   <product>
-    <product-name>Domaine Denis Dubourdieu Château Doisy-Daëne Grand Vin Sec 2019 2019</product-name>
-    <price>369</price>
+    <product-name>Altolandon Mil Historias Malbec 2018</product-name>
+    <price>115</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-doisy-daene-grand-vin-sec-2019/p</link>
-    <inventory-count>9</inventory-count>
-    <product-id>21264</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Terras d'el Rei Tinto 2021</product-name>
-    <price>38</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>46</inventory-count>
-    <product-id>12124</product-id>
-  </product>
-  <product>
-    <product-name>Santa Carolina Reservado Cabernet Sauvignon 2020</product-name>
-    <price>35.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>39</inventory-count>
-    <product-id>23001</product-id>
-  </product>
-  <product>
-    <product-name>Caves Messias Messias Clarete 2021</product-name>
-    <price>39.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/messias-clarete/p</link>
-    <inventory-count>13</inventory-count>
-    <product-id>12002</product-id>
-  </product>
-  <product>
-    <product-name>Caves Messias Messias Tinto 2021</product-name>
-    <price>39.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/messias-tinto/p</link>
-    <inventory-count>24</inventory-count>
-    <product-id>12001</product-id>
-  </product>
-  <product>
-    <product-name>Finca Fella Cala Rey Tinto 2020</product-name>
-    <price>59</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/cala-rey-tinto/p</link>
-    <inventory-count>13</inventory-count>
-    <product-id>25041</product-id>
-  </product>
-  <product>
-    <product-name>Cantina Negrar La Sorte Bardolino DOC 2020</product-name>
-    <price>69.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/la-sorte-bardolino-doc/p</link>
-    <inventory-count>11</inventory-count>
-    <product-id>24228</product-id>
-  </product>
-  <product>
-    <product-name>Cantina Negrar La Sorte Valpolicella Classico DOC 2020</product-name>
-    <price>83.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/la-sorte-valpolicella-classico-doc/p</link>
+    <link>https://www.grandeadega.com.br/mil-historias-malbec/p</link>
     <inventory-count>18</inventory-count>
-    <product-id>24229</product-id>
+    <product-id>23253</product-id>
   </product>
   <product>
-    <product-name>Cantina Negrar La Sorte Valpolicella Ripasso DOC Superiore 2019</product-name>
-    <price>157</price>
+    <product-name>Château Haut Laulion Bordeaux Supérieur AOP Tinto 2018</product-name>
+    <price>89.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/la-sorte-valpolicella-ripasso-doc-superiore/p</link>
-    <inventory-count>17</inventory-count>
-    <product-id>24230</product-id>
+    <link>https://www.grandeadega.com.br/chateau-haut-laulion-bordeaux-superieur-aop-tinto/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>23255</product-id>
   </product>
   <product>
-    <product-name>Cantina Negrar Amarone dela Valpolicella DOCG 2018</product-name>
-    <price>339</price>
+    <product-name>Château Dubois Claverie Tinto 2018</product-name>
+    <price>85</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/amarone-dela-valpolicella-docg/p</link>
-    <inventory-count>15</inventory-count>
-    <product-id>24231</product-id>
+    <link>https://www.grandeadega.com.br/chateau-dubois-claverie-tinto/p</link>
+    <inventory-count>4</inventory-count>
+    <product-id>23258</product-id>
   </product>
   <product>
-    <product-name>Carmim Olaria Suave Branco 2019</product-name>
-    <price>38</price>
+    <product-name>Château Laubès Elevé em Fûts de Chêne 2016</product-name>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/olaria-suave-branco/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>12176</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Olaria Suave Tinto 2019</product-name>
-    <price>38</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/olaria-suave-tinto/p</link>
-    <inventory-count>166</inventory-count>
-    <product-id>12172</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Olaria Suave Rosé 2021</product-name>
-    <price>38</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/olaria-suave-rose/p</link>
+    <link>https://www.grandeadega.com.br/chateau-laubes-eleve-em-futs-de-chene/p</link>
     <inventory-count>13</inventory-count>
-    <product-id>12244</product-id>
+    <product-id>23259</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Sercial 10 anos
- #N/A</product-name>
-    <price>364</price>
+    <product-name>Château Laubès Sauvignon Blanc 2019</product-name>
+    <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-sercial-10-anos
-/p</link>
-    <inventory-count>11</inventory-count>
-    <product-id>12080</product-id>
+    <link>https://www.grandeadega.com.br/chateau-laubes-sauvignon-blanc/p</link>
+    <inventory-count>8</inventory-count>
+    <product-id>23260</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Verdelho 10 Anos - Meio Seco
- #N/A</product-name>
-    <price>364</price>
+    <product-name>Château des Maures Lalande de Pomerol  2015</product-name>
+    <price>206</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-verdelho-10-anos---meio-seco
-/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>12081</product-id>
+    <link>https://www.grandeadega.com.br/chateau-des-maures-lalande-de-pomerol-/p</link>
+    <inventory-count>27</inventory-count>
+    <product-id>23261</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Boal 10 anos - Meio Doce
- #N/A</product-name>
-    <price>377</price>
+    <product-name>Château Troupian Haut-Médoc #N/A</product-name>
+    <price>159</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-boal-10-anos---meio-doce
-/p</link>
-    <inventory-count>1</inventory-count>
-    <product-id>12079</product-id>
-  </product>
-  <product>
-    <product-name>undefined Justino’s Madeira Malvasia 10 anos - Doce
- #N/A</product-name>
-    <price>364</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-malvasia-10-anos---doce
-/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>12082</product-id>
-  </product>
-  <product>
-    <product-name>Justino’s Madeira Justino's Madeira Colheita 1997 #N/A</product-name>
-    <price>577</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1997/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>12303</product-id>
-  </product>
-  <product>
-    <product-name>Justino’s Madeira Justino's Madeira Colheita 1999 - Doce
- #N/A</product-name>
-    <price>532</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1999---doce
-/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>12304</product-id>
-  </product>
-  <product>
-    <product-name>Justino’s Madeira Colheita 1996 - Doce
- #N/A</product-name>
-    <price>659</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1996---doce
-/p</link>
+    <link>https://www.grandeadega.com.br/chateau-troupian-haut-medoc/p</link>
     <inventory-count>0</inventory-count>
-    <product-id>12306</product-id>
+    <product-id>23262</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Colheita 1998 - Doce
- #N/A</product-name>
-    <price>825</price>
+    <product-name>Clos Beauregard Pomerol 2016</product-name>
+    <price>599</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1998---doce
-/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>12307</product-id>
+    <link>https://www.grandeadega.com.br/clos-beauregard-pomerol/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>23263</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Colheita 2003 - Doce #N/A</product-name>
+    <product-name>Moillard Aloxe-Corton Les Affouages 2017</product-name>
     <price>519</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-2003---doce/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>12308</product-id>
+    <link>https://www.grandeadega.com.br/aloxe-corton-les-affouages/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>23265</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Boal 10 anos - Meio Doce - 375 ml
-
- #N/A</product-name>
-    <price>238</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>375 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-boal-10-anos---meio-doce---375-ml
-
-/p</link>
-    <inventory-count>10</inventory-count>
-    <product-id>12309</product-id>
-  </product>
-  <product>
-    <product-name>Veuve du Vernay Baby Brut
- #N/A</product-name>
-    <price>36</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>187 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/veuve-du-vernay-baby-brut
-/p</link>
-    <inventory-count>37</inventory-count>
-    <product-id>21265</product-id>
-  </product>
-  <product>
-    <product-name>Cims de Porrera Vi de Vila Porrera 2016 2016</product-name>
-    <price>439</price>
+    <product-name>Moillard Corton Grand Cru Les Grandes Lolières #N/A</product-name>
+    <price>995</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/vi-de-vila-porrera-2016/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>14187</product-id>
+    <link>https://www.grandeadega.com.br/corton-grand-cru-les-grandes-lolieres/p</link>
+    <inventory-count>1</inventory-count>
+    <product-id>23271</product-id>
   </product>
   <product>
-    <product-name>Finca Fella Cala Rey Branco #N/A</product-name>
-    <price>59.9</price>
+    <product-name>Moillard Puligny-Montrachet Vieilles Vignes Branco #N/A</product-name>
+    <price>859</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/cala-rey-branco/p</link>
-    <inventory-count>7</inventory-count>
-    <product-id>25043</product-id>
+    <link>https://www.grandeadega.com.br/puligny-montrachet-vieilles-vignes-branco/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23284</product-id>
   </product>
   <product>
-    <product-name>Espumante Imperial Vintage Rosé Brut Sperone #N/A</product-name>
-    <price>66.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-imperial-vintage-rose-brut-sperone/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>14192</product-id>
-  </product>
-  <product>
-    <product-name>Espumante Asti DOCG Branco Sperone #N/A</product-name>
-    <price>114.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-asti-docg-branco-sperone/p</link>
-    <inventory-count>9</inventory-count>
-    <product-id>14193</product-id>
-  </product>
-  <product>
-    <product-name>Espumante Prosecco DOC Branco Sperone #N/A</product-name>
-    <price>104.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-prosecco-doc-branco-sperone/p</link>
-    <inventory-count>14</inventory-count>
-    <product-id>14194</product-id>
-  </product>
-  <product>
-    <product-name>Filipa Pato Post Quercus Bical 2020</product-name>
-    <price>279.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/post-quercus-bical/p</link>
-    <inventory-count>2</inventory-count>
-    <product-id>12276</product-id>
-  </product>
-  <product>
-    <product-name>Filipa Pato Território Vivo Baga  2020</product-name>
+    <product-name>Château Ducluzeau Listrac-Médoc 2015</product-name>
     <price>279</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/territorio-vivo-baga-/p</link>
-    <inventory-count>4</inventory-count>
-    <product-id>12277</product-id>
+    <link>https://www.grandeadega.com.br/chateau-ducluzeau-listrac-medoc/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>23288</product-id>
   </product>
   <product>
-    <product-name>Club Masterchef MasterChef Tempranillo
- 2020</product-name>
-    <price>69.9</price>
+    <product-name>Château Dauzac Labastide Dauzac Margaux 2016</product-name>
+    <price>414</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/masterchef-tempranillo
-/p</link>
+    <link>https://www.grandeadega.com.br/labastide-dauzac-margaux/p</link>
     <inventory-count>13</inventory-count>
-    <product-id>24135</product-id>
+    <product-id>23289</product-id>
+  </product>
+  <product>
+    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild  #N/A</product-name>
+    <price>369</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/l’enclos-de-puisseguin-saint-emilion-domaines-edmond-de-rothschild-/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23290</product-id>
+  </product>
+  <product>
+    <product-name>Château Maucaillou AOC Moulis Tinto 2014</product-name>
+    <price>459</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-maucaillou-aoc-moulis-tinto/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>23291</product-id>
+  </product>
+  <product>
+    <product-name>Château Maucaillou Haut-Médoc AOC Tinto 2017</product-name>
+    <price>239</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-maucaillou-haut-medoc-aoc-tinto/p</link>
+    <inventory-count>1</inventory-count>
+    <product-id>23292</product-id>
+  </product>
+  <product>
+    <product-name>Château Gloria Saint-Julien Tinto 2013</product-name>
+    <price>639.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-gloria-saint-julien-tinto/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23293</product-id>
+  </product>
+  <product>
+    <product-name>Santa Carolina Reservado Cabernet Sauvignon Magnum 2019</product-name>
+    <price>62.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>1,5 L</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon-magnum/p</link>
+    <inventory-count>7</inventory-count>
+    <product-id>23122</product-id>
+  </product>
+  <product>
+    <product-name>Château Clair Moulin Médoc 2017</product-name>
+    <price>129.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-clair-moulin-medoc/p</link>
+    <inventory-count>11</inventory-count>
+    <product-id>23254</product-id>
+  </product>
+  <product>
+    <product-name>Château de Cathalogne Bordeaux Tinto 2017</product-name>
+    <price>89.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-de-cathalogne-bordeaux-tinto/p</link>
+    <inventory-count>52</inventory-count>
+    <product-id>23256</product-id>
+  </product>
+  <product>
+    <product-name>undefined Château de Cathalogne Bordeaux Branco 2019</product-name>
+    <price>89.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chateau-de-cathalogne-bordeaux-branco/p</link>
+    <inventory-count>13</inventory-count>
+    <product-id>23257</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Bourgogne Aligoté Long du Bois Branco #N/A</product-name>
+    <price>159</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/bourgogne-aligote-long-du-bois-branco/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23264</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Beaujolais Les Malvaux 2019</product-name>
+    <price>119.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/beaujolais-les-malvaux/p</link>
+    <inventory-count>2</inventory-count>
+    <product-id>23266</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Beaujolais-Village La Roche 2019</product-name>
+    <price>132.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/beaujolais-village-la-roche/p</link>
+    <inventory-count>26</inventory-count>
+    <product-id>23267</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Chablis Coquillage Branco 2019</product-name>
+    <price>319</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chablis-coquillage-branco/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23268</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Chablis Premier Cru Beauroy 2018</product-name>
+    <price>454</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chablis-premier-cru-beauroy/p</link>
+    <inventory-count>5</inventory-count>
+    <product-id>23269</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Chablis Premier Cru Vaucoupin 2018</product-name>
+    <price>429</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/chablis-premier-cru-vaucoupin/p</link>
+    <inventory-count>9</inventory-count>
+    <product-id>23270</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Côte-de-Nuits-Villages Vieilles Vignes 2016</product-name>
+    <price>379</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/cote-de-nuits-villages-vieilles-vignes/p</link>
+    <inventory-count>5</inventory-count>
+    <product-id>23272</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Fleurie Cru Le Vallon 2019</product-name>
+    <price>169.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/fleurie-cru-le-vallon/p</link>
+    <inventory-count>12</inventory-count>
+    <product-id>23273</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Bourgogne Hautes Côtes de Beaune Les Alouettes Branco 2018</product-name>
+    <price>293</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-beaune-les-alouettes-branco/p</link>
+    <inventory-count>2</inventory-count>
+    <product-id>23274</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Bourgogne Hautes-Côtes-de-Beaune Les Alouettes Tinto 2018</product-name>
+    <price>292</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-beaune-les-alouettes-tinto/p</link>
+    <inventory-count>7</inventory-count>
+    <product-id>23275</product-id>
+  </product>
+  <product>
+    <product-name>Moillard Bourgogne Hautes Côtes de Nuits 2018</product-name>
+    <price>299</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>23276</product-id>
+  </product>
+  <product>
+    <product-name>undefined Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes #N/A</product-name>
+    <price>315</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits-les-vignes-hautes/p</link>
+    <inventory-count>0</inventory-count>
+    <product-id>23277</product-id>
   </product>
 </vivino-product-list>
 
