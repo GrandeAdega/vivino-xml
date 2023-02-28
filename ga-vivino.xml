@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-28T17:29:23.515Z</feed-generation-date>
+    <feed-generation-date>2023-02-28T18:03:03.586Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -3580,7 +3580,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-    <inventory-count>50</inventory-count>
+    <inventory-count>42</inventory-count>
     <product-id>14173</product-id>
   </product>
   <product>
@@ -3590,7 +3590,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-    <inventory-count>50</inventory-count>
+    <inventory-count>42</inventory-count>
     <product-id>14174</product-id>
   </product>
   <product>
@@ -5249,7 +5249,7 @@
     <product-name>Sperone Prosecco DOC Rosé Millesimato NV</product-name>
     <price>108</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/-sperone-prosecco-doc-rose-millesimato/p</link>
     <inventory-count>12</inventory-count>
@@ -5709,7 +5709,7 @@
     <product-name>Bodega Norton Norton Lote Negro 2020</product-name>
     <price>232</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-lote-negro/p</link>
     <inventory-count>4</inventory-count>
@@ -5789,7 +5789,7 @@
     <product-name>Montes Toscanini Reserva Familiar Cabernet Sauvignon 2020</product-name>
     <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/montes-toscanini-reserva-familiar-cabernet-sauvignon/p</link>
     <inventory-count>47</inventory-count>
@@ -5799,7 +5799,7 @@
     <product-name>Luccarelli Primitivo Puglia IGP Magnum 2018</product-name>
     <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>1500 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp-magnum/p</link>
     <inventory-count>5</inventory-count>
@@ -5809,7 +5809,7 @@
     <product-name>Veuve du Vernay brut Black Edition Limitada NV</product-name>
     <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-brut-black-edition-limitada/p</link>
     <inventory-count>6</inventory-count>
@@ -5819,7 +5819,7 @@
     <product-name>Tarefa Branco NV</product-name>
     <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/tarefa-branco/p</link>
     <inventory-count>0</inventory-count>
@@ -5879,7 +5879,7 @@
     <product-name>Cava Brut Don Román Reserva Imperial NV</product-name>
     <price>179.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/cava-brut-don-roman-reserva-imperial/p</link>
     <inventory-count>11</inventory-count>
