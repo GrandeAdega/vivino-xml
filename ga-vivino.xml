@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-02-28T14:32:44.834Z</feed-generation-date>
+    <feed-generation-date>2023-02-28T14:33:02.833Z</feed-generation-date>
   </meta-data>
   <product>
-    <product-name>Carmim Tarefa Tinto 2019</product-name>
-    <price>222</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/tarefa-tinto/p</link>
-    <inventory-count>0</inventory-count>
-    <product-id>12238</product-id>
-  </product>
-  <product>
-    <product-name>Carmim Terra Lenta Tinto 2019</product-name>
-    <price>49.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/terra-lenta-tinto/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>12239</product-id>
-  </product>
-  <product>
-    <product-name>Premium Fincas Viña Otano Crianza Magnum 2017</product-name>
-    <price>159.8</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>1,5 L</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/viña-otano-crianza-magnum/p</link>
-    <inventory-count>5</inventory-count>
-    <product-id>14166</product-id>
-  </product>
-  <product>
-    <product-name>Nony Borie Château Labat 2016</product-name>
-    <price>197</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chateau-labat/p</link>
-    <inventory-count>8</inventory-count>
-    <product-id>21955</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Alambrado Etiqueta Negra Malbec 2021</product-name>
-    <price>64.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>8</inventory-count>
-    <product-id>23235</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Alambrado Cabernet Sauvignon 2020</product-name>
-    <price>64.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/alambrado-cabernet-sauvignon/p</link>
-    <inventory-count>15</inventory-count>
-    <product-id>23236</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Gran Alambrado Malbec 2019</product-name>
-    <price>96.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gran-alambrado-malbec/p</link>
-    <inventory-count>11</inventory-count>
-    <product-id>23237</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Santa Julia Colección Tempranillo Malbec 2020</product-name>
-    <price>39.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/santa-julia-coleccion-tempranillo-malbec/p</link>
-    <inventory-count>12</inventory-count>
-    <product-id>23238</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Santa Julia Colección Syrah Malbec Rosé 2020</product-name>
-    <price>39.9</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/santa-julia-coleccion-syrah-malbec-rose/p</link>
-    <inventory-count>26</inventory-count>
-    <product-id>23239</product-id>
-  </product>
-  <product>
-    <product-name>Bodega Santa Julia Santa Julia Colección Bonarda 2020</product-name>
+    <product-name>Bodega Santa Julia Santa Julia Colección Sauvignon Blanc 2020</product-name>
     <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/santa-julia-coleccion-bonarda/p</link>
-    <inventory-count>67</inventory-count>
-    <product-id>23242</product-id>
+    <link>https://www.grandeadega.com.br/santa-julia-coleccion-sauvignon-blanc/p</link>
+    <inventory-count>24</inventory-count>
+    <product-id>23243</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Alambrado Pinot Noir 2021</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/alambrado-pinot-noir/p</link>
+    <inventory-count>49</inventory-count>
+    <product-id>23244</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Alambrado Viognier 2020</product-name>
+    <price>59.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/alambrado-viognier/p</link>
+    <inventory-count>39</inventory-count>
+    <product-id>23245</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Santa Julia Colección Malbec 2020</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/santa-julia-coleccion-malbec/p</link>
+    <inventory-count>6</inventory-count>
+    <product-id>23240</product-id>
+  </product>
+  <product>
+    <product-name>Bodega Santa Julia Santa Julia Colección Cabernet Sauvignon 2020</product-name>
+    <price>44.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/santa-julia-coleccion-cabernet-sauvignon/p</link>
+    <inventory-count>16</inventory-count>
+    <product-id>23241</product-id>
+  </product>
+  <product>
+    <product-name>Navarro López Don Aurelio Garnacha 2019</product-name>
+    <price>69.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/don-aurelio-garnacha/p</link>
+    <inventory-count>61</inventory-count>
+    <product-id>14179</product-id>
+  </product>
+  <product>
+    <product-name>Navarro López Don Aurelio Tempranillo 2019</product-name>
+    <price>69.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/don-aurelio-tempranillo/p</link>
+    <inventory-count>53</inventory-count>
+    <product-id>14180</product-id>
+  </product>
+  <product>
+    <product-name>Navarro López Don Aurelio Syrah 2019</product-name>
+    <price>69.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/don-aurelio-syrah/p</link>
+    <inventory-count>45</inventory-count>
+    <product-id>14181</product-id>
+  </product>
+  <product>
+    <product-name>Navarro López Don Aurelio Crianza 2016</product-name>
+    <price>79.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/don-aurelio-crianza/p</link>
+    <inventory-count>51</inventory-count>
+    <product-id>14182</product-id>
+  </product>
+  <product>
+    <product-name>Navarro López Don Aurelio Reserva 2014</product-name>
+    <price>99.9</price>
+    <quantity-is-minimum>false</quantity-is-minimum>
+    <bottle_size>750 ml</bottle_size>
+    <bottle_quantity>1</bottle_quantity>
+    <link>https://www.grandeadega.com.br/don-aurelio-reserva/p</link>
+    <inventory-count>37</inventory-count>
+    <product-id>14183</product-id>
   </product>
 </vivino-product-list>
 
