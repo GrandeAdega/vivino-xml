@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-03T07:40:05.018Z</feed-generation-date>
+    <feed-generation-date>2023-03-03T11:40:04.616Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -770,7 +770,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/loios-tinto/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>12113</product-id>
   </product>
   <product>
@@ -3070,7 +3070,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/due-mari-tinto/p</link>
-    <inventory-count>41</inventory-count>
+    <inventory-count>40</inventory-count>
     <product-id>11846</product-id>
   </product>
   <product>
@@ -4930,18 +4930,6 @@
 /p</link>
     <inventory-count>10</inventory-count>
     <product-id>12309</product-id>
-  </product>
-  <product>
-    <product-name>Veuve du Vernay Baby Brut
- NV</product-name>
-    <price>36</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>187 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/veuve-du-vernay-baby-brut
-/p</link>
-    <inventory-count>37</inventory-count>
-    <product-id>21265</product-id>
   </product>
   <product>
     <product-name>Cims de Porrera Vi de Vila Porrera 2016 2016</product-name>
