@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-08T03:40:05.788Z</feed-generation-date>
+    <feed-generation-date>2023-03-08T11:40:04.757Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -670,7 +670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-    <inventory-count>46</inventory-count>
+    <inventory-count>45</inventory-count>
     <product-id>12051</product-id>
   </product>
   <product>
@@ -1270,7 +1270,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-white-dry-seco/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>13000</product-id>
   </product>
   <product>
@@ -3020,7 +3020,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/burton’s-ruby-port/p</link>
-    <inventory-count>85</inventory-count>
+    <inventory-count>84</inventory-count>
     <product-id>12314</product-id>
   </product>
   <product>
@@ -3030,7 +3030,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton’s-tawny/p</link>
-    <inventory-count>140</inventory-count>
+    <inventory-count>139</inventory-count>
     <product-id>12315</product-id>
   </product>
   <product>
@@ -3654,7 +3654,7 @@
     <product-id>23235</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Cabernet Sauvignon 2020</product-name>
+    <product-name>Bodega Santa Julia Alambrado Etiqueta Negra Cabernet Sauvignon 2020</product-name>
     <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5154,7 +5154,7 @@
     <product-id>23313</product-id>
   </product>
   <product>
-    <product-name>Alambrado Chardonnay 2021</product-name>
+    <product-name>Alambrado Etiqueta Negra Chardonnay 2021</product-name>
     <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5164,7 +5164,7 @@
     <product-id>23303</product-id>
   </product>
   <product>
-    <product-name>Alambrado Bonarda 2020</product-name>
+    <product-name>Alambrado Etiqueta Negra Bonarda  2020</product-name>
     <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5174,7 +5174,7 @@
     <product-id>23304</product-id>
   </product>
   <product>
-    <product-name>Alambrado Cabernet Franc 2020</product-name>
+    <product-name>Alambrado Etiqueta Negra Cabernet Franc 2020</product-name>
     <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
