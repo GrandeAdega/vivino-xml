@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-08T15:40:04.708Z</feed-generation-date>
+    <feed-generation-date>2023-03-08T19:40:05.351Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -490,7 +490,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-primitivo/p</link>
-    <inventory-count>53</inventory-count>
+    <inventory-count>52</inventory-count>
     <product-id>11836</product-id>
   </product>
   <product>
@@ -1464,12 +1464,12 @@
     <product-id>14059</product-id>
   </product>
   <product>
-    <product-name>Casa Gran del Siurana GR-174 2019</product-name>
+    <product-name>Casa Gran del Siurana GR-174 Priorato 2019</product-name>
     <price>259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gr-174/p</link>
+    <link>https://www.grandeadega.com.br/gr-174-priorato/p</link>
     <inventory-count>8</inventory-count>
     <product-id>14075</product-id>
   </product>
@@ -1650,7 +1650,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/99-rosas-chardonnay-e-viognier/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>25</inventory-count>
     <product-id>14213</product-id>
   </product>
   <product>
@@ -1700,7 +1700,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/liderato-branco/p</link>
-    <inventory-count>35</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>14225</product-id>
   </product>
   <product>
@@ -2410,7 +2410,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat-rose/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>25029</product-id>
   </product>
   <product>
@@ -2450,7 +2450,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/jacob-s-creek-chardonnay/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>26051</product-id>
   </product>
   <product>
@@ -2640,7 +2640,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-pinotage/p</link>
-    <inventory-count>65</inventory-count>
+    <inventory-count>64</inventory-count>
     <product-id>51047</product-id>
   </product>
   <product>
@@ -3370,7 +3370,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/la-viña-de-sofia-albariño-clasico/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>21</inventory-count>
     <product-id>14176</product-id>
   </product>
   <product>
@@ -3590,7 +3590,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-    <inventory-count>170</inventory-count>
+    <inventory-count>50</inventory-count>
     <product-id>14174</product-id>
   </product>
   <product>
@@ -3600,7 +3600,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-28-meses/p</link>
-    <inventory-count>86</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>14175</product-id>
   </product>
   <product>
@@ -3820,7 +3820,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-dop-jumilla/p</link>
-    <inventory-count>96</inventory-count>
+    <inventory-count>93</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -3830,7 +3830,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-nela-vino-de-la-tierra-de-castilla/p</link>
-    <inventory-count>39</inventory-count>
+    <inventory-count>34</inventory-count>
     <product-id>14186</product-id>
   </product>
   <product>
@@ -4700,7 +4700,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>51</inventory-count>
+    <inventory-count>49</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
