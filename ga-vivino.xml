@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-09T19:40:05.273Z</feed-generation-date>
+    <feed-generation-date>2023-03-10T07:40:04.563Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -840,7 +840,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-garrafeira-dos-socios/p</link>
-    <inventory-count>13</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12123</product-id>
   </product>
   <product>
@@ -2420,7 +2420,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/blend-roble-15-meses/p</link>
-    <inventory-count>32</inventory-count>
+    <inventory-count>27</inventory-count>
     <product-id>25030</product-id>
   </product>
   <product>
@@ -2745,7 +2745,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz DOC Tinto Magnum 2017</product-name>
-    <price>99</price>
+    <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3320,7 +3320,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reserva-superior-cabernet-sauvignon/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>9</inventory-count>
     <product-id>14227</product-id>
   </product>
   <product>
@@ -3340,7 +3340,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-ganarcha-rose/p</link>
-    <inventory-count>27</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>14161</product-id>
   </product>
   <product>
@@ -3350,7 +3350,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-viura-branco/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>14162</product-id>
   </product>
   <product>
@@ -3380,7 +3380,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-jovem/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>14160</product-id>
   </product>
   <product>
@@ -3820,7 +3820,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-dop-jumilla/p</link>
-    <inventory-count>93</inventory-count>
+    <inventory-count>73</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -5039,7 +5039,7 @@
   </product>
   <product>
     <product-name>Bosio Barolo DOCG Truffle Hunter Leda 2018</product-name>
-    <price>237</price>
+    <price>259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5049,7 +5049,7 @@
   </product>
   <product>
     <product-name>Bosio Barbaresco DOCG Truffle Hunter Leda 2018</product-name>
-    <price>196</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5059,7 +5059,7 @@
   </product>
   <product>
     <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda NV</product-name>
-    <price>112</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5069,7 +5069,7 @@
   </product>
   <product>
     <product-name>Bosio Barbera d’Alba DOC Truffle Hunter Leda 2019</product-name>
-    <price>112</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5080,7 +5080,7 @@
   <product>
     <product-name>Barbera d’Asti DOCG Truffle Hunter Leda
  2020</product-name>
-    <price>69</price>
+    <price>77</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5091,7 +5091,7 @@
   </product>
   <product>
     <product-name>Bosio Piemonte DOC Barbera Appassimento Truffle Hunter Leda 2020</product-name>
-    <price>87</price>
+    <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5101,7 +5101,7 @@
   </product>
   <product>
     <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda 2020</product-name>
-    <price>72</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5112,7 +5112,7 @@
   <product>
     <product-name>Bosio Moscato d’Asti DOCG Truffle Hunter Leda
  2021</product-name>
-    <price>72</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5124,7 +5124,7 @@
   <product>
     <product-name>Espumante Asti DOCG Dolce Millesimato Truffle Hunter Leda
  NV</product-name>
-    <price>76</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5905,7 +5905,7 @@
   </product>
   <product>
     <product-name>Bosio Truffle Hunter Leda Langhe Chardonnay DOC 2021</product-name>
-    <price>79</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
