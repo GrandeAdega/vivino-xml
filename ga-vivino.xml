@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-18T07:40:05.079Z</feed-generation-date>
+    <feed-generation-date>2023-03-18T11:40:05.095Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -2330,7 +2330,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/roca-bonarda-e-sangiovese/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>24069</product-id>
   </product>
   <product>
@@ -2350,7 +2350,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/roca-malbec-e-merlot/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>24076</product-id>
   </product>
   <product>
@@ -3120,7 +3120,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/due-mari-chianti-docg/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>11852</product-id>
   </product>
   <product>
