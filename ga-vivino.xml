@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-18T23:40:04.950Z</feed-generation-date>
+    <feed-generation-date>2023-03-19T03:40:04.967Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -280,7 +280,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>11425</product-id>
   </product>
   <product>
@@ -3650,7 +3650,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>23</inventory-count>
     <product-id>23235</product-id>
   </product>
   <product>
@@ -3660,7 +3660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-cabernet-sauvignon/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>9</inventory-count>
     <product-id>23236</product-id>
   </product>
   <product>
@@ -4000,7 +4000,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-ice-rose/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>21407</product-id>
   </product>
   <product>
@@ -5118,7 +5118,7 @@
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/moscato-d’asti-docg-truffle-hunter-leda
 /p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>12327</product-id>
   </product>
   <product>
