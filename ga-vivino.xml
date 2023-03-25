@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-24T23:40:05.242Z</feed-generation-date>
+    <feed-generation-date>2023-03-25T03:40:04.995Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -1370,7 +1370,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>34</inventory-count>
     <product-id>14016</product-id>
   </product>
   <product>
@@ -1380,7 +1380,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/jerez-fino-classic-dry-sec/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>14020</product-id>
   </product>
   <product>
@@ -1500,7 +1500,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nuestro-8-meses-do-ribera-del-duero/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>14138</product-id>
   </product>
   <product>
@@ -3930,7 +3930,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/99-rosas-rose-edicao-especial-e-limitada/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>14230</product-id>
   </product>
   <product>
@@ -3940,7 +3940,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/99-rosas-tinto-edicao-especial-e-limitada/p</link>
-    <inventory-count>24</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>14231</product-id>
   </product>
   <product>
