@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-03-27T23:40:04.695Z</feed-generation-date>
+    <feed-generation-date>2023-03-28T07:40:04.895Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2016</product-name>
@@ -560,7 +560,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-    <inventory-count>52</inventory-count>
+    <inventory-count>48</inventory-count>
     <product-id>11843</product-id>
   </product>
   <product>
@@ -1690,7 +1690,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/liderato-tinto/p</link>
-    <inventory-count>150</inventory-count>
+    <inventory-count>147</inventory-count>
     <product-id>14224</product-id>
   </product>
   <product>
@@ -3120,7 +3120,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/due-mari-chianti-docg/p</link>
-    <inventory-count>30</inventory-count>
+    <inventory-count>28</inventory-count>
     <product-id>11852</product-id>
   </product>
   <product>
@@ -3140,7 +3140,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/ramos-reserva-tinto/p</link>
-    <inventory-count>123</inventory-count>
+    <inventory-count>121</inventory-count>
     <product-id>12262</product-id>
   </product>
   <product>
@@ -3320,7 +3320,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reserva-superior-cabernet-sauvignon/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>14227</product-id>
   </product>
   <product>
@@ -4430,7 +4430,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/chablis-premier-cru-beauroy/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>23269</product-id>
   </product>
   <product>
