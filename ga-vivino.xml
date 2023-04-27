@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-04-27T15:11:52.940Z</feed-generation-date>
+    <feed-generation-date>2023-04-27T17:43:15.836Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale</product-name>
@@ -670,7 +670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-    <inventory-count>34</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>12051</product-id>
   </product>
   <product>
@@ -1270,7 +1270,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-white-dry-seco/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>13000</product-id>
   </product>
   <product>
@@ -3020,7 +3020,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton’s-ruby/p</link>
-    <inventory-count>57</inventory-count>
+    <inventory-count>56</inventory-count>
     <product-id>12314</product-id>
   </product>
   <product>
@@ -3640,7 +3640,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>28</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>23235</product-id>
   </product>
   <product>
@@ -5450,7 +5450,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/putos-tinto-alentejo-doc/p</link>
-    <inventory-count>88</inventory-count>
+    <inventory-count>87</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
@@ -5710,7 +5710,7 @@
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-etiqueta-negra-malbec-375ml/p</link>
-    <inventory-count>19</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>23314</product-id>
   </product>
   <product>
