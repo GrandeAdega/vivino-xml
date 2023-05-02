@@ -630,7 +630,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-10-anos/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12014</product-id>
   </product>
   <product>
@@ -4284,7 +4284,7 @@
     <product-id>23289</product-id>
   </product>
   <product>
-    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild </product-name>
+    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild</product-name>
     <price>369</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4784,8 +4784,7 @@
     <product-id>12244</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Sercial 10 anos
-</product-name>
+    <product-name>Justino’s Fortified Justino's Madeira Sercial 10 anos</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4806,8 +4805,7 @@
     <product-id>12081</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Boal 10 anos - Meio Dessert
-</product-name>
+    <product-name>Justino’s Fortified Boal 10 anos - Meio Dessert</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4838,8 +4836,7 @@
     <product-id>12303</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Colheita 1999 - Dessert
-</product-name>
+    <product-name>Justino’s Fortified Justino's Madeira Colheita 1999 - Dessert</product-name>
     <price>573</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4850,8 +4847,7 @@
     <product-id>12304</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Colheita 1996 - Dessert
-</product-name>
+    <product-name>Justino’s Fortified Colheita 1996 - Dessert</product-name>
     <price>688</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4862,8 +4858,7 @@
     <product-id>12306</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Colheita 1998 - Dessert
-</product-name>
+    <product-name>Justino’s Fortified Colheita 1998 - Dessert</product-name>
     <price>860</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
