@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-05T19:24:17.283Z</feed-generation-date>
+    <feed-generation-date>2023-05-05T19:48:37.817Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -190,7 +190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terre-natuzzi-chianti-docg-riserva/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>11146</product-id>
   </product>
   <product>
@@ -244,7 +244,7 @@
     <product-id>11403</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi Del Paradiso Silicum IGT</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi Del Paradiso Silicum IGT NV</product-name>
     <price>419</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -314,7 +314,7 @@
     <product-id>11431</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT 2019</product-name>
+    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT</product-name>
     <price>168</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -334,7 +334,7 @@
     <product-id>11433</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Solea Nero D'Avola IGT</product-name>
+    <product-name>Cantina Cellaro Solea Nero D'Avola IGT NV</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -474,7 +474,7 @@
     <product-id>11833</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Tufarello Nero di Troia IGT</product-name>
+    <product-name>Vigneti del Vulture Tufarello Nero di Troia IGT NV</product-name>
     <price>126</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -510,7 +510,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-    <inventory-count>16</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>11838</product-id>
   </product>
   <product>
@@ -520,7 +520,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-montepulciano/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>11839</product-id>
   </product>
   <product>
@@ -534,13 +534,13 @@
     <product-id>11840</product-id>
   </product>
   <product>
-    <product-name>Corbelli Chianti DOCG 2020</product-name>
+    <product-name>Corbelli Chianti DOCG 2019</product-name>
     <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-    <inventory-count>33</inventory-count>
+    <inventory-count>30</inventory-count>
     <product-id>11841</product-id>
   </product>
   <product>
@@ -560,7 +560,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-    <inventory-count>52</inventory-count>
+    <inventory-count>49</inventory-count>
     <product-id>11843</product-id>
   </product>
   <product>
@@ -610,7 +610,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-do-cachao/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>18</inventory-count>
     <product-id>12010</product-id>
   </product>
   <product>
@@ -674,7 +674,7 @@
     <product-id>12051</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira 3 anos Dessert NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira 3 anos Dessert NV</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -694,7 +694,7 @@
     <product-id>12059</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira 10 anos NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira 10 anos NV</product-name>
     <price>346</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -704,7 +704,7 @@
     <product-id>12060</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Old Terrantez NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Old Terrantez NV</product-name>
     <price>1099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -714,7 +714,7 @@
     <product-id>12078</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Boal 1978 NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Boal 1978 NV</product-name>
     <price>3099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -724,7 +724,7 @@
     <product-id>12102</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Terrantez 1978 NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Terrantez 1978 NV</product-name>
     <price>7699</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -874,7 +874,7 @@
     <product-id>12138</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Malmsey 10 Anos 375 ml NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Malmsey 10 Anos 375 ml NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -884,7 +884,7 @@
     <product-id>12150</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Verdelho 10 Anos 375 ml NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Verdelho 10 Anos 375 ml NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -1284,7 +1284,7 @@
     <product-id>13001</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 40 anos NV</product-name>
+    <product-name>Caves Messias Fortified Messias 40 anos 2022</product-name>
     <price>869</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1294,7 +1294,7 @@
     <product-id>13002</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Sercial 1940 NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Sercial 1940 NV</product-name>
     <price>5999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1304,7 +1304,7 @@
     <product-id>13029</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira 3 anos Seco NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira 3 anos Seco NV</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1340,7 +1340,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-roman-tinto/p</link>
-    <inventory-count>15</inventory-count>
+    <inventory-count>14</inventory-count>
     <product-id>14000</product-id>
   </product>
   <product>
@@ -1490,7 +1490,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nuestro-8-meses-do-ribera-del-duero/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>14138</product-id>
   </product>
   <product>
@@ -1964,7 +1964,7 @@
     <product-id>23006</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Reserva de Família Cabernet Sauvignon 2018</product-name>
+    <product-name>Santa Carolina Reserva de Família Cabernet Sauvignon</product-name>
     <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2060,7 +2060,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-gran-reserva-cabernet-sauvignon/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>23042</product-id>
   </product>
   <product>
@@ -2370,7 +2370,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-    <inventory-count>72</inventory-count>
+    <inventory-count>68</inventory-count>
     <product-id>25013</product-id>
   </product>
   <product>
@@ -2964,7 +2964,7 @@
     <product-id>14201</product-id>
   </product>
   <product>
-    <product-name>Bodega Vieja Suave 2021</product-name>
+    <product-name>Bodega Vieja Suave 2022</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3194,7 +3194,7 @@
     <product-id>14208</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reservado Carmenère 2021</product-name>
+    <product-name>Aura Wines Trapecista Reservado Carmenère 2022</product-name>
     <price>29.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3260,7 +3260,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reserva-pinot-noir/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>14222</product-id>
   </product>
   <product>
@@ -3540,7 +3540,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-    <inventory-count>34</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>14173</product-id>
   </product>
   <product>
@@ -3610,7 +3610,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>40</inventory-count>
+    <inventory-count>38</inventory-count>
     <product-id>23235</product-id>
   </product>
   <product>
@@ -3630,7 +3630,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/gran-alambrado-malbec/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>23237</product-id>
   </product>
   <product>
@@ -3804,7 +3804,7 @@
     <product-id>23226</product-id>
   </product>
   <product>
-    <product-name>Las Condes Varietal Carmenère</product-name>
+    <product-name>Las Condes Varietal Carmenère NV</product-name>
     <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3824,7 +3824,7 @@
     <product-id>23228</product-id>
   </product>
   <product>
-    <product-name>Las Condes Varietal Chardonnay White</product-name>
+    <product-name>Las Condes Varietal Chardonnay NV White</product-name>
     <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3834,7 +3834,7 @@
     <product-id>23229</product-id>
   </product>
   <product>
-    <product-name>Las Condes Varietal Merlot</product-name>
+    <product-name>Las Condes Varietal Merlot NV</product-name>
     <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3884,7 +3884,7 @@
     <product-id>23231</product-id>
   </product>
   <product>
-    <product-name>Dominio de Punctum 99 Rosas Rosé Edição Especial e Limitada</product-name>
+    <product-name>Dominio de Punctum 99 Rosas Rosé Edição Especial e Limitada 2020</product-name>
     <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3914,7 +3914,7 @@
     <product-id>14232</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Brut Sparkling</product-name>
+    <product-name>Veuve du Vernay Brut NV Sparkling</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3924,7 +3924,7 @@
     <product-id>21085</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Demi Sec Sparkling</product-name>
+    <product-name>Veuve du Vernay Demi Sec NV Sparkling</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3934,7 +3934,7 @@
     <product-id>21086</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Brut Rosé Sparkling</product-name>
+    <product-name>Veuve du Vernay Brut Rosé NV Sparkling</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3944,7 +3944,7 @@
     <product-id>21133</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Ice Sparkling</product-name>
+    <product-name>Veuve du Vernay Ice NV Sparkling</product-name>
     <price>92</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3954,7 +3954,7 @@
     <product-id>21406</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Ice Rosé Sparkling</product-name>
+    <product-name>Veuve du Vernay Ice Rosé NV Sparkling</product-name>
     <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3964,7 +3964,7 @@
     <product-id>21407</product-id>
   </product>
   <product>
-    <product-name>Quinta do Zambujeiro Monte do Zambujeiro</product-name>
+    <product-name>Quinta do Zambujeiro Monte do Zambujeiro NV</product-name>
     <price>195</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4264,7 +4264,7 @@
     <product-id>23289</product-id>
   </product>
   <product>
-    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild</product-name>
+    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild  NV</product-name>
     <price>369</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4294,7 +4294,7 @@
     <product-id>23292</product-id>
   </product>
   <product>
-    <product-name>Château Gloria Saint-Julien</product-name>
+    <product-name>Château Gloria Saint-Julien NV</product-name>
     <price>639.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4374,7 +4374,7 @@
     <product-id>23267</product-id>
   </product>
   <product>
-    <product-name>Moillard Chablis Coquillage White</product-name>
+    <product-name>Moillard Chablis Coquillage White NV</product-name>
     <price>344</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4464,7 +4464,7 @@
     <product-id>23277</product-id>
   </product>
   <product>
-    <product-name>Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes Magnum</product-name>
+    <product-name>Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes Magnum NV</product-name>
     <price>499</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -4584,7 +4584,7 @@
     <product-id>12243</product-id>
   </product>
   <product>
-    <product-name>Sparkling Mandois Rosé Gran Reserva</product-name>
+    <product-name>Sparkling Mandois Rosé Gran Reserva NV</product-name>
     <price>437</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4594,7 +4594,7 @@
     <product-id>14190</product-id>
   </product>
   <product>
-    <product-name>Sparkling Mandois Blanc de Noirs 2015</product-name>
+    <product-name>Sparkling Mandois Blanc de Noirs 2015 NV</product-name>
     <price>468</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4614,7 +4614,7 @@
     <product-id>21956</product-id>
   </product>
   <product>
-    <product-name>Domaine Denis Dubourdieu Château Reynon 2018</product-name>
+    <product-name>Domaine Denis Dubourdieu Château Reynon 2018 NV</product-name>
     <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4624,7 +4624,7 @@
     <product-id>21957</product-id>
   </product>
   <product>
-    <product-name>Domaine Denis Dubourdieu Château Haura 2016</product-name>
+    <product-name>Domaine Denis Dubourdieu Château Haura 2016 NV</product-name>
     <price>229</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4684,7 +4684,7 @@
     <product-id>12002</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Messias 2021</product-name>
+    <product-name>Caves Messias Messias 2022</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4700,7 +4700,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/cala-rey-tinto/p</link>
-    <inventory-count>7</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>25041</product-id>
   </product>
   <product>
@@ -4734,7 +4734,7 @@
     <product-id>24231</product-id>
   </product>
   <product>
-    <product-name>Carmim Olaria Suave White 2019</product-name>
+    <product-name>Carmim Olaria Suave White 2020</product-name>
     <price>38</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4764,7 +4764,8 @@
     <product-id>12244</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Sercial 10 anos</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Sercial 10 anos
+ NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4775,7 +4776,7 @@
     <product-id>12080</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Verdelho 10 Anos - Meio Seco NV</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Verdelho 10 Anos - Meio Seco NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4785,7 +4786,8 @@
     <product-id>12081</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Boal 10 anos - Meio Dessert</product-name>
+    <product-name>Justino’s Madeira Boal 10 anos - Meio Dessert
+ NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4796,7 +4798,7 @@
     <product-id>12079</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Malvasia 10 anos - Dessert NV</product-name>
+    <product-name>Justino’s Madeira Malvasia 10 anos - Dessert NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4806,7 +4808,7 @@
     <product-id>12082</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Colheita 1997</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Colheita 1997 NV</product-name>
     <price>622</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4816,7 +4818,8 @@
     <product-id>12303</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Justino's Madeira Colheita 1999 - Dessert</product-name>
+    <product-name>Justino’s Madeira Justino's Madeira Colheita 1999 - Dessert
+ NV</product-name>
     <price>573</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4827,7 +4830,8 @@
     <product-id>12304</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Colheita 1996 - Dessert</product-name>
+    <product-name>Justino’s Madeira Colheita 1996 - Dessert
+ NV</product-name>
     <price>688</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4838,7 +4842,8 @@
     <product-id>12306</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Colheita 1998 - Dessert</product-name>
+    <product-name>Justino’s Madeira Colheita 1998 - Dessert
+ NV</product-name>
     <price>860</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4849,7 +4854,7 @@
     <product-id>12307</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Colheita 2003 - Dessert NV</product-name>
+    <product-name>Justino’s Madeira Colheita 2003 - Dessert NV</product-name>
     <price>540</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4859,7 +4864,7 @@
     <product-id>12308</product-id>
   </product>
   <product>
-    <product-name>Justino’s Fortified Boal 10 anos - Meio Dessert - 375 ml NV</product-name>
+    <product-name>Justino’s Madeira Boal 10 anos - Meio Dessert - 375 ml NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -4879,7 +4884,7 @@
     <product-id>14187</product-id>
   </product>
   <product>
-    <product-name>Finca Fella Cala Rey White</product-name>
+    <product-name>Finca Fella Cala Rey White NV</product-name>
     <price>63.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4889,7 +4894,7 @@
     <product-id>25043</product-id>
   </product>
   <product>
-    <product-name>Sparkling Imperial Vintage Rosé Brut Sperone</product-name>
+    <product-name>Sparkling Imperial Vintage Rosé Brut Sperone NV</product-name>
     <price>66.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4899,7 +4904,7 @@
     <product-id>14192</product-id>
   </product>
   <product>
-    <product-name>Sparkling Asti DOCG White Sperone</product-name>
+    <product-name>Sparkling Asti DOCG White Sperone NV</product-name>
     <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4909,7 +4914,7 @@
     <product-id>14193</product-id>
   </product>
   <product>
-    <product-name>Sparkling Prosecco DOC White Sperone</product-name>
+    <product-name>Sparkling Prosecco DOC White Sperone NV</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4995,7 +5000,7 @@
     <product-id>12321</product-id>
   </product>
   <product>
-    <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda</product-name>
+    <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda NV</product-name>
     <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5069,7 +5074,7 @@
     <product-id>12328</product-id>
   </product>
   <product>
-    <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut branco</product-name>
+    <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut branco NV</product-name>
     <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5079,7 +5084,7 @@
     <product-id>23312</product-id>
   </product>
   <product>
-    <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut Rosé</product-name>
+    <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut Rosé NV</product-name>
     <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5159,7 +5164,7 @@
     <product-id>11448</product-id>
   </product>
   <product>
-    <product-name>Sperone Moscato White</product-name>
+    <product-name>Sperone Moscato NV White</product-name>
     <price>75</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5169,7 +5174,7 @@
     <product-id>14195</product-id>
   </product>
   <product>
-    <product-name>Sperone Prosecco DOC Rosé Millesimato</product-name>
+    <product-name>Sperone Prosecco DOC Rosé Millesimato NV</product-name>
     <price>108</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5179,7 +5184,7 @@
     <product-id>14196</product-id>
   </product>
   <product>
-    <product-name>Castillo San Simón Shiraz</product-name>
+    <product-name>Castillo San Simón Shiraz NV</product-name>
     <price>35.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5229,7 +5234,7 @@
     <product-id>11560</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Altura Malbec</product-name>
+    <product-name>Bodega Norton Altura Malbec NV</product-name>
     <price>116</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5275,7 +5280,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-reserva-chardonnay/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>11565</product-id>
   </product>
   <product>
@@ -5285,7 +5290,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-d-o-c--malbec/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>11566</product-id>
   </product>
   <product>
@@ -5339,7 +5344,7 @@
     <product-id>11571</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sparkling Norton Extra Brut White</product-name>
+    <product-name>Bodega Norton Sparkling Norton Extra Brut White NV</product-name>
     <price>58</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5349,7 +5354,7 @@
     <product-id>11573</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sparkling Norton Brut Rosé</product-name>
+    <product-name>Bodega Norton Sparkling Norton Brut Rosé NV</product-name>
     <price>58</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5415,7 +5420,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/putos-tinto-alentejo-doc/p</link>
-    <inventory-count>81</inventory-count>
+    <inventory-count>79</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
@@ -5449,7 +5454,7 @@
     <product-id>11572</product-id>
   </product>
   <product>
-    <product-name>Sparkling Messias Extra Brut tinto</product-name>
+    <product-name>Sparkling Messias Extra Brut tinto NV</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5549,7 +5554,7 @@
     <product-id>11524</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Voga Rosé Trevenezie IGT</product-name>
+    <product-name>Enoitalia Voga Rosé Trevenezie IGT NV</product-name>
     <price>96.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5675,7 +5680,7 @@
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-etiqueta-negra-malbec-375ml/p</link>
-    <inventory-count>16</inventory-count>
+    <inventory-count>15</inventory-count>
     <product-id>23314</product-id>
   </product>
   <product>
@@ -5769,7 +5774,7 @@
     <product-id>12339</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Vinha do Jeremias Single Vineyard DOC Alentejo</product-name>
+    <product-name>João Portugal Ramos Vinha do Jeremias Single Vineyard DOC Alentejo NV</product-name>
     <price>354</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5819,7 +5824,7 @@
     <product-id>11587</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sexy Fish Rosé</product-name>
+    <product-name>Bodega Norton Sexy Fish Rosé 2022</product-name>
     <price>46</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6059,7 +6064,7 @@
     <product-id>23346</product-id>
   </product>
   <product>
-    <product-name>Château St. Thomas 2018</product-name>
+    <product-name>Château St. Thomas 2014</product-name>
     <price>359.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
