@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-05T19:48:37.817Z</feed-generation-date>
+    <feed-generation-date>2023-05-08T20:26:34.715Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -74,12 +74,12 @@
     <product-id>11052</product-id>
   </product>
   <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino Gualto DOCG Camigliano 2012</product-name>
+    <product-name>Cantina Camigliano Brunello di Montalcino Riserva Gualto Camigliano DOCG 2012</product-name>
     <price>1727</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/brunello-di-montalcino-gualto-docg-camigliano/p</link>
+    <link>https://www.grandeadega.com.br/brunello-di-montalcino-riserva-gualto-camigliano-docg/p</link>
     <inventory-count>1</inventory-count>
     <product-id>11054</product-id>
   </product>
@@ -634,12 +634,12 @@
     <product-id>12014</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 10 Anos White Dry (branco meio doce) NV</product-name>
+    <product-name>Caves Messias Fortified Messias 10 Years White NV</product-name>
     <price>259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/porto-messias-10-anos-white-dry--branco-meio-doce-/p</link>
+    <link>https://www.grandeadega.com.br/porto-messias-10-years-white/p</link>
     <inventory-count>10</inventory-count>
     <product-id>12022</product-id>
   </product>
@@ -674,7 +674,7 @@
     <product-id>12051</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira 3 anos Dessert NV</product-name>
+    <product-name>Justino's Madeira 3 anos Dessert NV</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -694,7 +694,7 @@
     <product-id>12059</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira 10 anos NV</product-name>
+    <product-name>Justino's Madeira 10 anos NV</product-name>
     <price>346</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -704,7 +704,7 @@
     <product-id>12060</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Old Terrantez NV</product-name>
+    <product-name>Justino's Madeira Old Terrantez NV</product-name>
     <price>1099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -714,7 +714,7 @@
     <product-id>12078</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Boal 1978 NV</product-name>
+    <product-name>Justino's Madeira Boal 1978 NV</product-name>
     <price>3099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -724,7 +724,7 @@
     <product-id>12102</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Terrantez 1978 NV</product-name>
+    <product-name>Justino's Madeira Terrantez 1978 NV</product-name>
     <price>7699</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -844,12 +844,12 @@
     <product-id>12123</product-id>
   </product>
   <product>
-    <product-name>Carmim Bom Juiz 2019</product-name>
+    <product-name>Carmim Bom Juiz Reserva 2019</product-name>
     <price>144.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bom-juiz/p</link>
+    <link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
     <inventory-count>12</inventory-count>
     <product-id>12131</product-id>
   </product>
@@ -874,17 +874,17 @@
     <product-id>12138</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Malmsey 10 Anos 375 ml NV</product-name>
+    <product-name>Justino's Madeira Malvasia 10 Years Old 375 ml NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-malmsey-10-anos-375-ml/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-malvasia-10-years-old-375-ml/p</link>
     <inventory-count>19</inventory-count>
     <product-id>12150</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Verdelho 10 Anos 375 ml NV</product-name>
+    <product-name>Justino's Madeira Verdelho 10 Anos 375 ml NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -1024,12 +1024,12 @@
     <product-id>12192</product-id>
   </product>
   <product>
-    <product-name>Carmim Monsaraz Rosé DOC 2019</product-name>
+    <product-name>Carmim Monsaraz Alentejo Rosé 2019</product-name>
     <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/monsaraz-rose-doc/p</link>
+    <link>https://www.grandeadega.com.br/monsaraz-alentejo-rose/p</link>
     <inventory-count>19</inventory-count>
     <product-id>12193</product-id>
   </product>
@@ -1044,12 +1044,12 @@
     <product-id>12200</product-id>
   </product>
   <product>
-    <product-name>Carmim Régia Colheita DOC Alentejo White 2020</product-name>
+    <product-name>Carmim Reguengos Reserva Régia Colheita White 2020</product-name>
     <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-branco/p</link>
+    <link>https://www.grandeadega.com.br/reguengos-reserva-regia-colheita-branco/p</link>
     <inventory-count>14</inventory-count>
     <product-id>12205</product-id>
   </product>
@@ -1114,12 +1114,12 @@
     <product-id>12221</product-id>
   </product>
   <product>
-    <product-name>V Puro Aliás branco 2016 White</product-name>
+    <product-name>V Puro Aliás White de Outrora 2016</product-name>
     <price>339</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/alias-branco/p</link>
+    <link>https://www.grandeadega.com.br/alias-branco-de-outrora/p</link>
     <inventory-count>8</inventory-count>
     <product-id>12222</product-id>
   </product>
@@ -1294,7 +1294,7 @@
     <product-id>13002</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Sercial 1940 NV</product-name>
+    <product-name>Justino's Madeira Sercial 1940 NV</product-name>
     <price>5999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1304,7 +1304,7 @@
     <product-id>13029</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira 3 anos Seco NV</product-name>
+    <product-name>Justino's Madeira 3 anos Seco NV</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1524,12 +1524,12 @@
     <product-id>14141</product-id>
   </product>
   <product>
-    <product-name>Premium Fincas Chan de Rosas Albariño Cuvée 2021 White</product-name>
+    <product-name>Premium Fincas Chan de Rosas Cuvée Especial Albariño 2021 White</product-name>
     <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chan-de-rosas-albariño-cuvee/p</link>
+    <link>https://www.grandeadega.com.br/chan-de-rosas-cuvee-especial-albariño/p</link>
     <inventory-count>11</inventory-count>
     <product-id>14142</product-id>
   </product>
@@ -1620,7 +1620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-    <inventory-count>37</inventory-count>
+    <inventory-count>36</inventory-count>
     <product-id>14210</product-id>
   </product>
   <product>
@@ -1864,12 +1864,12 @@
     <product-id>21613</product-id>
   </product>
   <product>
-    <product-name>Ravoire &amp; Fils Jas des Vignes Rosé 2021</product-name>
+    <product-name>Ravoire &amp; Fils Jas des Vignes Méditerranée Rosé 2021</product-name>
     <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/jas-des-vignes-rose/p</link>
+    <link>https://www.grandeadega.com.br/jas-des-vignes-mediterranee-rose/p</link>
     <inventory-count>20</inventory-count>
     <product-id>21616</product-id>
   </product>
@@ -2404,12 +2404,12 @@
     <product-id>25029</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Blend Roble 15 Meses 2020</product-name>
+    <product-name>Bodegas Montes Toscanini Criado en Roble Blend 15 meses 2020</product-name>
     <price>147</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/blend-roble-15-meses/p</link>
+    <link>https://www.grandeadega.com.br/criado-en-roble-blend-15-meses/p</link>
     <inventory-count>1</inventory-count>
     <product-id>25030</product-id>
   </product>
@@ -2960,7 +2960,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-cabernet-sauvignon/p</link>
-    <inventory-count>40</inventory-count>
+    <inventory-count>39</inventory-count>
     <product-id>14201</product-id>
   </product>
   <product>
@@ -3000,7 +3000,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton’s-ruby/p</link>
-    <inventory-count>52</inventory-count>
+    <inventory-count>46</inventory-count>
     <product-id>12314</product-id>
   </product>
   <product>
@@ -3170,7 +3170,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alto-del-valle-tinto/p</link>
-    <inventory-count>49</inventory-count>
+    <inventory-count>48</inventory-count>
     <product-id>14206</product-id>
   </product>
   <product>
@@ -3200,7 +3200,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-carmenere/p</link>
-    <inventory-count>32</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>14209</product-id>
   </product>
   <product>
@@ -3474,12 +3474,12 @@
     <product-id>21951</product-id>
   </product>
   <product>
-    <product-name>Nuestro Verdejo DO Rueda 2021 White</product-name>
+    <product-name>Nuestro Verdejo 2021 White</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nuestro-verdejo-do-rueda/p</link>
+    <link>https://www.grandeadega.com.br/nuestro-verdejo/p</link>
     <inventory-count>10</inventory-count>
     <product-id>14159</product-id>
   </product>
@@ -3624,12 +3624,12 @@
     <product-id>23236</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Gran Alambrado Malbec 2019</product-name>
+    <product-name>Bodega Santa Julia Alambrado Cosecha Manual Gran Malbec 2019</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gran-alambrado-malbec/p</link>
+    <link>https://www.grandeadega.com.br/alambrado-cosecha-manual-gran-malbec/p</link>
     <inventory-count>7</inventory-count>
     <product-id>23237</product-id>
   </product>
@@ -3774,13 +3774,13 @@
     <product-id>14184</product-id>
   </product>
   <product>
-    <product-name>García Carrión Saludas DOP Jumilla 2021</product-name>
+    <product-name>García Carrión Saludas Cosecha 2021</product-name>
     <price>27</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/saludas-dop-jumilla/p</link>
-    <inventory-count>48</inventory-count>
+    <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
+    <inventory-count>47</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -3800,7 +3800,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/las-condes-varietal-cabernet-sauvignon/p</link>
-    <inventory-count>60</inventory-count>
+    <inventory-count>59</inventory-count>
     <product-id>23226</product-id>
   </product>
   <product>
@@ -3980,7 +3980,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-tempranillo-e-malbec/p</link>
-    <inventory-count>124</inventory-count>
+    <inventory-count>123</inventory-count>
     <product-id>23294</product-id>
   </product>
   <product>
@@ -4584,12 +4584,12 @@
     <product-id>12243</product-id>
   </product>
   <product>
-    <product-name>Sparkling Mandois Rosé Gran Reserva NV</product-name>
+    <product-name>Sparkling Mandois Gran Reserva Brut Rosé NV</product-name>
     <price>437</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/champagne-mandois-rose-gran-reserva/p</link>
+    <link>https://www.grandeadega.com.br/champagne-mandois-gran-reserva-brut-rose/p</link>
     <inventory-count>17</inventory-count>
     <product-id>14190</product-id>
   </product>
@@ -4660,7 +4660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>42</inventory-count>
+    <inventory-count>41</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -4670,7 +4670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>47</inventory-count>
+    <inventory-count>46</inventory-count>
     <product-id>23001</product-id>
   </product>
   <product>
@@ -4684,12 +4684,12 @@
     <product-id>12002</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Messias 2022</product-name>
+    <product-name>Caves Messias Messia Beiras 2022</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/messias-tinto/p</link>
+    <link>https://www.grandeadega.com.br/messia-beiras-tinto/p</link>
     <inventory-count>17</inventory-count>
     <product-id>12001</product-id>
   </product>
@@ -4724,12 +4724,12 @@
     <product-id>24230</product-id>
   </product>
   <product>
-    <product-name>Cantina Negrar Amarone dela Valpolicella DOCG 2018</product-name>
+    <product-name>Cantina Negrar Amarone della Valpolicella 2018</product-name>
     <price>339</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/amarone-dela-valpolicella-docg/p</link>
+    <link>https://www.grandeadega.com.br/amarone-della-valpolicella/p</link>
     <inventory-count>15</inventory-count>
     <product-id>24231</product-id>
   </product>
@@ -4764,7 +4764,7 @@
     <product-id>12244</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Sercial 10 anos
+    <product-name>Justino's Madeira Sercial 10 anos
  NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -4776,7 +4776,7 @@
     <product-id>12080</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Verdelho 10 Anos - Meio Seco NV</product-name>
+    <product-name>Justino's Madeira Verdelho 10 Anos - Meio Seco NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4786,29 +4786,27 @@
     <product-id>12081</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Boal 10 anos - Meio Dessert
- NV</product-name>
+    <product-name>Justino's Madeira Boal 10 Years Old Madeira NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-boal-10-anos---meio-doce
-/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira/p</link>
     <inventory-count>1</inventory-count>
     <product-id>12079</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Malvasia 10 anos - Dessert NV</product-name>
+    <product-name>Justino's Madeira Malvasia 10 Years Old  NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-malvasia-10-anos---doce/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-malvasia-10-years-old-/p</link>
     <inventory-count>5</inventory-count>
     <product-id>12082</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Colheita 1997 NV</product-name>
+    <product-name>Justino's Madeira Colheita 1997 NV</product-name>
     <price>622</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4818,7 +4816,7 @@
     <product-id>12303</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Justino's Madeira Colheita 1999 - Dessert
+    <product-name>Justino's Madeira Colheita 1999 - Dessert
  NV</product-name>
     <price>573</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -4830,7 +4828,7 @@
     <product-id>12304</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Colheita 1996 - Dessert
+    <product-name>Justino's Madeira Justino’s Madeira Colheita 1996 - Dessert
  NV</product-name>
     <price>688</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -4842,7 +4840,7 @@
     <product-id>12306</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Colheita 1998 - Dessert
+    <product-name>Justino's Madeira Justino’s Madeira Colheita 1998 - Dessert
  NV</product-name>
     <price>860</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -4854,22 +4852,26 @@
     <product-id>12307</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Colheita 2003 - Dessert NV</product-name>
+    <product-name>Justino's Madeira Colheita 2003 NV</product-name>
     <price>540</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-2003---doce/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-2003/p</link>
     <inventory-count>6</inventory-count>
     <product-id>12308</product-id>
   </product>
   <product>
-    <product-name>Justino’s Madeira Boal 10 anos - Meio Dessert - 375 ml NV</product-name>
+    <product-name>Justino's Madeira Boal 10 Years Old Madeira 375 ml
+
+ NV</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-boal-10-anos---meio-doce---375-ml/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira-375-ml
+
+/p</link>
     <inventory-count>10</inventory-count>
     <product-id>12309</product-id>
   </product>
@@ -5124,32 +5126,32 @@
     <product-id>23305</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Gran Alambrado Cabernet Sauvignon 2020</product-name>
+    <product-name>Bodega Santa Julia Alambrado Gran Cosecha Manual Cabernet Sauvignon 2020</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gran-alambrado-cabernet-sauvignon/p</link>
+    <link>https://www.grandeadega.com.br/alambrado-gran-cosecha-manual-cabernet-sauvignon/p</link>
     <inventory-count>10</inventory-count>
     <product-id>23306</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Gran Alambrado Blend Malbec e Cabernet Sauvignon 2020</product-name>
+    <product-name>Bodega Santa Julia Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2020</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gran-alambrado-blend-malbec-e-cabernet-sauvignon/p</link>
+    <link>https://www.grandeadega.com.br/alambrado-gran-cosecha-manual-Malbec---cabernet-sauvignon/p</link>
     <inventory-count>11</inventory-count>
     <product-id>23307</product-id>
   </product>
   <product>
-    <product-name>Pata Negra Toro Tempranillo Blend 2020</product-name>
+    <product-name>Pata Negra Tempranillo Roble Toro 2020</product-name>
     <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/-pata-negra-toro-tempranillo-blend/p</link>
+    <link>https://www.grandeadega.com.br/pata-negra-tempranillo-roble-toro/p</link>
     <inventory-count>10</inventory-count>
     <product-id>14197</product-id>
   </product>
@@ -5380,7 +5382,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-cabernet-sauvignon/p</link>
-    <inventory-count>41</inventory-count>
+    <inventory-count>40</inventory-count>
     <product-id>11576</product-id>
   </product>
   <product>
@@ -5724,12 +5726,12 @@
     <product-id>35081</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay brut Black Edition Limitada NV Sparkling</product-name>
+    <product-name>Veuve du Vernay Édition Limitée Brut NV Sparkling</product-name>
     <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/veuve-du-vernay-brut-black-edition-limitada/p</link>
+    <link>https://www.grandeadega.com.br/veuve-du-vernay-edition-limitee-brut/p</link>
     <inventory-count>24</inventory-count>
     <product-id>21408</product-id>
   </product>
