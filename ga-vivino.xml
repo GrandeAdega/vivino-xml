@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-08T20:26:34.715Z</feed-generation-date>
+    <feed-generation-date>2023-05-10T14:08:03.303Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -74,7 +74,7 @@
     <product-id>11052</product-id>
   </product>
   <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino Riserva Gualto Camigliano DOCG 2012</product-name>
+    <product-name>Camigliano Brunello di Montalcino Riserva Gualto Camigliano DOCG 2012</product-name>
     <price>1727</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -360,7 +360,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>30</inventory-count>
     <product-id>11442</product-id>
   </product>
   <product>
@@ -534,7 +534,7 @@
     <product-id>11840</product-id>
   </product>
   <product>
-    <product-name>Corbelli Chianti DOCG 2019</product-name>
+    <product-name>Corbelli Chianti DOCG 2020</product-name>
     <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -570,7 +570,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/forte-ambrone-vino-rosso/p</link>
-    <inventory-count>21</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>11844</product-id>
   </product>
   <product>
@@ -634,7 +634,7 @@
     <product-id>12014</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 10 Years White NV</product-name>
+    <product-name>Messias 10 Years White Porto NV</product-name>
     <price>259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -844,7 +844,7 @@
     <product-id>12123</product-id>
   </product>
   <product>
-    <product-name>Carmim Bom Juiz Reserva 2019</product-name>
+    <product-name>Bom Juiz Reserva 2019</product-name>
     <price>144.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1024,7 +1024,7 @@
     <product-id>12192</product-id>
   </product>
   <product>
-    <product-name>Carmim Monsaraz Alentejo Rosé 2019</product-name>
+    <product-name>Monsaraz Alentejo Rosé 2019</product-name>
     <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1044,7 +1044,7 @@
     <product-id>12200</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Reserva Régia Colheita White 2020</product-name>
+    <product-name>Régia Colheita Reguengos Reserva White 2020</product-name>
     <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1114,7 +1114,7 @@
     <product-id>12221</product-id>
   </product>
   <product>
-    <product-name>V Puro Aliás White de Outrora 2016</product-name>
+    <product-name>Outrora Alias Branco de Outrora 2016</product-name>
     <price>339</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1210,7 +1210,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/dinamica-d-n-m-c-baga/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>14</inventory-count>
     <product-id>12253</product-id>
   </product>
   <product>
@@ -1620,7 +1620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-    <inventory-count>35</inventory-count>
+    <inventory-count>47</inventory-count>
     <product-id>14210</product-id>
   </product>
   <product>
@@ -2404,7 +2404,7 @@
     <product-id>25029</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Criado en Roble Blend 15 meses 2020</product-name>
+    <product-name>Montes Toscanini Criado en Roble Blend 15 meses 2020</product-name>
     <price>147</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3114,7 +3114,7 @@
     <product-id>12263</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Vila Santa White 2020</product-name>
+    <product-name>Vila Santa Branco 2020</product-name>
     <price>47.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3134,7 +3134,7 @@
     <product-id>12265</product-id>
   </product>
   <product>
-    <product-name>Carmim Donna 2019</product-name>
+    <product-name>Donna Tinto 2019</product-name>
     <price>37.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3474,7 +3474,7 @@
     <product-id>21951</product-id>
   </product>
   <product>
-    <product-name>Nuestro Verdejo 2021 White</product-name>
+    <product-name>Bodegas Diaz Bayo Nuestro Verdejo 2021 White</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3774,7 +3774,7 @@
     <product-id>14184</product-id>
   </product>
   <product>
-    <product-name>García Carrión Saludas Cosecha 2021</product-name>
+    <product-name>Garcia Carrion Saludas Cosecha Tinto 2021</product-name>
     <price>27</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3920,7 +3920,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-brut/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>48</inventory-count>
     <product-id>21085</product-id>
   </product>
   <product>
@@ -4570,7 +4570,7 @@
     <bottle_size>5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bag-in-box-olaria-branco/p</link>
-    <inventory-count>7</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>12149</product-id>
   </product>
   <product>
@@ -4584,7 +4584,7 @@
     <product-id>12243</product-id>
   </product>
   <product>
-    <product-name>Sparkling Mandois Gran Reserva Brut Rosé NV</product-name>
+    <product-name>Mandois Grande Reserve Brut Rosé Champagne NV</product-name>
     <price>437</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4660,7 +4660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>40</inventory-count>
+    <inventory-count>52</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -4684,12 +4684,12 @@
     <product-id>12002</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Messia Beiras 2022</product-name>
+    <product-name>Caves Messias Messias Beiras 2022</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/messia-beiras-tinto/p</link>
+    <link>https://www.grandeadega.com.br/messias-beiras-tinto/p</link>
     <inventory-count>16</inventory-count>
     <product-id>12001</product-id>
   </product>
@@ -4724,7 +4724,7 @@
     <product-id>24230</product-id>
   </product>
   <product>
-    <product-name>Cantina Negrar Amarone della Valpolicella 2018</product-name>
+    <product-name>La Sorte Amarone della Valpolicella 2018</product-name>
     <price>339</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5126,7 +5126,7 @@
     <product-id>23305</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Gran Cosecha Manual Cabernet Sauvignon 2020</product-name>
+    <product-name>Alambrado Gran Cosecha Manual Cabernet Sauvignon 2020</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5136,7 +5136,7 @@
     <product-id>23306</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2020</product-name>
+    <product-name>Alambrado Gran Cosecha Manual Malbec 2020</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5292,7 +5292,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-d-o-c--malbec/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>11566</product-id>
   </product>
   <product>
@@ -5422,7 +5422,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/putos-tinto-alentejo-doc/p</link>
-    <inventory-count>67</inventory-count>
+    <inventory-count>66</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
@@ -5442,7 +5442,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/putos-rose-alentejo-doc/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>30</inventory-count>
     <product-id>12288</product-id>
   </product>
   <product>
@@ -5572,7 +5572,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/voga-merlot-terre-siciliane-igt/p</link>
-    <inventory-count>7</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>11526</product-id>
   </product>
   <product>
