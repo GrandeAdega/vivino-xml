@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-16T19:16:14.092Z</feed-generation-date>
+    <feed-generation-date>2023-05-18T20:35:20.553Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -54,7 +54,7 @@
     <product-id>11029</product-id>
   </product>
   <product>
-    <product-name>Cantina San Marco Frascati San Marco White</product-name>
+    <product-name>Cantina San Marco Frascati San Marco NV White</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -104,7 +104,7 @@
     <product-id>11075</product-id>
   </product>
   <product>
-    <product-name>Cantina Caldora Caldora Sangiovese IGT</product-name>
+    <product-name>Cantina Caldora Caldora Sangiovese IGT NV</product-name>
     <price>96</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -194,10 +194,10 @@
     <product-id>11146</product-id>
   </product>
   <product>
-    <product-name>Terre Natuzzi Rosso Toscana IGT</product-name>
+    <product-name>Terre Natuzzi Rosso Toscana IGT NV</product-name>
     <price>82</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terre-natuzzi-rosso-toscana-igt/p</link>
     <inventory-count>3</inventory-count>
@@ -500,7 +500,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-sangiovese/p</link>
-    <inventory-count>32</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>11837</product-id>
   </product>
   <product>
@@ -530,7 +530,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-pinot-grigio/p</link>
-    <inventory-count>38</inventory-count>
+    <inventory-count>32</inventory-count>
     <product-id>11840</product-id>
   </product>
   <product>
@@ -684,7 +684,7 @@
     <product-id>12058</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2019</product-name>
+    <product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2017</product-name>
     <price>68</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -804,10 +804,10 @@
     <product-id>12118</product-id>
   </product>
   <product>
-    <product-name>Reguengos DOC White</product-name>
+    <product-name>Carmim Reguengos DOC White 2020</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-doc-branco/p</link>
     <inventory-count>20</inventory-count>
@@ -1014,10 +1014,10 @@
     <product-id>12189</product-id>
   </product>
   <product>
-    <product-name>Reguengos Reserva DOC White</product-name>
+    <product-name>Carmim Reguengos Reserva DOC White 2018</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-reserva-doc-branco/p</link>
     <inventory-count>9</inventory-count>
@@ -1414,10 +1414,10 @@
     <product-id>14048</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Excellence</product-name>
+    <product-name>Marqués de Tomares Excellence 2020</product-name>
     <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/marques-de-tomares-excellence/p</link>
     <inventory-count>20</inventory-count>
@@ -1620,7 +1620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-    <inventory-count>32</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>14210</product-id>
   </product>
   <product>
@@ -1984,7 +1984,7 @@
     <product-id>23008</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Gran Reserva Carmenère 2017</product-name>
+    <product-name>Santa Carolina Gran Reserva Carmenère</product-name>
     <price>137</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2174,7 +2174,7 @@
     <product-id>23092</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot 2018</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot 2019</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2274,10 +2274,10 @@
     <product-id>24033</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Fincas Syrah</product-name>
+    <product-name>Alfredo Roca Fincas Syrah 2021</product-name>
     <price>64</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alfredo-roca-fincas-syrah/p</link>
     <inventory-count>3</inventory-count>
@@ -2314,7 +2314,7 @@
     <product-id>24064</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Roca Bonarda e Sangiovese 2021</product-name>
+    <product-name>Alfredo Roca Roca Bonarda e Sangiovese 2022</product-name>
     <price>47.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2404,7 +2404,7 @@
     <product-id>25029</product-id>
   </product>
   <product>
-    <product-name>Montes Toscanini Criado en Roble Blend 15 meses 2020</product-name>
+    <product-name>Montes Toscanini Criado en Roble Blend 15 meses</product-name>
     <price>147</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2414,7 +2414,7 @@
     <product-id>25030</product-id>
   </product>
   <product>
-    <product-name>Jacob’s Creek Jacob's Creek Shiraz 2020</product-name>
+    <product-name>Jacob’s Creek Jacob's Creek Shiraz</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2574,10 +2574,10 @@
     <product-id>51023</product-id>
   </product>
   <product>
-    <product-name>Nederburg The Winemasters Reserve Pinotage</product-name>
+    <product-name>Nederburg The Winemasters Reserve Pinotage 2019</product-name>
     <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-the-winemasters-reserve-pinotage/p</link>
     <inventory-count>15</inventory-count>
@@ -2960,7 +2960,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-cabernet-sauvignon/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>25</inventory-count>
     <product-id>14201</product-id>
   </product>
   <product>
@@ -3170,7 +3170,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alto-del-valle-tinto/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>35</inventory-count>
     <product-id>14206</product-id>
   </product>
   <product>
@@ -3200,7 +3200,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-carmenere/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>14209</product-id>
   </product>
   <product>
@@ -3254,7 +3254,7 @@
     <product-id>14221</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Pinot Noir 2019</product-name>
+    <product-name>Aura Wines Trapecista Reserva Pinot Noir 2018</product-name>
     <price>39</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3414,10 +3414,10 @@
     <product-id>12260</product-id>
   </product>
   <product>
-    <product-name>Terra Lenta Premium</product-name>
+    <product-name>Carmim Terra Lenta Premium 2019</product-name>
     <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terra-lenta-premium-tinto/p</link>
     <inventory-count>18</inventory-count>
@@ -3544,7 +3544,7 @@
     <product-id>14173</product-id>
   </product>
   <product>
-    <product-name>Premium Fincas Petit Vega 18 meses 2019</product-name>
+    <product-name>Premium Fincas Petit Vega 18 meses 2020</product-name>
     <price>149.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3780,7 +3780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>56</inventory-count>
+    <inventory-count>55</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -3800,7 +3800,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/las-condes-varietal-cabernet-sauvignon/p</link>
-    <inventory-count>46</inventory-count>
+    <inventory-count>45</inventory-count>
     <product-id>23226</product-id>
   </product>
   <product>
@@ -3980,7 +3980,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-tempranillo-e-malbec/p</link>
-    <inventory-count>110</inventory-count>
+    <inventory-count>109</inventory-count>
     <product-id>23294</product-id>
   </product>
   <product>
@@ -4484,7 +4484,7 @@
     <product-id>23279</product-id>
   </product>
   <product>
-    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  2021</product-name>
+    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  NV</product-name>
     <price>178</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4660,7 +4660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>35</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -4670,11 +4670,11 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>34</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>23001</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Messias Clarete</product-name>
+    <product-name>Caves Messias Messias Clarete NV</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4806,10 +4806,10 @@
     <product-id>12082</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Colheita 1997</product-name>
+    <product-name>Justino's Madeira Colheita 1997 NV</product-name>
     <price>622</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1997/p</link>
     <inventory-count>2</inventory-count>
@@ -5382,7 +5382,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-cabernet-sauvignon/p</link>
-    <inventory-count>35</inventory-count>
+    <inventory-count>34</inventory-count>
     <product-id>11576</product-id>
   </product>
   <product>
@@ -5736,7 +5736,7 @@
     <product-id>21408</product-id>
   </product>
   <product>
-    <product-name>Tarefa White NV</product-name>
+    <product-name>Tarefa White 2020</product-name>
     <price>229</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5996,16 +5996,6 @@
     <product-id>23317</product-id>
   </product>
   <product>
-    <product-name>Jerez Premium Cream NV</product-name>
-    <price>234</price>
-    <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
-    <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/jerez-premium-cream/p</link>
-    <inventory-count>6</inventory-count>
-    <product-id>14021</product-id>
-  </product>
-  <product>
     <product-name>Château St. Thomas Les Gourmets Rosé 2021</product-name>
     <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -6236,7 +6226,7 @@
     <product-id>21732</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert NV White</product-name>
+    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 White</product-name>
     <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6256,7 +6246,7 @@
     <product-id>21722</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert NV White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert 2021 White</product-name>
     <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6266,7 +6256,7 @@
     <product-id>21724</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Reserva NV White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Reserva 2021 White</product-name>
     <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6276,7 +6266,7 @@
     <product-id>21725</product-id>
   </product>
   <product>
-    <product-name>Nizza DOCG Riserva La Court</product-name>
+    <product-name>Michele Chiarlo Nizza DOCG Riserva La Court NV</product-name>
     <price>755</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>undefined</bottle_size>
@@ -6306,7 +6296,7 @@
     <product-id>23334</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert NV White</product-name>
+    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert 2020 White</product-name>
     <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
