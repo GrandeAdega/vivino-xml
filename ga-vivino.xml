@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-18T20:35:20.553Z</feed-generation-date>
+    <feed-generation-date>2023-05-20T19:16:13.938Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -894,22 +894,22 @@
     <product-id>12152</product-id>
   </product>
   <product>
-    <product-name>Duorum Colheita + Bolsa de Couro Grátis 2018</product-name>
+    <product-name>Duorum Colheita 2018</product-name>
     <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/duorum-colheita---bolsa-de-couro-gratis/p</link>
+    <link>https://www.grandeadega.com.br/duorum-colheita/p</link>
     <inventory-count>13</inventory-count>
     <product-id>12155</product-id>
   </product>
   <product>
-    <product-name>Duorum Reserva DOC + Bolsa de Couro Grátis 2017</product-name>
+    <product-name>Duorum Reserva DOC 2017</product-name>
     <price>449</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/duorum-reserva-doc---bolsa-de-couro-gratis/p</link>
+    <link>https://www.grandeadega.com.br/duorum-reserva-doc/p</link>
     <inventory-count>4</inventory-count>
     <product-id>12157</product-id>
   </product>
@@ -1144,22 +1144,22 @@
     <product-id>12224</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White + Bolsa de Couro Grátis 2018</product-name>
+    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White 2018</product-name>
     <price>196</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-branco---bolsa-de-couro-gratis/p</link>
+    <link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-branco/p</link>
     <inventory-count>11</inventory-count>
     <product-id>12229</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas + Bolsa de Couro Grátis 2018</product-name>
+    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas 2018</product-name>
     <price>196</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-tinto---bolsa-de-couro-gratis/p</link>
+    <link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-tinto/p</link>
     <inventory-count>17</inventory-count>
     <product-id>12230</product-id>
   </product>
@@ -1390,7 +1390,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/pata-negra-gran-reserva/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>14027</product-id>
   </product>
   <product>
@@ -1620,7 +1620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>27</inventory-count>
     <product-id>14210</product-id>
   </product>
   <product>
@@ -2960,7 +2960,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-cabernet-sauvignon/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>21</inventory-count>
     <product-id>14201</product-id>
   </product>
   <product>
@@ -3170,7 +3170,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alto-del-valle-tinto/p</link>
-    <inventory-count>33</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>14206</product-id>
   </product>
   <product>
@@ -3200,7 +3200,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-carmenere/p</link>
-    <inventory-count>15</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>14209</product-id>
   </product>
   <product>
@@ -3490,7 +3490,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/diaz-bayo-4u/p</link>
-    <inventory-count>55</inventory-count>
+    <inventory-count>54</inventory-count>
     <product-id>14168</product-id>
   </product>
   <product>
@@ -3780,11 +3780,11 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>53</inventory-count>
+    <inventory-count>51</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
-    <product-name>García Carrión Viña Nela Vino de la Tierra de Castilla NV</product-name>
+    <product-name>García Carrión Viña Nela Tempranillo NV</product-name>
     <price>27</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3800,7 +3800,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/las-condes-varietal-cabernet-sauvignon/p</link>
-    <inventory-count>43</inventory-count>
+    <inventory-count>41</inventory-count>
     <product-id>23226</product-id>
   </product>
   <product>
@@ -3980,7 +3980,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-tempranillo-e-malbec/p</link>
-    <inventory-count>106</inventory-count>
+    <inventory-count>104</inventory-count>
     <product-id>23294</product-id>
   </product>
   <product>
@@ -4660,7 +4660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>33</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -4670,7 +4670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>23001</product-id>
   </product>
   <product>
@@ -5022,12 +5022,14 @@
     <product-id>12323</product-id>
   </product>
   <product>
-    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda 2020</product-name>
+    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda
+ 2020</product-name>
     <price>77</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda/p</link>
+    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda
+/p</link>
     <inventory-count>30</inventory-count>
     <product-id>12324</product-id>
   </product>
@@ -5382,7 +5384,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-cabernet-sauvignon/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>11576</product-id>
   </product>
   <product>
