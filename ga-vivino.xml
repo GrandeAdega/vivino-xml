@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-24T18:05:39.393Z</feed-generation-date>
+    <feed-generation-date>2023-05-24T19:16:13.800Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -1940,7 +1940,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/carolina-reserva-cabernet-sauvignon/p</link>
-    <inventory-count>21</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>23002</product-id>
   </product>
   <product>
@@ -2020,7 +2020,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/carolina-reserva-carmenere/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>18</inventory-count>
     <product-id>23021</product-id>
   </product>
   <product>
@@ -2030,7 +2030,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/carolina-reserva-syrah/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>23022</product-id>
   </product>
   <product>
@@ -4034,7 +4034,7 @@
     <product-id>23299</product-id>
   </product>
   <product>
-    <product-name>Beltran Shiraz Rose 2020</product-name>
+    <product-name>Bodega Santa Julia Finca Beltran Syrah Rosé 2020</product-name>
     <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5728,7 +5728,7 @@
     <product-id>35081</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Édition Limitée Brut No. 2 NV Sparkling</product-name>
+    <product-name>Veuve du Vernay Édition Limitée Brut NV Sparkling</product-name>
     <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
