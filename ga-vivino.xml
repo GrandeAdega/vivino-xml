@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-23T19:16:14.400Z</feed-generation-date>
+    <feed-generation-date>2023-05-24T18:05:39.393Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -4034,7 +4034,7 @@
     <product-id>23299</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Finca Beltran Syrah Rosé 2020</product-name>
+    <product-name>Beltran Shiraz Rose 2020</product-name>
     <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5549,7 +5549,7 @@
   </product>
   <product>
     <product-name>Enoitalia Voga Pinot Grigio Delle Venezie DOC 2021 White</product-name>
-    <price>96.9</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5559,7 +5559,7 @@
   </product>
   <product>
     <product-name>Enoitalia Voga Rosé Trevenezie IGT NV</product-name>
-    <price>96.9</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5569,7 +5569,7 @@
   </product>
   <product>
     <product-name>Enoitalia Voga Merlot Terre Siciliane IGT 2020</product-name>
-    <price>96.9</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5728,7 +5728,7 @@
     <product-id>35081</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Édition Limitée Brut NV Sparkling</product-name>
+    <product-name>Veuve du Vernay Édition Limitée Brut No. 2 NV Sparkling</product-name>
     <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
