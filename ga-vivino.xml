@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-05-25T19:49:03.666Z</feed-generation-date>
+    <feed-generation-date>2023-05-27T19:49:04.150Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -234,7 +234,7 @@
     <product-id>11402</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Vin Santo White</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Vin Santo NV White</product-name>
     <price>299</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1804,7 +1804,7 @@
     <product-id>21433</product-id>
   </product>
   <product>
-    <product-name>Cave de Cairanne Le Chêne Noir</product-name>
+    <product-name>Cave de Cairanne Le Chêne Noir NV</product-name>
     <price>128</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2420,7 +2420,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/jacob-s-creek-shiraz/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>26040</product-id>
   </product>
   <product>
@@ -3185,7 +3185,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Cabernet Sauvignon 2021</product-name>
-    <price>29</price>
+    <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3195,7 +3195,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Carmenère 2022</product-name>
-    <price>29.8</price>
+    <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3205,7 +3205,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Merlot 2021</product-name>
-    <price>29.8</price>
+    <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3215,7 +3215,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Chardonnay 2021 White</product-name>
-    <price>29</price>
+    <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3225,7 +3225,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Rosé Syrah 2021</product-name>
-    <price>29</price>
+    <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3255,7 +3255,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Pinot Noir 2018</product-name>
-    <price>39</price>
+    <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3265,7 +3265,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Sauvignon Blanc 2022 White</product-name>
-    <price>39</price>
+    <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5030,7 +5030,7 @@
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda
 /p</link>
-    <inventory-count>30</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>12324</product-id>
   </product>
   <product>
@@ -5328,7 +5328,7 @@
     <product-id>11569</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sexy Fish Malbec 2021</product-name>
+    <product-name>Bodega Norton Sexy Fish Malbec 2022</product-name>
     <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6018,7 +6018,7 @@
     <product-id>23342</product-id>
   </product>
   <product>
-    <product-name>Château St. Thomas Les Gourmets Rouge 2014</product-name>
+    <product-name>Château St. Thomas Les Gourmets Rouge 2018</product-name>
     <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6118,7 +6118,7 @@
     <product-id>24088</product-id>
   </product>
   <product>
-    <product-name>Stemmari Rosé Terre Siciliane IGT NV</product-name>
+    <product-name>Stemmari Rosé Terre Siciliane IGT 2021</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6128,7 +6128,7 @@
     <product-id>23333</product-id>
   </product>
   <product>
-    <product-name>Stemmari Decorato Bianco NV White</product-name>
+    <product-name>Stemmari Decorato Bianco 2020 White</product-name>
     <price>85</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6138,7 +6138,7 @@
     <product-id>23337</product-id>
   </product>
   <product>
-    <product-name>Stemmari Passiata Terre Siciliane IGT NV</product-name>
+    <product-name>Stemmari Passiata Terre Siciliane IGT 2021</product-name>
     <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6148,7 +6148,7 @@
     <product-id>23338</product-id>
   </product>
   <product>
-    <product-name>Stemmari Decorato Rosso NV</product-name>
+    <product-name>Stemmari Decorato Rosso 2019</product-name>
     <price>85</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6158,7 +6158,7 @@
     <product-id>23336</product-id>
   </product>
   <product>
-    <product-name>Stemmari Cantodoro Sicilia DOC NV</product-name>
+    <product-name>Stemmari Cantodoro Sicilia DOC 2018</product-name>
     <price>135</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6168,7 +6168,7 @@
     <product-id>23339</product-id>
   </product>
   <product>
-    <product-name>Stemmari Dalila Sicilia DOC NV White</product-name>
+    <product-name>Stemmari Dalila Sicilia DOC 2020 White</product-name>
     <price>135</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6178,7 +6178,7 @@
     <product-id>23340</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Moscato d’Asti DOCG Palás NV White</product-name>
+    <product-name>Michele Chiarlo Moscato d’Asti DOCG Palás 2021 White</product-name>
     <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6188,7 +6188,7 @@
     <product-id>21728</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Gavi DOCG Palás NV White</product-name>
+    <product-name>Michele Chiarlo Gavi DOCG Palás 2021 White</product-name>
     <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6198,7 +6198,7 @@
     <product-id>21729</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  NV White</product-name>
+    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  2021 White</product-name>
     <price>224</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6208,7 +6208,7 @@
     <product-id>21730</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Barbaresco DOCG Palás NV</product-name>
+    <product-name>Michele Chiarlo Barbaresco DOCG Palás 2018</product-name>
     <price>386</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6218,7 +6218,7 @@
     <product-id>21731</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Barolo DOCG Palás NV</product-name>
+    <product-name>Michele Chiarlo Barolo DOCG Palás 2018</product-name>
     <price>489</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6229,7 +6229,7 @@
   </product>
   <product>
     <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 White</product-name>
-    <price>74</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -6239,7 +6239,7 @@
   </product>
   <product>
     <product-name>Oscar Haussmann OH01 Riesling Seco NV White</product-name>
-    <price>74</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -6248,8 +6248,8 @@
     <product-id>21722</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert 2021 White</product-name>
-    <price>74</price>
+    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert White</product-name>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -6259,7 +6259,7 @@
   </product>
   <product>
     <product-name>Oscar Haussmann OH01 Riesling Reserva 2021 White</product-name>
-    <price>98</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -6268,7 +6268,7 @@
     <product-id>21725</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Nizza DOCG Riserva La Court NV</product-name>
+    <product-name>Michele Chiarlo Nizza DOCG Riserva La Court 2019</product-name>
     <price>755</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>undefined</bottle_size>
@@ -6288,7 +6288,7 @@
     <product-id>21737</product-id>
   </product>
   <product>
-    <product-name>Stemmari Nero d’Avola Sicilia DOC NV</product-name>
+    <product-name>Stemmari Nero d’Avola Sicilia DOC 2020</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6299,7 +6299,7 @@
   </product>
   <product>
     <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert 2020 White</product-name>
-    <price>74</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
