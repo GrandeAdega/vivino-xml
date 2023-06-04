@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-06-01T19:49:03.763Z</feed-generation-date>
+    <feed-generation-date>2023-06-04T19:49:03.956Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -2970,7 +2970,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-suave-tinto/p</link>
-    <inventory-count>39</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>14204</product-id>
   </product>
   <product>
@@ -4219,7 +4219,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/aloxe-corton-les-affouages/p</link>
+    <link>https://www.grandeadega.com.br/moillard-aloxe-corton-les-affouages/p</link>
     <inventory-count>11</inventory-count>
     <product-id>23265</product-id>
   </product>
@@ -4229,7 +4229,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/corton-grand-cru-les-grandes-lolieres/p</link>
+    <link>https://www.grandeadega.com.br/moillard-corton-grand-cru-les-grandes-lolieres/p</link>
     <inventory-count>1</inventory-count>
     <product-id>23271</product-id>
   </product>
@@ -4239,7 +4239,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/puligny-montrachet-vieilles-vignes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-puligny-montrachet-vieilles-vignes/p</link>
     <inventory-count>6</inventory-count>
     <product-id>23284</product-id>
   </product>
@@ -4349,7 +4349,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-aligote-long-du-bois/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-aligote-long-du-bois/p</link>
     <inventory-count>5</inventory-count>
     <product-id>23264</product-id>
   </product>
@@ -4359,7 +4359,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/beaujolais-les-malvaux/p</link>
+    <link>https://www.grandeadega.com.br/moillard-beaujolais-les-malvaux/p</link>
     <inventory-count>1</inventory-count>
     <product-id>23266</product-id>
   </product>
@@ -4369,7 +4369,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/beaujolais-village-la-roche/p</link>
+    <link>https://www.grandeadega.com.br/moillard-beaujolais-village-la-roche/p</link>
     <inventory-count>26</inventory-count>
     <product-id>23267</product-id>
   </product>
@@ -4379,7 +4379,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chablis-coquillage-branco/p</link>
+    <link>https://www.grandeadega.com.br/moillard-chablis-coquillage-branco/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23268</product-id>
   </product>
@@ -4389,7 +4389,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chablis-premier-cru-beauroy/p</link>
+    <link>https://www.grandeadega.com.br/moillard-chablis-premier-cru-beauroy/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23269</product-id>
   </product>
@@ -4399,7 +4399,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chablis-premier-cru-vaucoupin/p</link>
+    <link>https://www.grandeadega.com.br/moillard-chablis-premier-cru-vaucoupin/p</link>
     <inventory-count>8</inventory-count>
     <product-id>23270</product-id>
   </product>
@@ -4409,7 +4409,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/cote-de-nuits-villages-vieilles-vignes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-cote-de-nuits-villages-vieilles-vignes/p</link>
     <inventory-count>4</inventory-count>
     <product-id>23272</product-id>
   </product>
@@ -4419,7 +4419,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/fleurie-cru-le-vallon/p</link>
+    <link>https://www.grandeadega.com.br/moillard-fleurie-cru-le-vallon/p</link>
     <inventory-count>10</inventory-count>
     <product-id>23273</product-id>
   </product>
@@ -4429,7 +4429,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-beaune-les-alouettes-branco/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-beaune-les-alouettes-branco/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23274</product-id>
   </product>
@@ -4439,7 +4439,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-beaune-les-alouettes-tinto/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-beaune-les-alouettes-tinto/p</link>
     <inventory-count>7</inventory-count>
     <product-id>23275</product-id>
   </product>
@@ -4449,27 +4449,27 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-nuits/p</link>
     <inventory-count>6</inventory-count>
     <product-id>23276</product-id>
   </product>
   <product>
-    <product-name>Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes 2020</product-name>
+    <product-name>Moillard Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes 2020</product-name>
     <price>340</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits-les-vignes-hautes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-nuits-les-vignes-hautes/p</link>
     <inventory-count>6</inventory-count>
     <product-id>23277</product-id>
   </product>
   <product>
-    <product-name>Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes Magnum NV</product-name>
+    <product-name>Moillard Bourgogne Hautes Côtes-de-Nuits Les Vignes Hautes Magnum NV</product-name>
     <price>499</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bourgogne-hautes-cotes-de-nuits-les-vignes-hautes-magnum/p</link>
+    <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-nuits-les-vignes-hautes-magnum/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23278</product-id>
   </product>
@@ -4479,7 +4479,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/meursault-premier-cru-le-poruzot/p</link>
+    <link>https://www.grandeadega.com.br/moillard-meursault-premier-cru-le-poruzot/p</link>
     <inventory-count>12</inventory-count>
     <product-id>23279</product-id>
   </product>
@@ -4489,7 +4489,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/morgon-les-collines-cru-de-beaujolais-/p</link>
+    <link>https://www.grandeadega.com.br/moillard-morgon-les-collines-cru-de-beaujolais-/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23280</product-id>
   </product>
@@ -4499,7 +4499,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/moulin-a-vent-les-tuileries-tinto-cru-de-beaujolais/p</link>
+    <link>https://www.grandeadega.com.br/moillard-moulin-a-vent-les-tuileries-tinto-cru-de-beaujolais/p</link>
     <inventory-count>6</inventory-count>
     <product-id>23281</product-id>
   </product>
@@ -4509,7 +4509,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nuit-saint-georges-premier-cru-aux-boudots/p</link>
+    <link>https://www.grandeadega.com.br/moillard-nuit-saint-georges-premier-cru-aux-boudots/p</link>
     <inventory-count>5</inventory-count>
     <product-id>23282</product-id>
   </product>
@@ -4519,7 +4519,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pommard-premier-cru-les-charmots/p</link>
+    <link>https://www.grandeadega.com.br/moillard-pommard-premier-cru-les-charmots/p</link>
     <inventory-count>12</inventory-count>
     <product-id>23283</product-id>
   </product>
@@ -4529,17 +4529,17 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/pouilly-fuisse-sous-la-grotte/p</link>
+    <link>https://www.grandeadega.com.br/moillard-pouilly-fuisse-sous-la-grotte/p</link>
     <inventory-count>10</inventory-count>
     <product-id>23285</product-id>
   </product>
   <product>
-    <product-name>Moillard Les Violettes Côtes du Rhône  2020</product-name>
+    <product-name>Moillard Les Violettes Côtes du Rhône 2020</product-name>
     <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/les-violettes-cotes-du-rhone-/p</link>
+    <link>https://www.grandeadega.com.br/moillard-les-violettes-cotes-du-rhone/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23286</product-id>
   </product>
@@ -4549,7 +4549,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/volnay-premier-cru-clos-des-chenes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-volnay-premier-cru-clos-des-chenes/p</link>
     <inventory-count>12</inventory-count>
     <product-id>23287</product-id>
   </product>
@@ -4750,7 +4750,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/olaria-suave-tinto/p</link>
-    <inventory-count>39</inventory-count>
+    <inventory-count>33</inventory-count>
     <product-id>12172</product-id>
   </product>
   <product>
@@ -5858,12 +5858,12 @@
     <product-id>23310</product-id>
   </product>
   <product>
-    <product-name>Moillard Sparkling Crémant de Bourgogne Brut Prestige Chardonnay 2019 NV</product-name>
+    <product-name>Sparkling Moillard Crémant de Bourgogne Brut Prestige Chardonnay 2019 NV</product-name>
     <price>187</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-cremant-de-bourgogne-brut-prestige-chardonnay-2019/p</link>
+    <link>https://www.grandeadega.com.br/espumante-moillard-cremant-de-bourgogne-brut-prestige-chardonnay-2019/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23329</product-id>
   </product>
@@ -5873,7 +5873,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/meursault-vieilles-vignes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-meursault-vieilles-vignes/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23326</product-id>
   </product>
@@ -5883,7 +5883,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nuits-saint-georges-premier-cru-les-perrieres/p</link>
+    <link>https://www.grandeadega.com.br/moillard-nuits-saint-georges-premier-cru-les-perrieres/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23322</product-id>
   </product>
@@ -5893,7 +5893,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chassagne-montrachet-premier-cru-les-embazees/p</link>
+    <link>https://www.grandeadega.com.br/moillard-chassagne-montrachet-premier-cru-les-embazees/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23323</product-id>
   </product>
@@ -5903,7 +5903,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/chorey-les-beaune-vieilles-vignes/p</link>
+    <link>https://www.grandeadega.com.br/moillard-chorey-les-beaune-vieilles-vignes/p</link>
     <inventory-count>6</inventory-count>
     <product-id>23327</product-id>
   </product>
@@ -5913,7 +5913,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gevrey-chambertin-premier-cru-craipillots/p</link>
+    <link>https://www.grandeadega.com.br/moillard-gevrey-chambertin-premier-cru-craipillots/p</link>
     <inventory-count>2</inventory-count>
     <product-id>23328</product-id>
   </product>
@@ -6123,7 +6123,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/rose-terre-siciliane-igt/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-rose-terre-siciliane-igt/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23333</product-id>
   </product>
@@ -6133,7 +6133,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/decorato-bianco/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-decorato-bianco/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23337</product-id>
   </product>
@@ -6143,7 +6143,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/passiata-terre-siciliane-igt/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-passiata-terre-siciliane-igt/p</link>
     <inventory-count>0</inventory-count>
     <product-id>23338</product-id>
   </product>
@@ -6153,7 +6153,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/decorato-rosso/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-decorato-rosso/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23336</product-id>
   </product>
@@ -6163,7 +6163,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/cantodoro-sicilia-doc/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-cantodoro-sicilia-doc/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23339</product-id>
   </product>
@@ -6173,7 +6173,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/dalila-sicilia-doc/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-dalila-sicilia-doc/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23340</product-id>
   </product>
@@ -6183,7 +6183,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/moscato-d’asti-docg-palas/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-moscato-d’asti-docg-palas/p</link>
     <inventory-count>3</inventory-count>
     <product-id>21728</product-id>
   </product>
@@ -6193,7 +6193,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/gavi-docg-palas/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-gavi-docg-palas/p</link>
     <inventory-count>3</inventory-count>
     <product-id>21729</product-id>
   </product>
@@ -6203,7 +6203,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/roero-arneis-docg-le-madri-/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-roero-arneis-docg-le-madri-/p</link>
     <inventory-count>3</inventory-count>
     <product-id>21730</product-id>
   </product>
@@ -6213,7 +6213,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barbaresco-docg-palas/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-barbaresco-docg-palas/p</link>
     <inventory-count>3</inventory-count>
     <product-id>21731</product-id>
   </product>
@@ -6223,7 +6223,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barolo-docg-palas/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-barolo-docg-palas/p</link>
     <inventory-count>1</inventory-count>
     <product-id>21732</product-id>
   </product>
@@ -6268,12 +6268,12 @@
     <product-id>21725</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Nizza DOCG Riserva La Court 2019</product-name>
+    <product-name>Michele Chiarlo Nizza DOCG Riserva La Court  2019</product-name>
     <price>755</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>undefined</bottle_size>
+    <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nizza-docg-riserva-la-court-/p</link>
+    <link>https://www.grandeadega.com.br/michele-chiarlo-nizza-docg-riserva-la-court-/p</link>
     <inventory-count>1</inventory-count>
     <product-id>21733</product-id>
   </product>
@@ -6293,7 +6293,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/nero-d’avola-sicilia-doc/p</link>
+    <link>https://www.grandeadega.com.br/stemmari-nero-d’avola-sicilia-doc/p</link>
     <inventory-count>3</inventory-count>
     <product-id>23334</product-id>
   </product>
