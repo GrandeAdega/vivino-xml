@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-06-14T16:36:58.836Z</feed-generation-date>
+    <feed-generation-date>2023-06-15T19:49:03.971Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -9,7 +9,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/bardolino-cornale/p</link>
+    <link>https://www.grandeadega.com.br/vinho-bardolino-cornale/p</link>
     <inventory-count>12</inventory-count>
     <product-id>11008</product-id>
   </product>
@@ -330,7 +330,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/micina-nerello-mascalese-sicilia-igt/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>11433</product-id>
   </product>
   <product>
@@ -464,7 +464,7 @@
     <product-id>11832</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Pipoli Rosato  IGT 2018 Rosé</product-name>
+    <product-name>Vigneti del Vulture Pipoli Rosato IGT 2018 Rosé</product-name>
     <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1344,7 +1344,7 @@
     <product-id>14000</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Cava Don Román Brut NV Sparkling</product-name>
+    <product-name>Marqués de Tomares Sparkling Cava Don Román Brut NV</product-name>
     <price>63</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1354,7 +1354,7 @@
     <product-id>14014</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Cava Semi Sec Don Román NV Sparkling</product-name>
+    <product-name>Marqués de Tomares Sparkling Cava Semi Sec Don Román NV</product-name>
     <price>63</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1694,7 +1694,7 @@
     <product-id>14225</product-id>
   </product>
   <product>
-    <product-name>Deutz Blanc de Blancs NV Sparkling</product-name>
+    <product-name>Sparkling Deutz Blanc de Blancs NV</product-name>
     <price>1100</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1704,7 +1704,7 @@
     <product-id>21210</product-id>
   </product>
   <product>
-    <product-name>Deutz Amour de Deutz Blanc de Blancs Millésimé NV Sparkling</product-name>
+    <product-name>Sparkling Deutz Amour de Deutz Blanc de Blancs Millésimé NV</product-name>
     <price>2498</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1974,7 +1974,7 @@
     <product-id>23007</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Estrellas Reserva Cabernet Sauvignon 750 ml 2018</product-name>
+    <product-name>Santa Carolina Estrellas Reserva Cabernet Sauvignon 2018</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2894,7 +2894,7 @@
     <product-id>25021</product-id>
   </product>
   <product>
-    <product-name>Nederburg The Winemasters Reserve Cabernet Sauvignon 250 ml 2016</product-name>
+    <product-name>Nederburg The Winemasters Reserve Cabernet Sauvignon 2016</product-name>
     <price>34</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>250 ml</bottle_size>
@@ -3914,7 +3914,7 @@
     <product-id>14232</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Brut NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Brut NV</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3924,7 +3924,7 @@
     <product-id>21085</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Demi Sec NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Demi Sec NV</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3934,7 +3934,7 @@
     <product-id>21086</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Brut Rosé NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Brut Rosé NV</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3944,7 +3944,7 @@
     <product-id>21133</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Ice NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Ice NV</product-name>
     <price>92</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3954,7 +3954,7 @@
     <product-id>21406</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Ice Rosé NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Ice Rosé NV</product-name>
     <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4184,7 +4184,7 @@
     <product-id>23260</product-id>
   </product>
   <product>
-    <product-name>Château des Maures Lalande de Pomerol  2015</product-name>
+    <product-name>Château des Maures Lalande de Pomerol 2015</product-name>
     <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4264,7 +4264,7 @@
     <product-id>23289</product-id>
   </product>
   <product>
-    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild  NV</product-name>
+    <product-name>L’Enclos de Puisseguin Saint-Emilion Domaines Edmond de Rothschild NV</product-name>
     <price>369</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4484,7 +4484,7 @@
     <product-id>23279</product-id>
   </product>
   <product>
-    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  NV</product-name>
+    <product-name>Moillard Morgon Les Collines Cru de Beaujolais NV</product-name>
     <price>178</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4776,7 +4776,8 @@
     <product-id>12080</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Verdelho 10 Anos - Meio Seco NV</product-name>
+    <product-name>Justino's Madeira Verdelho 10 Anos - Meio Seco
+ NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4796,7 +4797,7 @@
     <product-id>12079</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Malvasia 10 Years Old  NV</product-name>
+    <product-name>Justino's Madeira Malvasia 10 Years Old NV</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4936,7 +4937,7 @@
     <product-id>12276</product-id>
   </product>
   <product>
-    <product-name>Filipa Pato Território Vivo Baga  2020</product-name>
+    <product-name>Filipa Pato Território Vivo Baga 2020</product-name>
     <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4946,8 +4947,7 @@
     <product-id>12277</product-id>
   </product>
   <product>
-    <product-name>Club MasterChef MasterChef Tempranillo
- 2020</product-name>
+    <product-name>Club MasterChef MasterChef Tempranillo 2020</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5108,7 +5108,7 @@
     <product-id>23303</product-id>
   </product>
   <product>
-    <product-name>Alambrado Etiqueta Negra Bonarda  2020</product-name>
+    <product-name>Alambrado Etiqueta Negra Bonarda 2020</product-name>
     <price>65.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5138,7 +5138,7 @@
     <product-id>23306</product-id>
   </product>
   <product>
-    <product-name>Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon  2020</product-name>
+    <product-name>Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2020</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5168,7 +5168,7 @@
     <product-id>11448</product-id>
   </product>
   <product>
-    <product-name>Sperone Moscato NV White</product-name>
+    <product-name>Sparkling Sperone Moscato NV White</product-name>
     <price>75</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5178,7 +5178,7 @@
     <product-id>14195</product-id>
   </product>
   <product>
-    <product-name>Sperone Prosecco DOC Rosé Millesimato NV</product-name>
+    <product-name>Sparkling Sperone Prosecco DOC Rosé Millesimato NV</product-name>
     <price>108</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5208,7 +5208,7 @@
     <product-id>12293</product-id>
   </product>
   <product>
-    <product-name>Maxim’s Cuvée Brut NV Sparkling</product-name>
+    <product-name>Sparkling Maxim’s Cuvée Brut NV</product-name>
     <price>409</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5728,7 +5728,7 @@
     <product-id>35081</product-id>
   </product>
   <product>
-    <product-name>Veuve du Vernay Édition Limitée Brut No. 2 NV Sparkling</product-name>
+    <product-name>Sparkling Veuve du Vernay Édition Limitée Brut No. 2 NV</product-name>
     <price>76</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5798,7 +5798,7 @@
     <product-id>12336</product-id>
   </product>
   <product>
-    <product-name>Cava Brut Don Román Reserva Imperial NV Sparkling</product-name>
+    <product-name>Sparkling Cava Brut Don Román Reserva Imperial NV</product-name>
     <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5858,7 +5858,7 @@
     <product-id>23310</product-id>
   </product>
   <product>
-    <product-name>Sparkling Moillard Crémant de Bourgogne Brut Prestige Chardonnay 2019 NV</product-name>
+    <product-name>Moillard Sparkling Crémant de Bourgogne Brut Prestige Chardonnay 2019 NV</product-name>
     <price>187</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6198,7 +6198,7 @@
     <product-id>21729</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  2021 White</product-name>
+    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri 2021 White</product-name>
     <price>224</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6278,7 +6278,7 @@
     <product-id>21733</product-id>
   </product>
   <product>
-    <product-name>Veuve Du Vernay Brut Sem Álcool NV Sparkling</product-name>
+    <product-name>Sparkling Veuve Du Vernay Brut Sem Álcool NV</product-name>
     <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6358,7 +6358,7 @@
     <product-id>11536</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Voga Prosecco Brut DOC 2022 Sparkling</product-name>
+    <product-name>Enoitalia Sparkling Voga Prosecco Brut DOC 2022</product-name>
     <price>115</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
