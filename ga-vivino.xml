@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-06-15T19:49:03.971Z</feed-generation-date>
+    <feed-generation-date>2023-06-17T19:49:03.666Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -1310,7 +1310,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/justino-s-madeira-3-anos-seco/p</link>
-    <inventory-count>27</inventory-count>
+    <inventory-count>25</inventory-count>
     <product-id>13030</product-id>
   </product>
   <product>
@@ -1340,7 +1340,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-roman-tinto/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>14000</product-id>
   </product>
   <product>
@@ -1810,7 +1810,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/cave-de-cairanne-le-chene-noir/p</link>
-    <inventory-count>15</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>21472</product-id>
   </product>
   <product>
@@ -2610,7 +2610,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-cabernet-sauvignon/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>18</inventory-count>
     <product-id>51045</product-id>
   </product>
   <product>
@@ -3440,7 +3440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/chateau-haura-2015/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>21953</product-id>
   </product>
   <product>
@@ -3780,7 +3780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>108</inventory-count>
+    <inventory-count>112</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -4923,7 +4923,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-prosecco-doc-branco-sperone/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>14194</product-id>
   </product>
   <product>
@@ -5443,7 +5443,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/putos-rose-alentejo-doc/p</link>
+    <link>https://www.grandeadega.com.br/vinho-putos-rose-alentejo-doc/p</link>
     <inventory-count>20</inventory-count>
     <product-id>12288</product-id>
   </product>
