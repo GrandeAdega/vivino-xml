@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-06-30T19:49:03.858Z</feed-generation-date>
+    <feed-generation-date>2023-07-01T19:49:03.996Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale</product-name>
@@ -50,7 +50,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbera-la-quercia/p</link>
-    <inventory-count>43</inventory-count>
+    <inventory-count>37</inventory-count>
     <product-id>11029</product-id>
   </product>
   <product>
@@ -3050,7 +3050,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/due-mari-tinto/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>11846</product-id>
   </product>
   <product>
