@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-07-03T17:57:45.728Z</feed-generation-date>
+    <feed-generation-date>2023-07-03T18:08:39.676Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale</product-name>
@@ -3780,7 +3780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>69</inventory-count>
+    <inventory-count>73</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -4947,7 +4947,7 @@
     <product-id>12277</product-id>
   </product>
   <product>
-    <product-name>Club Master Chef MasterChef Tempranillo 2020</product-name>
+    <product-name>Club Master Chef Tempranillo 2020</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4958,7 +4958,7 @@
     <product-id>24135</product-id>
   </product>
   <product>
-    <product-name>Club MasterChef MasterChef Crianza DOCa Rioja
+    <product-name>Club Master Chef Crianza DOCa Rioja
  2018</product-name>
     <price>159.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
@@ -4970,7 +4970,7 @@
     <product-id>24136</product-id>
   </product>
   <product>
-    <product-name>Club MasterChef MasterChef Roble Ribera del Duero
+    <product-name>Club Master Chef Roble Ribera del Duero
  2019</product-name>
     <price>152.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
