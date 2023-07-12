@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-07-11T19:50:27.858Z</feed-generation-date>
+    <feed-generation-date>2023-07-12T19:50:27.745Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -3000,7 +3000,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton’s-ruby/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>27</inventory-count>
     <product-id>12314</product-id>
   </product>
   <product>
@@ -5519,7 +5519,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barolo-docg-cantine-del-borgo-reale/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>11521</product-id>
   </product>
   <product>
@@ -5529,7 +5529,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/langhe-nebbiolo-doc-cantine-del-borgo-reale/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>11522</product-id>
   </product>
   <product>
