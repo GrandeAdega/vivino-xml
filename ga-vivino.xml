@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-07-25T19:50:27.904Z</feed-generation-date>
+    <feed-generation-date>2023-07-29T19:50:27.856Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -24,10 +24,10 @@
     <product-id>11009</product-id>
   </product>
   <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino DOCG Camigliano 2014</product-name>
+    <product-name>Brunello di Montalcino DOCG Camigliano</product-name>
     <price>683</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/brunello-di-montalcino-docg-camigliano/p</link>
     <inventory-count>4</inventory-count>
@@ -994,17 +994,17 @@
     <product-id>12185</product-id>
   </product>
   <product>
-    <product-name>Filipa Pato Sparkling 3B Rosé NV</product-name>
+    <product-name>Sparkling 3B Rosé</product-name>
     <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-3b-rose/p</link>
     <inventory-count>5</inventory-count>
     <product-id>12186</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Loureiro Vinho Verde White</product-name>
+    <product-name>João Portugal Ramos Loureiro Vinho Verde NV White</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1284,7 +1284,7 @@
     <product-id>13001</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 40 anos</product-name>
+    <product-name>Caves Messias Fortified Messias 40 anos NV</product-name>
     <price>869</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1464,10 +1464,10 @@
     <product-id>14075</product-id>
   </product>
   <product>
-    <product-name>Cims de Porrera Vi de Vila Porrera NV</product-name>
+    <product-name>Vi de Vila Porrera</product-name>
     <price>385.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vi-de-vila-porrera/p</link>
     <inventory-count>0</inventory-count>
@@ -1604,10 +1604,10 @@
     <product-id>14154</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Cohiba Atmosphere Gran Reserva DOCa Rioja 2012</product-name>
+    <product-name>Cohiba Atmosphere Gran Reserva DOCa Rioja</product-name>
     <price>999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/cohiba-atmosphere-gran-reserva-doca-rioja/p</link>
     <inventory-count>6</inventory-count>
@@ -1914,10 +1914,10 @@
     <product-id>21712</product-id>
   </product>
   <product>
-    <product-name>Domaine Denis Dubourdieu L'Extravagant de Doisy-Daëne Sauternes 375 ml 2010 Dessert</product-name>
+    <product-name>L'Extravagant de Doisy-Daëne Sauternes 375 ml</product-name>
     <price>3579</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>375 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/l-extravagant-de-doisy-daene-sauternes-375-ml/p</link>
     <inventory-count>1</inventory-count>
@@ -1984,10 +1984,10 @@
     <product-id>23008</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Gran Reserva Carmenère NV</product-name>
+    <product-name>Santa Carolina Gran Reserva Carmenère</product-name>
     <price>137</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-gran-reserva-carmenere/p</link>
     <inventory-count>0</inventory-count>
@@ -2024,7 +2024,7 @@
     <product-id>23021</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Carolina Reserva Syrah 2018</product-name>
+    <product-name>Santa Carolina Carolina Reserva Syrah</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2194,7 +2194,7 @@
     <product-id>23094</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Carmenère</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Carmenère NV</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2244,10 +2244,10 @@
     <product-id>24007</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Fincas Cabernet Sauvignon 2022</product-name>
+    <product-name>Alfredo Roca Fincas Cabernet Sauvignon</product-name>
     <price>64</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alfredo-roca-fincas-cabernet-sauvignon/p</link>
     <inventory-count>24</inventory-count>
@@ -2274,7 +2274,7 @@
     <product-id>24033</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Fincas Syrah</product-name>
+    <product-name>Alfredo Roca Fincas Syrah NV</product-name>
     <price>64</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2354,7 +2354,7 @@
     <product-id>25010</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Carlos Montes Tannat NV</product-name>
+    <product-name>Bodegas Montes Toscanini Carlos Montes Tannat 2020</product-name>
     <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2414,10 +2414,10 @@
     <product-id>25030</product-id>
   </product>
   <product>
-    <product-name>Jacob’s Creek Jacob's Creek Shiraz 2020</product-name>
+    <product-name>Jacob's Creek Shiraz</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/jacob-s-creek-shiraz/p</link>
     <inventory-count>6</inventory-count>
@@ -2744,7 +2744,7 @@
     <product-id>12195</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Reserva DOC Magnum 2019</product-name>
+    <product-name>Carmim Reguengos Reserva DOC Magnum</product-name>
     <price>179</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -2804,10 +2804,10 @@
     <product-id>21615</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Estrellas Reserva Cabernet Sauvignon 375 ml 2018</product-name>
+    <product-name>Estrellas Reserva Cabernet Sauvignon 375 ml</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>375 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/estrellas-reserva-cabernet-sauvignon-375-ml/p</link>
     <inventory-count>1</inventory-count>
@@ -2884,7 +2884,7 @@
     <product-id>24105</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 375 ml 2021</product-name>
+    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 375 ml 2020</product-name>
     <price>42.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -2974,7 +2974,7 @@
     <product-id>14204</product-id>
   </product>
   <product>
-    <product-name>Bodega Vieja Suave White 2021</product-name>
+    <product-name>Bodega Vieja Suave White 2022</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3234,7 +3234,7 @@
     <product-id>14218</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Cabernet Sauvignon 2019</product-name>
+    <product-name>Aura Wines Trapecista Reserva Cabernet Sauvignon 2021</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3624,10 +3624,10 @@
     <product-id>23236</product-id>
   </product>
   <product>
-    <product-name>Alambrado Cosecha Manual Gran Malbec 2019</product-name>
+    <product-name>Gran Alambrado Cosecha Manual Malbec</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/gran-alambrado-cosecha-manual-malbec/p</link>
     <inventory-count>9</inventory-count>
@@ -3854,7 +3854,7 @@
     <product-id>23232</product-id>
   </product>
   <product>
-    <product-name>Las Condes Reserva Carmenère 2018</product-name>
+    <product-name>Las Condes Reserva Carmenère</product-name>
     <price>46</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4114,10 +4114,10 @@
     <product-id>23250</product-id>
   </product>
   <product>
-    <product-name>Altolandon Mil Historias Syrah 2018</product-name>
+    <product-name>Mil Historias Syrah</product-name>
     <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/mil-historias-syrah/p</link>
     <inventory-count>6</inventory-count>
@@ -4214,10 +4214,10 @@
     <product-id>23263</product-id>
   </product>
   <product>
-    <product-name>Moillard Aloxe-Corton Les Affouages 2017</product-name>
+    <product-name>Moillard Aloxe-Corton Les Affouages</product-name>
     <price>556</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/moillard-aloxe-corton-les-affouages/p</link>
     <inventory-count>10</inventory-count>
@@ -4424,10 +4424,10 @@
     <product-id>23273</product-id>
   </product>
   <product>
-    <product-name>Moillard Bourgogne Hautes Côtes de Beaune Les Alouettes White 2018</product-name>
+    <product-name>Moillard Bourgogne Hautes Côtes de Beaune Les Alouettes White</product-name>
     <price>315</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/moillard-bourgogne-hautes-cotes-de-beaune-les-alouettes-branco/p</link>
     <inventory-count>2</inventory-count>
@@ -4514,10 +4514,10 @@
     <product-id>23282</product-id>
   </product>
   <product>
-    <product-name>Moillard Pommard Premier Cru Les Charmots 2015</product-name>
+    <product-name>Moillard Pommard Premier Cru Les Charmots</product-name>
     <price>981</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/moillard-pommard-premier-cru-les-charmots/p</link>
     <inventory-count>12</inventory-count>
@@ -4694,7 +4694,7 @@
     <product-id>12001</product-id>
   </product>
   <product>
-    <product-name>Finca Fella Cala Rey 2021</product-name>
+    <product-name>Finca Fella Cala Rey</product-name>
     <price>63.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4987,10 +4987,10 @@
     <product-id>12320</product-id>
   </product>
   <product>
-    <product-name>Bosio Barbaresco DOCG Truffle Hunter Leda 2018</product-name>
+    <product-name>Barbaresco DOCG Truffle Hunter Leda</product-name>
     <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbaresco-docg-truffle-hunter-leda/p</link>
     <inventory-count>7</inventory-count>
@@ -5253,10 +5253,10 @@
     <product-id>11562</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Norton Reserva Malbec 2021</product-name>
+    <product-name>Norton Reserva Malbec</product-name>
     <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-reserva-malbec/p</link>
     <inventory-count>8</inventory-count>
@@ -5313,10 +5313,10 @@
     <product-id>11568</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Norton Select Cabernet Sauvignon 2021</product-name>
+    <product-name>Norton Select Cabernet Sauvignon</product-name>
     <price>88</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-select-cabernet-sauvignon/p</link>
     <inventory-count>17</inventory-count>
@@ -5433,10 +5433,10 @@
     <product-id>12287</product-id>
   </product>
   <product>
-    <product-name>Putos Rosé Alentejo DOC 2021</product-name>
+    <product-name>Putos Rosé Alentejo DOC</product-name>
     <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-putos-rose-alentejo-doc/p</link>
     <inventory-count>19</inventory-count>
@@ -5483,10 +5483,10 @@
     <product-id>23130</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Estelar 57 Chardonnay 2021 White</product-name>
+    <product-name>Estelar 57 Chardonnay</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/-estelar-57-chardonnay/p</link>
     <inventory-count>17</inventory-count>
@@ -5713,7 +5713,7 @@
     <product-id>35084</product-id>
   </product>
   <product>
-    <product-name>Luccarelli Primitivo Puglia IGP Magnum 2018</product-name>
+    <product-name>Luccarelli Primitivo Puglia IGP Magnum</product-name>
     <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -6283,7 +6283,7 @@
     <product-id>21737</product-id>
   </product>
   <product>
-    <product-name>Stemmari Nero d’Avola Sicilia DOC</product-name>
+    <product-name>Stemmari Nero d’Avola Sicilia DOC NV</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6363,10 +6363,10 @@
     <product-id>11538</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Carolina Reserva Rosé NV</product-name>
+    <product-name>Carolina Reserva Rosé</product-name>
     <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
-    <bottle_size>750 ml</bottle_size>
+    <bottle_size>undefined</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/carolina-reserva-rose/p</link>
     <inventory-count>0</inventory-count>
@@ -6503,7 +6503,7 @@
     <product-id>23103</product-id>
   </product>
   <product>
-    <product-name>Finca Fella Cala Rey Rosé 2021</product-name>
+    <product-name>Finca Fella Cala Rey Rosé</product-name>
     <price>63.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
