@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-07-31T19:50:27.784Z</feed-generation-date>
+    <feed-generation-date>2023-08-01T19:50:27.889Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -639,7 +639,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/porto-messias-10-years-white/p</link>
+    <link>https://www.grandeadega.com.br/porto-messias-10-years-branco/p</link>
     <inventory-count>6</inventory-count>
     <product-id>12022</product-id>
   </product>
@@ -1444,7 +1444,7 @@
     <product-id>14058</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Cava Don Román Rosé NV</product-name>
+    <product-name>Marqués de Tomares Sparkling Cava Don Román Rosé NV</product-name>
     <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
