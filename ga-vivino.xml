@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-08-01T19:50:27.889Z</feed-generation-date>
+    <feed-generation-date>2023-08-02T19:50:28.724Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -1354,7 +1354,7 @@
     <product-id>14014</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Sparkling Cava Semi Sec Don Román NV</product-name>
+    <product-name>Marqués de Tomares Cava Semi Sec Don Román NV Sparkling</product-name>
     <price>63</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1444,7 +1444,7 @@
     <product-id>14058</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Sparkling Cava Don Román Rosé NV</product-name>
+    <product-name>Marqués de Tomares Cava Don Román Rosé NV Sparkling</product-name>
     <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5793,7 +5793,7 @@
     <product-id>12336</product-id>
   </product>
   <product>
-    <product-name>Sparkling Cava Brut Don Román Reserva Imperial NV</product-name>
+    <product-name>Cava Brut Don Román Reserva Imperial NV Sparkling</product-name>
     <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
