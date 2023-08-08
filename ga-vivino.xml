@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-08-07T19:50:28.284Z</feed-generation-date>
+    <feed-generation-date>2023-08-08T19:50:28.308Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020</product-name>
@@ -1190,7 +1190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/pouca-roupa-tinto/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12233</product-id>
   </product>
   <product>
@@ -1230,7 +1230,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-10-anos-com-fibrolata/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>12557</product-id>
   </product>
   <product>
@@ -4150,7 +4150,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/chateau-haut-laulion-bordeaux-superieur-aop-tinto/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>23255</product-id>
   </product>
   <product>
