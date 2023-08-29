@@ -170,7 +170,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terre-natuzzi-don-giovanni-chianti-classico-docg/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>11142</product-id>
   </product>
   <product>
@@ -620,7 +620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
-    <inventory-count>21</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>12013</product-id>
   </product>
   <product>
@@ -660,7 +660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-do-valdoeiro-tinto/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>12047</product-id>
   </product>
   <product>
@@ -670,7 +670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-    <inventory-count>52</inventory-count>
+    <inventory-count>51</inventory-count>
     <product-id>12051</product-id>
   </product>
   <product>
@@ -1190,7 +1190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/pouca-roupa-tinto/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>12233</product-id>
   </product>
   <product>
@@ -1270,7 +1270,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-white-dry-seco/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>13000</product-id>
   </product>
   <product>
@@ -2750,7 +2750,7 @@
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-reserva-doc-tinto-magnum/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>12196</product-id>
   </product>
   <product>
@@ -3060,7 +3060,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/due-mari-primitivo-puglia-igt/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>11848</product-id>
   </product>
   <product>
@@ -3320,7 +3320,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-reserva/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>28</inventory-count>
     <product-id>14164</product-id>
   </product>
   <product>
@@ -3340,7 +3340,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-jovem/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>14160</product-id>
   </product>
   <product>
@@ -3350,7 +3350,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-crianza/p</link>
-    <inventory-count>21</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>14163</product-id>
   </product>
   <product>
@@ -5579,7 +5579,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-belvino-rose-brut/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>11527</product-id>
   </product>
   <product>
@@ -5729,7 +5729,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-edition-limitee-brut/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>21408</product-id>
   </product>
   <product>
