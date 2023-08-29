@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-08-27T19:50:28.195Z</feed-generation-date>
+    <feed-generation-date>2023-08-29T19:50:28.138Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -224,7 +224,7 @@
     <product-id>11233</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Vernaccia di San Gimignano DOCG 2020 Vinho White</product-name>
+    <product-name>Cantina Poderi del Paradiso Vernaccia di San Gimignano DOCG 2021 Vinho White</product-name>
     <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -234,7 +234,7 @@
     <product-id>11402</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Vin Santo NV Vinho White</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Vin Santo 2016 Vinho White</product-name>
     <price>299</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -254,7 +254,7 @@
     <product-id>11405</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Saxa Calida 2010 Vinho</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Saxa Calida Vinho</product-name>
     <price>869</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -280,7 +280,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp/p</link>
-    <inventory-count>1</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>11425</product-id>
   </product>
   <product>
@@ -294,7 +294,7 @@
     <product-id>11427</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Due Lune Nerello Mascalese Nero D'Avola IGT NV Vinho</product-name>
+    <product-name>Cantina Cellaro Due Lune Nerello Mascalese Nero D'Avola IGT 2019 Vinho</product-name>
     <price>339</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -324,7 +324,7 @@
     <product-id>11432</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Micina Nerello Mascalese Sicilia IGT Vinho</product-name>
+    <product-name>Cantina Cellaro Micina Nerello Mascalese Sicilia IGT NV Vinho</product-name>
     <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -360,7 +360,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>11442</product-id>
   </product>
   <product>
@@ -434,7 +434,7 @@
     <product-id>11505</product-id>
   </product>
   <product>
-    <product-name>Vigneti del Vulture Piano del Cerro Aglianico del Vulture Riserva DOC 2018 Vinho</product-name>
+    <product-name>Vigneti del Vulture Piano del Cerro Aglianico del Vulture Riserva DOC 2019 Vinho</product-name>
     <price>298</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -540,7 +540,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>28</inventory-count>
     <product-id>11841</product-id>
   </product>
   <product>
@@ -554,7 +554,7 @@
     <product-id>11842</product-id>
   </product>
   <product>
-    <product-name>Sandro Forte e Figlio Forte Ambrone Etichetta Nera IGT Toscana Vinho</product-name>
+    <product-name>Sandro Forte e Figlio Forte Ambrone Etichetta Nera IGT Toscana 2019 Vinho</product-name>
     <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -844,7 +844,7 @@
     <product-id>12123</product-id>
   </product>
   <product>
-    <product-name>Bom Juiz Reserva 2019 Vinho</product-name>
+    <product-name>Bom Juiz Reserva 2020 Vinho</product-name>
     <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1054,7 +1054,7 @@
     <product-id>12205</product-id>
   </product>
   <product>
-    <product-name>Carmim Régia Colheita DOC Alentejo 2019 Tinto</product-name>
+    <product-name>Carmim Régia Colheita DOC Alentejo 2020 Tinto</product-name>
     <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1284,7 +1284,7 @@
     <product-id>13001</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 40 anos NV do Porto</product-name>
+    <product-name>Caves Messias Fortified Messias 40 anos 2022 do Porto</product-name>
     <price>869</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1394,7 +1394,7 @@
     <product-id>14027</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Reserva 2015 Vinho</product-name>
+    <product-name>Marqués de Tomares Reserva Vinho</product-name>
     <price>159</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1414,7 +1414,7 @@
     <product-id>14048</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Excellence 2019 Vinho</product-name>
+    <product-name>Marqués de Tomares Excellence 2020 Vinho</product-name>
     <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1534,7 +1534,7 @@
     <product-id>14142</product-id>
   </product>
   <product>
-    <product-name>Premium Fincas Chan de Rosas Gran Cuvée Magnum 2018 Vinho White</product-name>
+    <product-name>Premium Fincas Chan de Rosas Gran Cuvée Magnum Vinho White</product-name>
     <price>412</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -1550,7 +1550,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/pata-negra-reserva-tempranillo/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>14147</product-id>
   </product>
   <product>
@@ -1584,7 +1584,7 @@
     <product-id>14152</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Montaña Finca la Claudia Reserva Garnacha DOCa Rioja Vinho</product-name>
+    <product-name>Marqués de Tomares Montaña Finca la Claudia Reserva Garnacha DOCa Rioja 2016 Vinho</product-name>
     <price>284</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1804,7 +1804,7 @@
     <product-id>21433</product-id>
   </product>
   <product>
-    <product-name>Cave de Cairanne Le Chêne Noir 2020 Vinho</product-name>
+    <product-name>Cave de Cairanne Le Chêne Noir Vinho</product-name>
     <price>128</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1924,7 +1924,7 @@
     <product-id>21907</product-id>
   </product>
   <product>
-    <product-name>Domaine Denis Dubourdieu Le Clos de Reynon 2013 Vinho Tinto</product-name>
+    <product-name>Domaine Denis Dubourdieu Le Clos de Reynon Vinho Tinto</product-name>
     <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2174,7 +2174,7 @@
     <product-id>23092</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot 2019 Vinho</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot Vinho</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2194,7 +2194,7 @@
     <product-id>23094</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Carmenère NV Vinho</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Carmenère 2019 Vinho</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2344,7 +2344,7 @@
     <product-id>24076</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Gran Tannat Premium Vinho</product-name>
+    <product-name>Bodegas Montes Toscanini Gran Tannat Premium 2017 Vinho</product-name>
     <price>299</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2494,7 +2494,7 @@
     <product-id>27022</product-id>
   </product>
   <product>
-    <product-name>Leaping Horse Cabernet Sauvignon 2016 Vinho</product-name>
+    <product-name>Leaping Horse Cabernet Sauvignon Vinho</product-name>
     <price>105.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2640,7 +2640,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-shiraz/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>51048</product-id>
   </product>
   <product>
@@ -2744,7 +2744,7 @@
     <product-id>12195</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Reserva DOC Magnum NV Vinho Tinto</product-name>
+    <product-name>Carmim Reguengos Reserva DOC Magnum 2019 Vinho Tinto</product-name>
     <price>179</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -2784,7 +2784,7 @@
     <product-id>21434</product-id>
   </product>
   <product>
-    <product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé Magnum 2018 Vinho Rosé</product-name>
+    <product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé Magnum Vinho Rosé</product-name>
     <price>379</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -2964,7 +2964,7 @@
     <product-id>14201</product-id>
   </product>
   <product>
-    <product-name>Bodega Vieja Suave Vinho Tinto</product-name>
+    <product-name>Bodega Vieja Suave 2022 Vinho Tinto</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3084,7 +3084,7 @@
     <product-id>11850</product-id>
   </product>
   <product>
-    <product-name>Castellani Due Mari Chianti DOCG Vinho</product-name>
+    <product-name>Castellani Due Mari Chianti DOCG NV Vinho</product-name>
     <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3104,7 +3104,7 @@
     <product-id>12262</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Vila Santa NV Tinto</product-name>
+    <product-name>João Portugal Ramos Vila Santa 2022 Tinto</product-name>
     <price>48.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3180,7 +3180,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alto-del-valle-branco/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>14207</product-id>
   </product>
   <product>
@@ -3190,7 +3190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>14208</product-id>
   </product>
   <product>
@@ -3200,17 +3200,17 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-carmenere/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>25</inventory-count>
     <product-id>14209</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reservado Merlot 2021 Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reservado Merlot 2022 Vinho</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-merlot/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>14217</product-id>
   </product>
   <product>
@@ -3230,7 +3230,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reservado-rose-syrah/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>14218</product-id>
   </product>
   <product>
@@ -3244,7 +3244,7 @@
     <product-id>14220</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Carmenère 2021 Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reserva Carmenère Vinho</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3254,7 +3254,7 @@
     <product-id>14221</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Pinot Noir Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reserva Pinot Noir NV Vinho</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3284,7 +3284,7 @@
     <product-id>14227</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Superior Carmenère 2019 Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reserva Superior Carmenère 2021 Vinho</product-name>
     <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3394,7 +3394,7 @@
     <product-id>14178</product-id>
   </product>
   <product>
-    <product-name>Marques de Tomares Crianza Rioja White 2018 Vinho Branco</product-name>
+    <product-name>Marques de Tomares Crianza Rioja White 2019 Vinho Branco</product-name>
     <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3460,7 +3460,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reserva-superior-pinot-noir/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>14229</product-id>
   </product>
   <product>
@@ -3500,7 +3500,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/diaz-bayo-8-meses/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>14169</product-id>
   </product>
   <product>
@@ -3674,7 +3674,7 @@
     <product-id>23243</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Pinot Noir 2021 Vinho</product-name>
+    <product-name>Bodega Santa Julia Alambrado Pinot Noir Vinho</product-name>
     <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3684,7 +3684,7 @@
     <product-id>23244</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Viognier 2021 Vinho White</product-name>
+    <product-name>Bodega Santa Julia Alambrado Viognier 2022 Vinho White</product-name>
     <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3804,7 +3804,7 @@
     <product-id>23226</product-id>
   </product>
   <product>
-    <product-name>Las Condes Varietal Carmenère 2020 Vinho</product-name>
+    <product-name>Las Condes Varietal Carmenère Vinho</product-name>
     <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3980,7 +3980,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-tempranillo-e-malbec/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>35</inventory-count>
     <product-id>23294</product-id>
   </product>
   <product>
@@ -3990,7 +3990,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-syrah-e-malbec/p</link>
-    <inventory-count>38</inventory-count>
+    <inventory-count>37</inventory-count>
     <product-id>23295</product-id>
   </product>
   <product>
@@ -4000,7 +4000,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-chenin-e-chardonnay/p</link>
-    <inventory-count>82</inventory-count>
+    <inventory-count>81</inventory-count>
     <product-id>23296</product-id>
   </product>
   <product>
@@ -4010,7 +4010,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/finca-beltran-duo-malbec-e-syrah-rose/p</link>
-    <inventory-count>527</inventory-count>
+    <inventory-count>526</inventory-count>
     <product-id>23297</product-id>
   </product>
   <product>
@@ -4164,7 +4164,7 @@
     <product-id>23258</product-id>
   </product>
   <product>
-    <product-name>Château Laubès Elevé em Fûts de Chêne 2016 Vinho</product-name>
+    <product-name>Château Laubès Elevé em Fûts de Chêne 2015 Vinho</product-name>
     <price>159</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4670,7 +4670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-carolina-reservado-cabernet-sauvignon/p</link>
-    <inventory-count>35</inventory-count>
+    <inventory-count>34</inventory-count>
     <product-id>23001</product-id>
   </product>
   <product>
@@ -4997,7 +4997,7 @@
     <product-id>12321</product-id>
   </product>
   <product>
-    <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda Vinho</product-name>
+    <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda 2019 Vinho</product-name>
     <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5029,7 +5029,7 @@
     <product-id>12324</product-id>
   </product>
   <product>
-    <product-name>Bosio Piemonte DOC Barbera Appassimento Truffle Hunter Leda Vinho</product-name>
+    <product-name>Bosio Piemonte DOC Barbera Appassimento Truffle Hunter Leda 2021 Vinho</product-name>
     <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5039,7 +5039,7 @@
     <product-id>12325</product-id>
   </product>
   <product>
-    <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda 2020 Vinho</product-name>
+    <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda Vinho</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5143,7 +5143,7 @@
     <product-id>23307</product-id>
   </product>
   <product>
-    <product-name>Pata Negra Tempranillo Roble Toro 2021 Vinho</product-name>
+    <product-name>Pata Negra Tempranillo Roble Toro 2020 Vinho</product-name>
     <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5323,7 +5323,7 @@
     <product-id>11569</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sexy Fish Malbec 2021 Vinho</product-name>
+    <product-name>Bodega Norton Sexy Fish Malbec 2022 Vinho</product-name>
     <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5379,7 +5379,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-cabernet-sauvignon/p</link>
-    <inventory-count>27</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>11576</product-id>
   </product>
   <product>
@@ -5419,7 +5419,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-putos-tinto-alentejo-doc/p</link>
-    <inventory-count>56</inventory-count>
+    <inventory-count>50</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
@@ -5503,7 +5503,7 @@
     <product-id>23129</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Estelar 57 Carmenère Vinho</product-name>
+    <product-name>Santa Carolina Estelar 57 Carmenère 2020 Vinho</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5749,7 +5749,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-de-foz-de-arouce-tinto/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>12337</product-id>
   </product>
   <product>
@@ -6253,7 +6253,7 @@
     <product-id>21724</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Reserva 2021 Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Reserva Vinho White</product-name>
     <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6363,7 +6363,7 @@
     <product-id>11538</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Carolina Reserva Rosé NV Vinho Rosé</product-name>
+    <product-name>Santa Carolina Carolina Reserva Rosé 2022 Vinho Rosé</product-name>
     <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
