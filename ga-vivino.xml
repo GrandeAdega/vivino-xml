@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-08-29T19:50:28.138Z</feed-generation-date>
+    <feed-generation-date>2023-08-30T19:50:27.745Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -940,7 +940,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nossa-calcario-branco/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>12167</product-id>
   </product>
   <product>
@@ -1240,7 +1240,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-3b-blanc-de-blancs/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>12905</product-id>
   </product>
   <product>
@@ -2614,7 +2614,7 @@
     <product-id>51045</product-id>
   </product>
   <product>
-    <product-name>Nederburg Sauvignon Blanc 2021 Vinho White</product-name>
+    <product-name>Nederburg Sauvignon Blanc 2021 White</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2770,7 +2770,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nossa-calcario-tinto/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>12901</product-id>
   </product>
   <product>
@@ -2990,7 +2990,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/dinamica-d-n-m-c--branco/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>12916</product-id>
   </product>
   <product>
@@ -3214,7 +3214,7 @@
     <product-id>14217</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reservado Chardonnay 2022 Vinho White</product-name>
+    <product-name>Aura Wines Trapecista Reservado Chardonnay 2022 White</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3884,7 +3884,7 @@
     <product-id>23231</product-id>
   </product>
   <product>
-    <product-name>Dominio de Punctum 99 Rosas Rosé Edição Especial e Limitada 2020 Vinho Rosé</product-name>
+    <product-name>Dominio de Punctum 99 Rosas Rosé Edição Especial e Limitada 2020 Rosé</product-name>
     <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3904,7 +3904,7 @@
     <product-id>14231</product-id>
   </product>
   <product>
-    <product-name>Dominio de Punctum 99 Rosas White Edição Especial e Limitada 2020 Vinho Branco</product-name>
+    <product-name>Dominio de Punctum 99 Rosas White Edição Especial e Limitada 2020 Branco</product-name>
     <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3914,7 +3914,7 @@
     <product-id>14232</product-id>
   </product>
   <product>
-    <product-name>Sparkling Veuve du Vernay Brut NV</product-name>
+    <product-name>Veuve du Vernay Brut NV Sparkling</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6003,7 +6003,7 @@
     <product-id>23341</product-id>
   </product>
   <product>
-    <product-name>Château St. Thomas Les Gourmets Blanc 2021 Vinho White</product-name>
+    <product-name>Château St. Thomas Les Gourmets Blanc 2021 White</product-name>
     <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6223,7 +6223,7 @@
     <product-id>21732</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 White</product-name>
     <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6243,7 +6243,7 @@
     <product-id>21722</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert 2021 Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert  2021 White</product-name>
     <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6293,7 +6293,7 @@
     <product-id>23334</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert 2020 Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert 2020 White</product-name>
     <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
