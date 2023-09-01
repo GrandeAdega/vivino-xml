@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-08-30T19:50:27.745Z</feed-generation-date>
+    <feed-generation-date>2023-09-01T19:50:28.322Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -560,7 +560,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-    <inventory-count>28</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>11843</product-id>
   </product>
   <product>
@@ -704,7 +704,7 @@
     <product-id>12060</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Terrantez Old Reserve NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Terrantez Old Reserve NV Fortified</product-name>
     <price>1099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -714,7 +714,7 @@
     <product-id>12078</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Boal 1978 NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Boal 1978 NV Fortified</product-name>
     <price>3099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1230,7 +1230,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-10-anos-com-fibrolata/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>12557</product-id>
   </product>
   <product>
@@ -1294,7 +1294,7 @@
     <product-id>13002</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Sercial 1940 NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Sercial 1940 NV Fortified</product-name>
     <price>5999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2890,7 +2890,7 @@
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat-375-ml/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>25021</product-id>
   </product>
   <product>
@@ -2924,7 +2924,7 @@
     <product-id>23117</product-id>
   </product>
   <product>
-    <product-name>Christ Grüner Veltliner Bruch 2019 Vinho White</product-name>
+    <product-name>Christ Grüner Veltliner Bruch 2019 White</product-name>
     <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2944,7 +2944,7 @@
     <product-id>23119</product-id>
   </product>
   <product>
-    <product-name>Bodega Vieja Sauvignon Blanc 2021 Vinho White</product-name>
+    <product-name>Bodega Vieja Sauvignon Blanc 2021 White</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2964,7 +2964,7 @@
     <product-id>14201</product-id>
   </product>
   <product>
-    <product-name>Bodega Vieja Suave 2022 Vinho Tinto</product-name>
+    <product-name>Bodega Vieja Suave 2022 Tinto</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3115,7 +3115,7 @@
   </product>
   <product>
     <product-name>Vila Santa Branco 2020 Branco</product-name>
-    <price>47.9</price>
+    <price>48.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3535,7 +3535,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 8 meses 2021 Vinho</product-name>
-    <price>94.9</price>
+    <price>86.99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3545,7 +3545,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 18 meses 2020 Vinho</product-name>
-    <price>134.9</price>
+    <price>124.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3789,7 +3789,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/viña-nela-vino-de-la-tierra-de-castilla/p</link>
+    <link>https://www.grandeadega.com.br/viña-nela-tempranillo/p</link>
     <inventory-count>38</inventory-count>
     <product-id>14186</product-id>
   </product>
@@ -4100,7 +4100,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/mil-historias-bobal/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>23249</product-id>
   </product>
   <product>
@@ -4110,7 +4110,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/mil-historias-garnacha/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>23250</product-id>
   </product>
   <product>
@@ -5203,7 +5203,7 @@
     <product-id>12293</product-id>
   </product>
   <product>
-    <product-name>Sparkling Maxim’s Cuvée Brut NV</product-name>
+    <product-name>Maxim’s Cuvée Brut NV Sparkling</product-name>
     <price>409</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5254,7 +5254,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Reserva Malbec 2021 Vinho</product-name>
-    <price>109</price>
+    <price>95.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -6273,7 +6273,7 @@
     <product-id>21733</product-id>
   </product>
   <product>
-    <product-name>Sparkling Veuve Du Vernay Brut Sem Álcool NV</product-name>
+    <product-name>Veuve Du Vernay Brut Sem Álcool NV Sparkling</product-name>
     <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
