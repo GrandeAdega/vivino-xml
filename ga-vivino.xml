@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-09-03T19:50:27.903Z</feed-generation-date>
+    <feed-generation-date>2023-09-06T19:50:28.322Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -254,7 +254,7 @@
     <product-id>11405</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Saxa Calida Vinho</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi del Paradiso Saxa Calida NV Vinho</product-name>
     <price>869</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1394,7 +1394,7 @@
     <product-id>14027</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Reserva Vinho</product-name>
+    <product-name>Marqués de Tomares Reserva NV Vinho</product-name>
     <price>159</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1534,7 +1534,7 @@
     <product-id>14142</product-id>
   </product>
   <product>
-    <product-name>Premium Fincas Chan de Rosas Gran Cuvée Magnum Vinho White</product-name>
+    <product-name>Premium Fincas Chan de Rosas Gran Cuvée Magnum NV Vinho White</product-name>
     <price>412</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -1804,7 +1804,7 @@
     <product-id>21433</product-id>
   </product>
   <product>
-    <product-name>Cave de Cairanne Le Chêne Noir Vinho</product-name>
+    <product-name>Cave de Cairanne Le Chêne Noir NV Vinho</product-name>
     <price>128</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1884,12 +1884,12 @@
     <product-id>21705</product-id>
   </product>
   <product>
-    <product-name>Patriarche Héritage Rose NV Vinho Rosé</product-name>
+    <product-name>Patriarche Héritage Rosé NV Vinho Rosé</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/heritage-rose/p</link>
+    <link>https://www.grandeadega.com.br/vinho-heritage-rose/p</link>
     <inventory-count>1</inventory-count>
     <product-id>21710</product-id>
   </product>
@@ -2174,7 +2174,7 @@
     <product-id>23092</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot Vinho</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Merlot NV Vinho</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2334,7 +2334,7 @@
     <product-id>24075</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Roca Malbec e Merlot 2021, Vinho</product-name>
+    <product-name>Alfredo Roca Roca Malbec e Merlot 2021 Vinho</product-name>
     <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2494,7 +2494,7 @@
     <product-id>27022</product-id>
   </product>
   <product>
-    <product-name>Leaping Horse Cabernet Sauvignon Vinho</product-name>
+    <product-name>Leaping Horse Cabernet Sauvignon NV Vinho</product-name>
     <price>105.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2704,7 +2704,7 @@
     <product-id>81019</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias Tawny 375 ml , Vinho do Porto</product-name>
+    <product-name>Caves Messias Fortified Messias Tawny 375 ml NV Vinho do Porto</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
@@ -2784,7 +2784,7 @@
     <product-id>21434</product-id>
   </product>
   <product>
-    <product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé Magnum Vinho Rosé</product-name>
+    <product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé Magnum NV Vinho Rosé</product-name>
     <price>379</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -3244,7 +3244,7 @@
     <product-id>14220</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reserva Carmenère Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reserva Carmenère NV Vinho</product-name>
     <price>39.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3674,7 +3674,7 @@
     <product-id>23243</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Pinot Noir Vinho</product-name>
+    <product-name>Bodega Santa Julia Alambrado Pinot Noir NV Vinho</product-name>
     <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3804,7 +3804,7 @@
     <product-id>23226</product-id>
   </product>
   <product>
-    <product-name>Las Condes Varietal Carmenère Vinho</product-name>
+    <product-name>Las Condes Varietal Carmenère NV Vinho</product-name>
     <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4764,20 +4764,17 @@
     <product-id>12244</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Sercial 10 anos
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Sercial 10 anos NV Vinho Fortified</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-sercial-10-anos
-/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-sercial-10-anos/p</link>
     <inventory-count>10</inventory-count>
     <product-id>12080</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Verdelho 10 Anos - Meio Seco
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Verdelho 10 Anos - Meio Seco NV Vinho Fortified</product-name>
     <price>392</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4817,38 +4814,32 @@
     <product-id>12303</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Colheita 1999 - Dessert
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Colheita 1999 - Dessert NV Vinho Fortified</product-name>
     <price>573</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1999---doce
-/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1999---doce/p</link>
     <inventory-count>4</inventory-count>
     <product-id>12304</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Justino’s Madeira Colheita 1996 - Dessert
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Justino’s Madeira Colheita 1996 - Dessert NV Vinho Fortified</product-name>
     <price>688</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1996---doce
-/p</link>
+    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1996---doce/p</link>
     <inventory-count>0</inventory-count>
     <product-id>12306</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Justino’s Madeira Colheita 1998 - Dessert
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Justino’s Madeira Colheita 1998 - Dessert NV Vinho Fortified</product-name>
     <price>860</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1998---doce
-/p</link>
+    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1998---doce/p</link>
     <inventory-count>5</inventory-count>
     <product-id>12307</product-id>
   </product>
@@ -4863,16 +4854,12 @@
     <product-id>12308</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Boal 10 Years Old Madeira 375 ml
-
- NV Vinho Fortified</product-name>
+    <product-name>Justino's Madeira Boal 10 Years Old Madeira 375 ml NV Vinho Fortified</product-name>
     <price>248</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira-375-ml
-
-/p</link>
+    <link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira-375-ml/p</link>
     <inventory-count>7</inventory-count>
     <product-id>12309</product-id>
   </product>
@@ -5017,14 +5004,12 @@
     <product-id>12323</product-id>
   </product>
   <product>
-    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda
- 2020 Vinho</product-name>
+    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda 2020 Vinho</product-name>
     <price>77</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda
-/p</link>
+    <link>https://www.grandeadega.com.br/barbera-d’asti-docg-truffle-hunter-leda/p</link>
     <inventory-count>7</inventory-count>
     <product-id>12324</product-id>
   </product>
@@ -5039,7 +5024,7 @@
     <product-id>12325</product-id>
   </product>
   <product>
-    <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda Vinho</product-name>
+    <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda NV Vinho</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5049,26 +5034,22 @@
     <product-id>12326</product-id>
   </product>
   <product>
-    <product-name>Bosio Moscato d’Asti DOCG Truffle Hunter Leda
- 2021 Vinho White</product-name>
+    <product-name>Bosio Moscato d’Asti DOCG Truffle Hunter Leda 2021 Vinho White</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/moscato-d’asti-docg-truffle-hunter-leda
-/p</link>
+    <link>https://www.grandeadega.com.br/moscato-d’asti-docg-truffle-hunter-leda/p</link>
     <inventory-count>19</inventory-count>
     <product-id>12327</product-id>
   </product>
   <product>
-    <product-name>Sparkling Asti DOCG Dolce Millesimato Truffle Hunter Leda
- 2022</product-name>
+    <product-name>Sparkling Asti DOCG Dolce Millesimato Truffle Hunter Leda 2022</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-asti-docg-dolce-millesimato-truffle-hunter-leda
-/p</link>
+    <link>https://www.grandeadega.com.br/espumante-asti-docg-dolce-millesimato-truffle-hunter-leda/p</link>
     <inventory-count>9</inventory-count>
     <product-id>12328</product-id>
   </product>
@@ -6243,7 +6224,7 @@
     <product-id>21722</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert  2021 White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Meio Dessert 2021 White</product-name>
     <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -6253,7 +6234,7 @@
     <product-id>21724</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Riesling Reserva Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Riesling Reserva NV Vinho White</product-name>
     <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
