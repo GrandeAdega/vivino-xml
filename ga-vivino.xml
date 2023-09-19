@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-09-16T19:50:27.996Z</feed-generation-date>
+    <feed-generation-date>2023-09-19T19:50:28.065Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -2914,7 +2914,7 @@
     <product-id>21471</product-id>
   </product>
   <product>
-    <product-name>Christ Grüner Veltliner Bisamberg 2019 Vinho White</product-name>
+    <product-name>Christ Grüner Veltliner Bisamberg 2019 White</product-name>
     <price>189</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2934,7 +2934,7 @@
     <product-id>23118</product-id>
   </product>
   <product>
-    <product-name>Ried Wiesthalen Riesling NV Vinho White</product-name>
+    <product-name>Ried Wiesthalen Riesling NV White</product-name>
     <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3094,7 +3094,7 @@
     <product-id>11852</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Ramos Reserva NV Vinho Tinto</product-name>
+    <product-name>João Portugal Ramos Ramos Reserva NV Tinto</product-name>
     <price>79.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
