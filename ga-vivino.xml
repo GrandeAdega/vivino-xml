@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2023-09-24T19:50:28.085Z</feed-generation-date>
+    <feed-generation-date>2023-09-29T19:50:27.781Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -275,7 +275,7 @@
   </product>
   <product>
     <product-name>Luccarelli Primitivo Puglia IGP 2022 Vinho</product-name>
-    <price>99</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -355,7 +355,7 @@
   </product>
   <product>
     <product-name>Luccarelli Rosso Puglia IGP 2021 Vinho</product-name>
-    <price>74</price>
+    <price>66.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -375,7 +375,7 @@
   </product>
   <product>
     <product-name>Luccarelli Primitivo di Manduria Old Vines DOP 2018 Vinho</product-name>
-    <price>399</price>
+    <price>364.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -485,7 +485,7 @@
   </product>
   <product>
     <product-name>Corbelli Primitivo 2021 Vinho</product-name>
-    <price>54.9</price>
+    <price>47.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -495,7 +495,7 @@
   </product>
   <product>
     <product-name>Corbelli Sangiovese 2021 Vinho</product-name>
-    <price>54.9</price>
+    <price>49.7</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -505,7 +505,7 @@
   </product>
   <product>
     <product-name>Corbelli Nero d'Avola 2020 Vinho</product-name>
-    <price>54.9</price>
+    <price>49.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -675,7 +675,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira 3 anos Dessert NV Vinho Fortified</product-name>
-    <price>112</price>
+    <price>104.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -800,7 +800,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-doc-tinto/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>12118</product-id>
   </product>
   <product>
@@ -1024,8 +1024,8 @@
     <product-id>12192</product-id>
   </product>
   <product>
-    <product-name>Monsaraz Alentejo Rosé 2021 Vinho Rosé</product-name>
-    <price>61</price>
+    <product-name>Monsaraz Alentejo Rosé 2021 Rosé</product-name>
+    <price>88.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1305,7 +1305,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira 3 anos Seco NV Vinho Fortified</product-name>
-    <price>112</price>
+    <price>104.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1345,7 +1345,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Cava Don Román Brut NV Sparkling</product-name>
-    <price>61.9</price>
+    <price>55.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1365,7 +1365,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Crianza 2019 Vinho</product-name>
-    <price>139</price>
+    <price>114.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1395,7 +1395,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Reserva 2016 Vinho</product-name>
-    <price>159</price>
+    <price>152.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1425,12 +1425,12 @@
   </product>
   <product>
     <product-name>Pata Negra Oro 2019 Vinho</product-name>
-    <price>51.9</price>
+    <price>49.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/pata-negra-oro/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>14055</product-id>
   </product>
   <product>
@@ -1475,7 +1475,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Gran Reserva 2015 Vinho</product-name>
-    <price>229</price>
+    <price>219.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1515,7 +1515,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Chan de Rosas Albariño Clásico 2021 White</product-name>
-    <price>137</price>
+    <price>132.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1525,7 +1525,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Chan de Rosas Cuvée Especial Albariño 2021 Vinho White</product-name>
-    <price>169</price>
+    <price>156.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1620,7 +1620,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-    <inventory-count>33</inventory-count>
+    <inventory-count>32</inventory-count>
     <product-id>14210</product-id>
   </product>
   <product>
@@ -1860,7 +1860,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/manon-cotes-de-provence-rose/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>21613</product-id>
   </product>
   <product>
@@ -2154,7 +2154,7 @@
     <product-id>23086</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Sauvignon Blanc 2020 Vinho White</product-name>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Sauvignon Blanc 2020 White</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2405,7 +2405,7 @@
   </product>
   <product>
     <product-name>Montes Toscanini Criado en Roble Blend 15 meses 2020 Vinho</product-name>
-    <price>147</price>
+    <price>144.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2415,7 +2415,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Shiraz 2020 Vinho</product-name>
-    <price>79</price>
+    <price>77.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2435,7 +2435,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Chardonnay 2021 Vinho White</product-name>
-    <price>79</price>
+    <price>77.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3040,7 +3040,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinhas-d’ouro-tinto/p</link>
-    <inventory-count>16</inventory-count>
+    <inventory-count>14</inventory-count>
     <product-id>12313</product-id>
   </product>
   <product>
@@ -3535,7 +3535,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 8 meses 2021 Vinho</product-name>
-    <price>86.99</price>
+    <price>82.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3545,7 +3545,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 18 meses 2020 Vinho</product-name>
-    <price>124.9</price>
+    <price>108.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3555,7 +3555,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 28 meses 2015 Vinho</product-name>
-    <price>268.9</price>
+    <price>238.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3780,7 +3780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>41</inventory-count>
+    <inventory-count>40</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -3790,7 +3790,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-nela-tempranillo/p</link>
-    <inventory-count>19</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>14186</product-id>
   </product>
   <product>
@@ -3915,7 +3915,7 @@
   </product>
   <product>
     <product-name>Veuve du Vernay Brut NV Sparkling</product-name>
-    <price>79</price>
+    <price>72.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4660,7 +4660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -4690,7 +4690,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/messias-beiras-tinto/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>12001</product-id>
   </product>
   <product>
@@ -4934,12 +4934,14 @@
     <product-id>12277</product-id>
   </product>
   <product>
-    <product-name>Club Master Chef Tempranillo 2020 Vinho</product-name>
+    <product-name>Club Master Chef Tempranillo
+ 2020 Vinho</product-name>
     <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/masterchef-tempranillo/p</link>
+    <link>https://www.grandeadega.com.br/masterchef-tempranillo
+/p</link>
     <inventory-count>21</inventory-count>
     <product-id>24135</product-id>
   </product>
@@ -5044,18 +5046,20 @@
     <product-id>12327</product-id>
   </product>
   <product>
-    <product-name>Sparkling Asti DOCG Dolce Millesimato Truffle Hunter Leda 2022</product-name>
+    <product-name>Sparkling Asti DOCG Dolce Millesimato Truffle Hunter Leda
+ 2022</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/espumante-asti-docg-dolce-millesimato-truffle-hunter-leda/p</link>
+    <link>https://www.grandeadega.com.br/espumante-asti-docg-dolce-millesimato-truffle-hunter-leda
+/p</link>
     <inventory-count>7</inventory-count>
     <product-id>12328</product-id>
   </product>
   <product>
     <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut branco NV</product-name>
-    <price>46.9</price>
+    <price>42.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5065,7 +5069,7 @@
   </product>
   <product>
     <product-name>Les Grand Chais de France Sparkling Beau Rocher Brut Rosé NV</product-name>
-    <price>46.9</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5265,7 +5269,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton D.O.C. Malbec 2021 Vinho</product-name>
-    <price>99</price>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5275,7 +5279,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Select Malbec 2021 Vinho</product-name>
-    <price>88</price>
+    <price>55.99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5395,17 +5399,17 @@
   </product>
   <product>
     <product-name>Putos Alentejo DOC 2021 Vinho Tinto</product-name>
-    <price>59.9</price>
+    <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-putos-tinto-alentejo-doc/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>15</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
     <product-name>Putos White Alentejo DOC 2021 Vinho Branco</product-name>
-    <price>59.9</price>
+    <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5415,7 +5419,7 @@
   </product>
   <product>
     <product-name>Putos Rosé Alentejo DOC 2022 Vinho Rosé</product-name>
-    <price>59.9</price>
+    <price>54.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5705,7 +5709,7 @@
   </product>
   <product>
     <product-name>Sparkling Veuve du Vernay Édition Limitée Brut No. 2 NV</product-name>
-    <price>76</price>
+    <price>74.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
