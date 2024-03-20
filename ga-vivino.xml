@@ -730,7 +730,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reguengos-garrafeira-dos-socios/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>12123</product-id>
   </product>
   <product>
@@ -1240,7 +1240,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>14016</product-id>
   </product>
   <product>
@@ -1920,7 +1920,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alfredo-roca-fincas-malbec/p</link>
-    <inventory-count>3</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>24033</product-id>
   </product>
   <product>
@@ -2010,7 +2010,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-    <inventory-count>47</inventory-count>
+    <inventory-count>43</inventory-count>
     <product-id>25013</product-id>
   </product>
   <product>
@@ -2190,7 +2190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-pinotage/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>51047</product-id>
   </product>
   <product>
@@ -2680,7 +2680,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-gran-reserva/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>14165</product-id>
   </product>
   <product>
@@ -2830,7 +2830,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
-    <inventory-count>54</inventory-count>
+    <inventory-count>42</inventory-count>
     <product-id>14175</product-id>
   </product>
   <product>
@@ -3030,7 +3030,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-nela-tempranillo/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>35</inventory-count>
     <product-id>14186</product-id>
   </product>
   <product>
@@ -4214,7 +4214,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/norton-reserva-malbec/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>11563</product-id>
   </product>
   <product>
@@ -4394,7 +4394,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/sexy-fish-blanc-de-blancs/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>14</inventory-count>
     <product-id>11572</product-id>
   </product>
   <product>
@@ -4434,7 +4434,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/-estelar-57-chardonnay/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>23131</product-id>
   </product>
   <product>
@@ -5054,7 +5054,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/oh01-riesling-seco/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>21722</product-id>
   </product>
   <product>
@@ -5074,7 +5074,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/oh01-gewurztraminer-meio-doce/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>21723</product-id>
   </product>
   <product>
