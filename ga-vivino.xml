@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-03-17T15:58:30.852Z</feed-generation-date>
+    <feed-generation-date>2024-03-24T15:58:31.174Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -144,7 +144,7 @@
     <product-id>11128</product-id>
   </product>
   <product>
-    <product-name>Terre Natuzzi Don Giovanni Chianti Clássico DOCG 2020 Vinho</product-name>
+    <product-name>Terre Natuzzi Don Giovanni Chianti Clássico DOCG Vinho</product-name>
     <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -434,7 +434,7 @@
     <product-id>11839</product-id>
   </product>
   <product>
-    <product-name>Corbelli Pinot Grigio 2022 Vinho White</product-name>
+    <product-name>Corbelli Pinot Grigio 2023 Vinho White</product-name>
     <price>52.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -510,7 +510,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>28</inventory-count>
     <product-id>12013</product-id>
   </product>
   <product>
@@ -814,7 +814,7 @@
     <product-id>12158</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias Vintage 2007 do Porto</product-name>
+    <product-name>Caves Messias Fortified Messias Vintage 2007 Vinho do Porto</product-name>
     <price>1299</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -879,7 +879,7 @@
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/estremus/p</link>
+    <link>https://www.grandeadega.com.br/Vinho-Joao-Portugal-Ramos-Estremus/p</link>
     <inventory-count>1</inventory-count>
     <product-id>12185</product-id>
   </product>
@@ -894,7 +894,7 @@
     <product-id>12186</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Loureiro Vinho Verde 2022 Vinho White</product-name>
+    <product-name>Verde Loureiro João Portugal Ramos 2022 Vinho White</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -904,12 +904,12 @@
     <product-id>12189</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Reserva DOC White 2020 Branco</product-name>
+    <product-name>Carmim Reguengos Reserva DOC White 2020 Vinho Branco</product-name>
     <price>112</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/reguengos-reserva-doc-branco/p</link>
+    <link>https://www.grandeadega.com.br/Vinho-Reguengos-Reserva-DOC-Branco/p</link>
     <inventory-count>10</inventory-count>
     <product-id>12192</product-id>
   </product>
@@ -1084,7 +1084,7 @@
     <product-id>12234</product-id>
   </product>
   <product>
-    <product-name>Filipa Pato Dinamica D.N.M.C Baga Vinho</product-name>
+    <product-name>Filipa Pato Dinamica D.N.M.C Baga 2021 Vinho</product-name>
     <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1094,7 +1094,7 @@
     <product-id>12253</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Santola Rosé Frisante</product-name>
+    <product-name>Caves Messias Santola Rosé 2021 Frisante</product-name>
     <price>49.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2004,7 +2004,7 @@
     <product-id>25012</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2021 Vinho</product-name>
+    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2022 Vinho</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2554,7 +2554,7 @@
     <product-id>14209</product-id>
   </product>
   <product>
-    <product-name>Aura Wines Trapecista Reservado Merlot Vinho</product-name>
+    <product-name>Aura Wines Trapecista Reservado Merlot 2022 Vinho</product-name>
     <price>29.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2874,7 +2874,7 @@
     <product-id>21955</product-id>
   </product>
   <product>
-    <product-name>Bodega Santa Julia Alambrado Etiqueta Negra Malbec 2021 Vinho</product-name>
+    <product-name>Bodega Santa Julia Alambrado Etiqueta Negra Malbec 2022 Vinho</product-name>
     <price>65.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4088,7 +4088,7 @@
     <product-id>23306</product-id>
   </product>
   <product>
-    <product-name>Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2020 Vinho</product-name>
+    <product-name>Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2021 Vinho</product-name>
     <price>94.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4518,7 +4518,7 @@
     <product-id>11526</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Sparkling Belvino Rosé Brut</product-name>
+    <product-name>Enoitalia Sparkling Belvino Rosé Brut 2023</product-name>
     <price>63.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5088,7 +5088,7 @@
     <product-id>14049</product-id>
   </product>
   <product>
-    <product-name>Sparkling Belvino Grillo Brut</product-name>
+    <product-name>Sparkling Belvino Grillo Brut 2023</product-name>
     <price>63.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
