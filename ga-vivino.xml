@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-03-24T15:58:31.174Z</feed-generation-date>
+    <feed-generation-date>2024-03-29T15:58:30.944Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -395,7 +395,7 @@
   </product>
   <product>
     <product-name>Corbelli Primitivo 2021 Vinho</product-name>
-    <price>52.9</price>
+    <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -405,7 +405,7 @@
   </product>
   <product>
     <product-name>Corbelli Sangiovese 2021 Vinho</product-name>
-    <price>49.7</price>
+    <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -415,7 +415,7 @@
   </product>
   <product>
     <product-name>Corbelli Nero d'Avola 2020 Vinho</product-name>
-    <price>49.9</price>
+    <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -425,7 +425,7 @@
   </product>
   <product>
     <product-name>Corbelli Montepulciano 2021 Vinho</product-name>
-    <price>50.9</price>
+    <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -435,7 +435,7 @@
   </product>
   <product>
     <product-name>Corbelli Pinot Grigio 2023 Vinho White</product-name>
-    <price>52.9</price>
+    <price>51.4</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -445,7 +445,7 @@
   </product>
   <product>
     <product-name>Corbelli Chianti DOCG 2022 Vinho</product-name>
-    <price>54.9</price>
+    <price>53</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -455,7 +455,7 @@
   </product>
   <product>
     <product-name>Tenuta di Ceppaiano Ceppaiano Violetta IGT Toscana 2013 Vinho</product-name>
-    <price>168.9</price>
+    <price>155</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -465,7 +465,7 @@
   </product>
   <product>
     <product-name>Sandro Forte e Figlio Forte Ambrone Etichetta Nera IGT Toscana 2019 Vinho</product-name>
-    <price>65.9</price>
+    <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -475,7 +475,7 @@
   </product>
   <product>
     <product-name>Sandro Forte e Figlio Forte Ambrone Vino Rosso NV Vinho</product-name>
-    <price>62.9</price>
+    <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -485,7 +485,7 @@
   </product>
   <product>
     <product-name>Tenuta di Ceppaiano Ceppaiano Alle Viole Toscana IGT 2019 Vinho</product-name>
-    <price>119</price>
+    <price>106</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -495,7 +495,7 @@
   </product>
   <product>
     <product-name>Caves Messias Quinta do Cachão 2019 Vinho</product-name>
-    <price>69</price>
+    <price>73.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -505,7 +505,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias Tawny NV Vinho do Porto</product-name>
-    <price>72.9</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -515,7 +515,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias 10 anos NV Vinho do Porto</product-name>
-    <price>189</price>
+    <price>174</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -525,7 +525,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias 10 Anos White NV Vinho do Porto</product-name>
-    <price>259</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -535,7 +535,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias 20 anos NV Vinho do Porto</product-name>
-    <price>479</price>
+    <price>409</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -545,7 +545,7 @@
   </product>
   <product>
     <product-name>Caves Messias Quinta do Valdoeiro 2017 Vinho Tinto</product-name>
-    <price>99</price>
+    <price>92</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -555,7 +555,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias Ruby NV Vinho do Porto</product-name>
-    <price>79</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -565,7 +565,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira 3 anos Dessert NV Vinho Fortified</product-name>
-    <price>104.9</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -575,7 +575,7 @@
   </product>
   <product>
     <product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2020</product-name>
-    <price>68</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -584,8 +584,8 @@
     <product-id>12059</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira 10 anos NV Vinho Fortified</product-name>
-    <price>314.9</price>
+    <product-name>Justino's Madeira Tinta Negra 10 anos Dessert NV Vinho Fortified</product-name>
+    <price>299</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -595,7 +595,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira Terrantez Old Reserve NV Vinho Fortified</product-name>
-    <price>1099</price>
+    <price>1059</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -605,7 +605,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira Boal 1978 NV Vinho Fortified</product-name>
-    <price>3099</price>
+    <price>2999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -615,7 +615,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira Terrantez 1978 NV Vinho Fortified</product-name>
-    <price>7699</price>
+    <price>7389</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -625,7 +625,7 @@
   </product>
   <product>
     <product-name>Caves Messias Quinta do Valdoeiro Chardonnay 2018 Vinho White</product-name>
-    <price>104</price>
+    <price>93</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -635,7 +635,7 @@
   </product>
   <product>
     <product-name>Caves Messias Quinta do Valdoeiro Reserva 2015 Vinho</product-name>
-    <price>146</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -645,7 +645,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Loios White 2020 Vinho Branco</product-name>
-    <price>79</price>
+    <price>65</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -655,7 +655,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Loios 2022 Vinho Tinto</product-name>
-    <price>79</price>
+    <price>65</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -665,7 +665,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Marquês de Borba Colheita White 2020 Vinho Branco</product-name>
-    <price>139</price>
+    <price>95</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -675,7 +675,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Marquês de Borba Colheita 2020 Vinho Tinto</product-name>
-    <price>139</price>
+    <price>95</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -685,7 +685,7 @@
   </product>
   <product>
     <product-name>Carmim Reguengos DOC 2022 Vinho Tinto</product-name>
-    <price>67.5</price>
+    <price>42.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -695,7 +695,7 @@
   </product>
   <product>
     <product-name>Carmim Reguengos DOC White 2020 Vinho Branco</product-name>
-    <price>67.5</price>
+    <price>42.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -705,7 +705,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz Alentejo DOC 2019 Vinho Tinto</product-name>
-    <price>88.9</price>
+    <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -715,7 +715,7 @@
   </product>
   <product>
     <product-name>Carmim Reguengos Reserva DOC 2021 Vinho Tinto</product-name>
-    <price>99.9</price>
+    <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -725,7 +725,7 @@
   </product>
   <product>
     <product-name>Carmim Reguengos Garrafeira dos Sócios 2017 Vinho</product-name>
-    <price>309</price>
+    <price>306</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -735,7 +735,7 @@
   </product>
   <product>
     <product-name>Bom Juiz Reserva 2019 Vinho</product-name>
-    <price>199</price>
+    <price>139.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -745,7 +745,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz White Alentejo DOC 2020 Vinho Branco</product-name>
-    <price>88.9</price>
+    <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -785,7 +785,7 @@
   </product>
   <product>
     <product-name>Duorum Colheita 2019 Vinho</product-name>
-    <price>219</price>
+    <price>139</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -795,7 +795,7 @@
   </product>
   <product>
     <product-name>Duorum Reserva DOC 2017 Vinho</product-name>
-    <price>449</price>
+    <price>419</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -805,7 +805,7 @@
   </product>
   <product>
     <product-name>Duorum Fortified Vintage DOC 2011 Vinho do Porto</product-name>
-    <price>1227</price>
+    <price>1099</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -815,7 +815,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias Vintage 2007 Vinho do Porto</product-name>
-    <price>1299</price>
+    <price>1232</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -825,7 +825,7 @@
   </product>
   <product>
     <product-name>Filipa Pato Nossa Calcário White 2022 Vinho Branco</product-name>
-    <price>309</price>
+    <price>318</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -835,7 +835,7 @@
   </product>
   <product>
     <product-name>Tons de Duorum 2019 Vinho Tinto</product-name>
-    <price>109</price>
+    <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -845,7 +845,7 @@
   </product>
   <product>
     <product-name>Caves Messias Aprendiz DOC 2015 Vinho</product-name>
-    <price>104</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -855,7 +855,7 @@
   </product>
   <product>
     <product-name>Tons de Duorum White 2020 Vinho Branco</product-name>
-    <price>109</price>
+    <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -865,7 +865,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Alvarinho DOC 2020 Vinho White</product-name>
-    <price>175</price>
+    <price>174</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -895,7 +895,7 @@
   </product>
   <product>
     <product-name>Verde Loureiro João Portugal Ramos 2022 Vinho White</product-name>
-    <price>69</price>
+    <price>64</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -905,7 +905,7 @@
   </product>
   <product>
     <product-name>Carmim Reguengos Reserva DOC White 2020 Vinho Branco</product-name>
-    <price>112</price>
+    <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -915,7 +915,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz Rosé Alentejo DOC 2022 Vinho Rosé</product-name>
-    <price>88.9</price>
+    <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -935,7 +935,7 @@
   </product>
   <product>
     <product-name>Régia Colheita Reguengos Reserva White 2021 Branco</product-name>
-    <price>149</price>
+    <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -945,7 +945,7 @@
   </product>
   <product>
     <product-name>Carmim Régia Colheita DOC Alentejo 2020 Tinto</product-name>
-    <price>149</price>
+    <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -965,7 +965,7 @@
   </product>
   <product>
     <product-name>Caves Messias Quinta do Penedo DOC White 2019 Branco</product-name>
-    <price>99</price>
+    <price>104.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -985,7 +985,7 @@
   </product>
   <product>
     <product-name>V Puro Outrora Clássico Baga Bairrada DOC 2016 Vinho</product-name>
-    <price>529</price>
+    <price>519</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -995,7 +995,7 @@
   </product>
   <product>
     <product-name>V Puro Aliás tinto 2016 Vinho</product-name>
-    <price>339</price>
+    <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1005,7 +1005,7 @@
   </product>
   <product>
     <product-name>Outrora Alias Branco de Outrora 2016 Branco</product-name>
-    <price>309.9</price>
+    <price>303</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1015,7 +1015,7 @@
   </product>
   <product>
     <product-name>V Puro Doravante DOC 2016 Vinho</product-name>
-    <price>247</price>
+    <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1025,7 +1025,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White 2018 Vinho Branco</product-name>
-    <price>269</price>
+    <price>186</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1035,7 +1035,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas 2019 Vinho Tinto</product-name>
-    <price>269</price>
+    <price>186</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1045,7 +1045,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Pouca Roupa White 2020 Vinho Branco</product-name>
-    <price>79</price>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1055,7 +1055,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Pouca Roupa Rosé 2020 Vinho Rosé</product-name>
-    <price>79</price>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1065,7 +1065,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Pouca Roupa 2022 Vinho Tinto</product-name>
-    <price>79</price>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1075,7 +1075,7 @@
   </product>
   <product>
     <product-name>Duorum O. Leucura Douro Reserva DOC 2015 Vinho</product-name>
-    <price>1375</price>
+    <price>1360</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1095,7 +1095,7 @@
   </product>
   <product>
     <product-name>Caves Messias Santola Rosé 2021 Frisante</product-name>
-    <price>49.9</price>
+    <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1105,7 +1105,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias 10 Anos com Fibrolata NV do Porto</product-name>
-    <price>189</price>
+    <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1125,7 +1125,7 @@
   </product>
   <product>
     <product-name>Caves Messias Messias Clássico Garrafeira 2013 Vinho</product-name>
-    <price>499</price>
+    <price>409</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1135,7 +1135,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Sparkling Marquês de Borba Brut Rosé 2016</product-name>
-    <price>226</price>
+    <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1145,7 +1145,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias White Dry Seco NV do Porto</product-name>
-    <price>82.9</price>
+    <price>89.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1155,7 +1155,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias 30 anos NV do Porto</product-name>
-    <price>739</price>
+    <price>649</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1175,7 +1175,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira 3 anos Seco NV Fortified</product-name>
-    <price>104.9</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1215,7 +1215,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Cava Don Román Brut NV Sparkling</product-name>
-    <price>64.9</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1345,7 +1345,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Nuestro 20 meses Reserva DO Ribera del Duero 2015 Vinho</product-name>
-    <price>299</price>
+    <price>259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1355,7 +1355,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Chan de Rosas Albariño Clásico 2022 White</product-name>
-    <price>132.9</price>
+    <price>124.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1365,7 +1365,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Chan de Rosas Cuvée Especial Albariño 2021 White</product-name>
-    <price>156.9</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1385,7 +1385,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Montaña Graciano Reserva DOCa 2014 Vinho</product-name>
-    <price>244</price>
+    <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1395,7 +1395,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Gran Reserva White 2016 Vinho Branco</product-name>
-    <price>209</price>
+    <price>224</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1405,7 +1405,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Numbered Edition Soto de Oñatil 2022 Rosé</product-name>
-    <price>39.9</price>
+    <price>39</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1425,7 +1425,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Cohiba Atmosphere Reserva DOCa Rioja 2014 Vinho</product-name>
-    <price>533</price>
+    <price>509</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1555,7 +1555,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu Le Rosé de Floridene 2017 Rosé</product-name>
-    <price>124</price>
+    <price>113</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1565,7 +1565,7 @@
   </product>
   <product>
     <product-name>Nony Borie Château Caronne Ste. Gemme 2015 Vinho</product-name>
-    <price>222.9</price>
+    <price>229</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1655,7 +1655,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu L'Extravagant de Doisy-Daëne Sauternes 375 ml 2010 de Dessert</product-name>
-    <price>3579</price>
+    <price>3599</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2215,7 +2215,7 @@
   </product>
   <product>
     <product-name>Caves Messias Fortified Messias Tawny 375 ml NV do Porto</product-name>
-    <price>69</price>
+    <price>63</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2225,7 +2225,7 @@
   </product>
   <product>
     <product-name>Duorum Colheita Magnum 2017 Vinho</product-name>
-    <price>399</price>
+    <price>369</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2235,7 +2235,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Marquês de Borba Colheita Magnum 2019 Tinto</product-name>
-    <price>214</price>
+    <price>174</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2245,7 +2245,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz DOC Magnum 2017 Tinto</product-name>
-    <price>128</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2265,7 +2265,7 @@
   </product>
   <product>
     <product-name>Carmim Monsaraz Reserva Alentejo DOC 2020 Vinho</product-name>
-    <price>136</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2275,7 +2275,7 @@
   </product>
   <product>
     <product-name>Filipa Pato Nossa Calcário 2021 Vinho Tinto</product-name>
-    <price>392</price>
+    <price>359</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2285,7 +2285,7 @@
   </product>
   <product>
     <product-name>Nony Borie Château Caronne Ste. Gemme Magnum 2015 Vinho</product-name>
-    <price>489</price>
+    <price>479</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2705,7 +2705,7 @@
   </product>
   <product>
     <product-name>Marqués de Tomares Crianza Rioja White 2019 Branco</product-name>
-    <price>109</price>
+    <price>107</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2735,7 +2735,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu Clos Floridène White 2018 Branco</product-name>
-    <price>399</price>
+    <price>329</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2755,7 +2755,7 @@
   </product>
   <product>
     <product-name>Bodegas Diaz Bayo Nuestro Verdejo 2021 White</product-name>
-    <price>69.9</price>
+    <price>66</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2805,7 +2805,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 8 meses 2021 Vinho</product-name>
-    <price>79.9</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2815,7 +2815,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 18 meses 2021 Vinho</product-name>
-    <price>112</price>
+    <price>111</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2825,7 +2825,7 @@
   </product>
   <product>
     <product-name>Premium Fincas Petit Vega 28 meses 2015 Vinho</product-name>
-    <price>238.9</price>
+    <price>238</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3015,7 +3015,7 @@
   </product>
   <product>
     <product-name>Garcia Carrion Saludas Cosecha Tinto 2022 Tinto</product-name>
-    <price>27</price>
+    <price>24.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3025,7 +3025,7 @@
   </product>
   <product>
     <product-name>García Carrión Viña Nela Tempranillo NV Vinho</product-name>
-    <price>27</price>
+    <price>24.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3195,7 +3195,7 @@
   </product>
   <product>
     <product-name>Altolandon Rayuelo Bobal 2014 Vinho</product-name>
-    <price>199</price>
+    <price>219</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3205,7 +3205,7 @@
   </product>
   <product>
     <product-name>Altolandon Syrah, Grenache e Cabernet Franc 2012 Vinho</product-name>
-    <price>259</price>
+    <price>289</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3215,7 +3215,7 @@
   </product>
   <product>
     <product-name>Altolandon L’Ame Malbec 2012 Vinho</product-name>
-    <price>259</price>
+    <price>289</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3225,7 +3225,7 @@
   </product>
   <product>
     <product-name>Altolandon Mil Historias Bobal 2018 Vinho</product-name>
-    <price>129</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3235,7 +3235,7 @@
   </product>
   <product>
     <product-name>Altolandon Mil Historias Garnacha 2018 Vinho</product-name>
-    <price>129</price>
+    <price>127</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3245,7 +3245,7 @@
   </product>
   <product>
     <product-name>Altolandon Mil Historias Syrah 2018 Vinho</product-name>
-    <price>129</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3255,7 +3255,7 @@
   </product>
   <product>
     <product-name>Altolandon Mil Historias Tempranillo 2018 Vinho</product-name>
-    <price>129</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3265,7 +3265,7 @@
   </product>
   <product>
     <product-name>Altolandon Mil Historias Malbec 2018 Vinho</product-name>
-    <price>129</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3325,7 +3325,7 @@
   </product>
   <product>
     <product-name>Moillard Corton Grand Cru Les Grandes Lolières 2015 Vinho</product-name>
-    <price>1073</price>
+    <price>1029</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3335,7 +3335,7 @@
   </product>
   <product>
     <product-name>Moillard Puligny-Montrachet Vieilles Vignes 2020 White</product-name>
-    <price>1179</price>
+    <price>1078</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3395,7 +3395,7 @@
   </product>
   <product>
     <product-name>Château de Cathalogne Bordeaux 2017 Tinto</product-name>
-    <price>96</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3405,7 +3405,7 @@
   </product>
   <product>
     <product-name>Château de Cathalogne Bordeaux White 2022 Branco</product-name>
-    <price>96</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3415,7 +3415,7 @@
   </product>
   <product>
     <product-name>Moillard Bourgogne Aligoté Long du Bois 2021 White</product-name>
-    <price>186</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3425,7 +3425,7 @@
   </product>
   <product>
     <product-name>Moillard Beaujolais Les Malvaux 2020 Vinho</product-name>
-    <price>127</price>
+    <price>139</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3445,7 +3445,7 @@
   </product>
   <product>
     <product-name>Moillard Chablis Premier Cru Beauroy 2018 Vinho White</product-name>
-    <price>489</price>
+    <price>449</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3465,7 +3465,7 @@
   </product>
   <product>
     <product-name>Moillard Côte-de-Nuits-Villages Vieilles Vignes 2016 Vinho</product-name>
-    <price>397</price>
+    <price>389</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3475,7 +3475,7 @@
   </product>
   <product>
     <product-name>Moillard Bourgogne Hautes Côtes de Beaune Les Alouettes White 2018 Branco</product-name>
-    <price>315</price>
+    <price>348</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3485,7 +3485,7 @@
   </product>
   <product>
     <product-name>Moillard Bourgogne Hautes-Côtes-de-Beaune Les Alouettes 2018 Tinto</product-name>
-    <price>315</price>
+    <price>348</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3525,7 +3525,7 @@
   </product>
   <product>
     <product-name>Moillard Morgon Les Collines Cru de Beaujolais  2022 Vinho</product-name>
-    <price>178</price>
+    <price>189</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3535,7 +3535,7 @@
   </product>
   <product>
     <product-name>Moillard Moulin-à-Vent Les Tuileries Cru de Beaujolais 2021 Tinto</product-name>
-    <price>197</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3555,7 +3555,7 @@
   </product>
   <product>
     <product-name>Moillard Pommard Premier Cru Les Charmots 2015 Vinho</product-name>
-    <price>981</price>
+    <price>949</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3565,7 +3565,7 @@
   </product>
   <product>
     <product-name>Moillard Pouilly-Fuissé Sous la Grotte 2019 White</product-name>
-    <price>429</price>
+    <price>419</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3575,7 +3575,7 @@
   </product>
   <product>
     <product-name>Moillard Volnay Premier Cru Clos des Chênes 2018 Vinho</product-name>
-    <price>818</price>
+    <price>839</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3585,7 +3585,7 @@
   </product>
   <product>
     <product-name>Carmim Bag in Box Olaria 2021 Tinto</product-name>
-    <price>193</price>
+    <price>148</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3595,7 +3595,7 @@
   </product>
   <product>
     <product-name>Carmim Bag in Box Olaria White 2022 Branco</product-name>
-    <price>160</price>
+    <price>148</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3625,7 +3625,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu Château Reynon Sauvignon Blanc 2019 White</product-name>
-    <price>205</price>
+    <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3635,7 +3635,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu Château Haura 2016 Vinho</product-name>
-    <price>229</price>
+    <price>223</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3645,7 +3645,7 @@
   </product>
   <product>
     <product-name>Nony Borie Château Caronne Ste. Gemme 2016 Vinho</product-name>
-    <price>222.9</price>
+    <price>229</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3655,7 +3655,7 @@
   </product>
   <product>
     <product-name>Domaine Denis Dubourdieu Château Doisy-Daëne Grand Vin Sec 2019 White</product-name>
-    <price>369</price>
+    <price>359</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3665,7 +3665,7 @@
   </product>
   <product>
     <product-name>Carmim Terras d'el Rei 2021 Tinto</product-name>
-    <price>53.9</price>
+    <price>52</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3685,7 +3685,7 @@
   </product>
   <product>
     <product-name>Caves Messias Messias Beiras NV Tinto</product-name>
-    <price>39.9</price>
+    <price>45</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3735,7 +3735,7 @@
   </product>
   <product>
     <product-name>Carmim Olaria Suave White 2022 Branco</product-name>
-    <price>49.9</price>
+    <price>34.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3745,7 +3745,7 @@
   </product>
   <product>
     <product-name>Carmim Olaria Suave 2022 Tinto</product-name>
-    <price>49.9</price>
+    <price>34.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3755,7 +3755,7 @@
   </product>
   <product>
     <product-name>Carmim Olaria Suave Rosé 2021 Rosé</product-name>
-    <price>49.9</price>
+    <price>34.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3809,7 +3809,7 @@
   </product>
   <product>
     <product-name>Justino's Madeira Colheita 1997 NV Fortified</product-name>
-    <price>622</price>
+    <price>589</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3830,14 +3830,12 @@
     <product-id>12304</product-id>
   </product>
   <product>
-    <product-name>Justino's Madeira Justino’s Madeira Colheita 1998 - Dessert
- NV Fortified</product-name>
-    <price>860</price>
+    <product-name>Justino's Madeira Justino’s Madeira Colheita 1998 Dessert NV Vinho Fortified</product-name>
+    <price>819</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
-    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1998---doce
-/p</link>
+    <link>https://www.grandeadega.com.br/justino’s-madeira-colheita-1998---doce/p</link>
     <inventory-count>5</inventory-count>
     <product-id>12307</product-id>
   </product>
@@ -3947,7 +3945,7 @@
   </product>
   <product>
     <product-name>Bosio Barolo DOCG Truffle Hunter Leda 2018 Vinho</product-name>
-    <price>259</price>
+    <price>252</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3957,7 +3955,7 @@
   </product>
   <product>
     <product-name>Bosio Barbaresco DOCG Truffle Hunter Leda 2018 Vinho</product-name>
-    <price>209</price>
+    <price>206</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3967,7 +3965,7 @@
   </product>
   <product>
     <product-name>Bosio Nebbiolo d’Alba DOC Truffle Hunter Leda 2021 Vinho</product-name>
-    <price>124</price>
+    <price>122</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3977,7 +3975,7 @@
   </product>
   <product>
     <product-name>Bosio Barbera d’Alba DOC Truffle Hunter Leda 2019 Vinho</product-name>
-    <price>124</price>
+    <price>122</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3987,7 +3985,7 @@
   </product>
   <product>
     <product-name>Barbera d’Asti DOCG Truffle Hunter Leda 2021 Vinho</product-name>
-    <price>77</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3997,7 +3995,7 @@
   </product>
   <product>
     <product-name>Bosio Piemonte DOC Barbera Appassimento Truffle Hunter Leda 2021 Vinho</product-name>
-    <price>89</price>
+    <price>104.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4007,7 +4005,7 @@
   </product>
   <product>
     <product-name>Bosio Langhe DOC Rosso Truffle Hunter Leda 2021 Vinho</product-name>
-    <price>79</price>
+    <price>82</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4018,7 +4016,7 @@
   <product>
     <product-name>Bosio Moscato d’Asti DOCG Truffle Hunter Leda
  2022 White</product-name>
-    <price>79</price>
+    <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4399,7 +4397,7 @@
   </product>
   <product>
     <product-name>Sparkling Messias Extra Brut tinto NV Vinho</product-name>
-    <price>69.9</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4469,7 +4467,7 @@
   </product>
   <product>
     <product-name>Provinco Langhe Nebbiolo DOC Cantine del Borgo Reale 2019 Vinho</product-name>
-    <price>179</price>
+    <price>189.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4479,7 +4477,7 @@
   </product>
   <product>
     <product-name>Provinco Barbera d’Asti DOCG Cantine del Borgo Reale 2019 Vinho</product-name>
-    <price>164</price>
+    <price>174.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4519,7 +4517,7 @@
   </product>
   <product>
     <product-name>Enoitalia Sparkling Belvino Rosé Brut 2023</product-name>
-    <price>63.9</price>
+    <price>68</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4529,7 +4527,7 @@
   </product>
   <product>
     <product-name>Enoitalia Amarone della Valpolicella DOCG Aristocratico 2018 Vinho</product-name>
-    <price>356</price>
+    <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4539,7 +4537,7 @@
   </product>
   <product>
     <product-name>Enoitalia Valpolicella Ripasso DOC Aristocratico 2019 Vinho</product-name>
-    <price>155</price>
+    <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4659,7 +4657,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Quinta de Foz de Arouce 2019 Vinho Tinto</product-name>
-    <price>209</price>
+    <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4669,7 +4667,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Quinta de Foz de Arouce White 2021 Vinho Branco</product-name>
-    <price>209</price>
+    <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4679,7 +4677,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Quinta de Foz de Arouce Vinhas Velhas de Santa Maria 2017 Vinho</product-name>
-    <price>972</price>
+    <price>879</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4689,7 +4687,7 @@
   </product>
   <product>
     <product-name>João Portugal Ramos Vinha do Jeremias Single Vineyard DOC Alentejo 2020 Vinho</product-name>
-    <price>364.9</price>
+    <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4709,7 +4707,7 @@
   </product>
   <product>
     <product-name>Cava Brut Don Román Reserva Imperial NV Sparkling</product-name>
-    <price>199.9</price>
+    <price>204.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4719,7 +4717,7 @@
   </product>
   <product>
     <product-name>Duorum LBV - Late Bottled Vintage 2018 do Fortified</product-name>
-    <price>239</price>
+    <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4749,7 +4747,7 @@
   </product>
   <product>
     <product-name>Bosio Truffle Hunter Leda Langhe Chardonnay DOC 2021 White</product-name>
-    <price>84</price>
+    <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4769,7 +4767,7 @@
   </product>
   <product>
     <product-name>Moillard Meursault Vieilles Vignes 2020 White</product-name>
-    <price>999</price>
+    <price>969</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4789,7 +4787,7 @@
   </product>
   <product>
     <product-name>Moillard Chassagne-Montrachet Premier Cru Les Embazées 2020 White</product-name>
-    <price>1187</price>
+    <price>1098</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4799,7 +4797,7 @@
   </product>
   <product>
     <product-name>Moillard Chorey-Les-Beaune Vieilles Vignes 2019 Vinho</product-name>
-    <price>372</price>
+    <price>399</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5089,7 +5087,7 @@
   </product>
   <product>
     <product-name>Sparkling Belvino Grillo Brut 2023</product-name>
-    <price>63.9</price>
+    <price>68</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5099,7 +5097,7 @@
   </product>
   <product>
     <product-name>Enoitalia Voga Prosecco Brut DOC 2022 Sparkling</product-name>
-    <price>115</price>
+    <price>124.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5169,7 +5167,7 @@
   </product>
   <product>
     <product-name>Carmim Terras d'el Rei White 2020 Branco</product-name>
-    <price>53.9</price>
+    <price>52</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5179,7 +5177,7 @@
   </product>
   <product>
     <product-name>Caves Messias Messias White Branco</product-name>
-    <price>39.9</price>
+    <price>45</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5189,7 +5187,7 @@
   </product>
   <product>
     <product-name>Caves Messias Messias Selection Bairrada DOC White 2019 Branco</product-name>
-    <price>69.9</price>
+    <price>67</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
