@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-03-29T15:58:30.944Z</feed-generation-date>
+    <feed-generation-date>2024-04-09T12:41:24.322Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
-    <price>57</price>
+    <price>59.95</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -15,7 +15,7 @@
   </product>
   <product>
     <product-name>Cantina Bennati Valpolicella Cornale 2016 Vinho</product-name>
-    <price>96</price>
+    <price>92.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -24,8 +24,8 @@
     <product-id>11009</product-id>
   </product>
   <product>
-    <product-name>Cantina Camigliano Brunello di Montalcino DOCG Camigliano 2018 Vinho</product-name>
-    <price>554.9</price>
+    <product-name>Cantina Camigliano Brunello di Montalcino DOCG Camigliano Vinho</product-name>
+    <price>548</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -35,7 +35,7 @@
   </product>
   <product>
     <product-name>Cantina Camigliano Rosso di Montalcino Camigliano 2018 Vinho</product-name>
-    <price>286</price>
+    <price>269</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -45,7 +45,7 @@
   </product>
   <product>
     <product-name>Cantina Bennati Barbera La Quercia 2022 Vinho</product-name>
-    <price>59</price>
+    <price>64.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -55,7 +55,7 @@
   </product>
   <product>
     <product-name>Cantina San Marco Frascati San Marco 2021 Vinho White</product-name>
-    <price>79</price>
+    <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -65,7 +65,7 @@
   </product>
   <product>
     <product-name>Camigliano Brunello di Montalcino Riserva Gualto Camigliano DOCG 2012 Vinho</product-name>
-    <price>1727</price>
+    <price>1599</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -75,7 +75,7 @@
   </product>
   <product>
     <product-name>Cantina Caldora Caldora Yume Montepulciano d'Abruzzo DOC 2018 Vinho</product-name>
-    <price>236</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -85,7 +85,7 @@
   </product>
   <product>
     <product-name>Cantina Caldora Caldora Sangiovese IGT 2021 Vinho</product-name>
-    <price>96</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -95,7 +95,7 @@
   </product>
   <product>
     <product-name>Cantina Bertani Velante Pinot Grigio DOC Friuli-Venezia Giulia 2020 Vinho White</product-name>
-    <price>188</price>
+    <price>194</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -115,7 +115,7 @@
   </product>
   <product>
     <product-name>Cantina Bertani Valpolicella DOC Bertani 2017 Vinho</product-name>
-    <price>210</price>
+    <price>219.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -125,7 +125,7 @@
   </product>
   <product>
     <product-name>Cantina Camigliano Chianti Colli Senesi 2018 Vinho</product-name>
-    <price>219</price>
+    <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -135,7 +135,7 @@
   </product>
   <product>
     <product-name>Cantina Caldora Caldora Montepulciano d'Abruzzo DOC 2018 Vinho</product-name>
-    <price>119</price>
+    <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -145,7 +145,7 @@
   </product>
   <product>
     <product-name>Terre Natuzzi Don Giovanni Chianti Clássico DOCG Vinho</product-name>
-    <price>169</price>
+    <price>163</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -155,7 +155,7 @@
   </product>
   <product>
     <product-name>Terre Natuzzi Bianco Toscana IGT NV Vinho White</product-name>
-    <price>79</price>
+    <price>77</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -165,7 +165,7 @@
   </product>
   <product>
     <product-name>Terre Natuzzi Chianti DOCG Riserva 2017 Vinho</product-name>
-    <price>119</price>
+    <price>114</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -175,7 +175,7 @@
   </product>
   <product>
     <product-name>Terre Natuzzi Rosso Toscana IGT NV Vinho</product-name>
-    <price>82</price>
+    <price>83</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -205,7 +205,7 @@
   </product>
   <product>
     <product-name>Cantina Poderi del Paradiso Vernaccia di San Gimignano DOCG 2021 Vinho White</product-name>
-    <price>149</price>
+    <price>152</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -214,7 +214,7 @@
     <product-id>11402</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi del Paradiso Poderi Del Paradiso Silicum IGT 2021 Vinho</product-name>
+    <product-name>Cantina Poderi del Paradiso Poderi Del Paradiso Silicum IGT Vinho</product-name>
     <price>419</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -235,7 +235,7 @@
   </product>
   <product>
     <product-name>Luccarelli Primitivo Puglia IGP 2022 Vinho</product-name>
-    <price>94.9</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -245,7 +245,7 @@
   </product>
   <product>
     <product-name>Luccarelli Negroamaro IGP 2021 Vinho</product-name>
-    <price>94</price>
+    <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -255,7 +255,7 @@
   </product>
   <product>
     <product-name>Cantina Cellaro Due Lune Nerello Mascalese Nero D'Avola IGT 2019 Vinho</product-name>
-    <price>339</price>
+    <price>364</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -264,8 +264,8 @@
     <product-id>11430</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT 2017 Vinho</product-name>
-    <price>168</price>
+    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT Vinho</product-name>
+    <price>178</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -275,7 +275,7 @@
   </product>
   <product>
     <product-name>Luccarelli Campo Marina Primitivo Merlot IGP 2018 Vinho</product-name>
-    <price>176</price>
+    <price>189.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -285,7 +285,7 @@
   </product>
   <product>
     <product-name>Luccarelli Rosso Puglia IGP 2022 Vinho</product-name>
-    <price>67.9</price>
+    <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -295,7 +295,7 @@
   </product>
   <product>
     <product-name>Luccarelli Campo Marina Primitivo di Manduria 2020 Vinho</product-name>
-    <price>199</price>
+    <price>204</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -315,7 +315,7 @@
   </product>
   <product>
     <product-name>Cantina Caldora Yume Tre Autoctoni NV Vinho</product-name>
-    <price>609</price>
+    <price>549</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -324,8 +324,8 @@
     <product-id>11447</product-id>
   </product>
   <product>
-    <product-name>Cantina Poderi Luigi Einaudi Barolo Ludo DOCG Poderi Luigi Einaudi 2018 Vinho</product-name>
-    <price>769</price>
+    <product-name>Cantina Poderi Luigi Einaudi Barolo Ludo DOCG Poderi Luigi Einaudi Vinho</product-name>
+    <price>779</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -335,7 +335,7 @@
   </product>
   <product>
     <product-name>Cantina Poderi Luigi Einaudi Dogliani DOCG 2021 Vinho</product-name>
-    <price>259</price>
+    <price>269</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -345,7 +345,7 @@
   </product>
   <product>
     <product-name>Cantina Poderi Luigi Einaudi Langhe Nebbiolo DOC 2020 Vinho</product-name>
-    <price>339</price>
+    <price>344</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -355,7 +355,7 @@
   </product>
   <product>
     <product-name>Vigneti del Vulture Piano del Cerro Aglianico del Vulture Riserva DOC 2019 Vinho</product-name>
-    <price>298</price>
+    <price>308</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -365,7 +365,7 @@
   </product>
   <product>
     <product-name>Vigneti del Vulture Pipoli Aglianico del Vulture DOC 2019 Vinho</product-name>
-    <price>134</price>
+    <price>133</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -375,7 +375,7 @@
   </product>
   <product>
     <product-name>Vigneti del Vulture Pipoli Greco-Fiano IGT 2020 Vinho White</product-name>
-    <price>109.9</price>
+    <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -385,7 +385,7 @@
   </product>
   <product>
     <product-name>Vigneti del Vulture Pipoli Rosato IGT 2018 Vinho Rosé</product-name>
-    <price>109.9</price>
+    <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -494,7 +494,7 @@
     <product-id>11845</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Quinta do Cachão 2019 Vinho</product-name>
+    <product-name>Caves Messias Quinta do Cachão 2020 Vinho</product-name>
     <price>73.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -574,7 +574,7 @@
     <product-id>12058</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2020</product-name>
+    <product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2022</product-name>
     <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -694,7 +694,7 @@
     <product-id>12118</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos DOC White 2020 Vinho Branco</product-name>
+    <product-name>Carmim Reguengos DOC White 2021 Vinho Branco</product-name>
     <price>42.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -724,7 +724,7 @@
     <product-id>12122</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Garrafeira dos Sócios 2017 Vinho</product-name>
+    <product-name>Carmim Reguengos Garrafeira dos Sócios 2019 Vinho</product-name>
     <price>306</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -734,13 +734,13 @@
     <product-id>12123</product-id>
   </product>
   <product>
-    <product-name>Bom Juiz Reserva 2019 Vinho</product-name>
+    <product-name>Bom Juiz Reserva 2021 Vinho</product-name>
     <price>139.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>12131</product-id>
   </product>
   <product>
@@ -874,7 +874,7 @@
     <product-id>12181</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Estremus 2015 Vinho</product-name>
+    <product-name>João Portugal Ramos Estremus Vinho</product-name>
     <price>1259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -934,7 +934,7 @@
     <product-id>12200</product-id>
   </product>
   <product>
-    <product-name>Régia Colheita Reguengos Reserva White 2021 Branco</product-name>
+    <product-name>Régia Colheita Reguengos Reserva White Branco</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -944,7 +944,7 @@
     <product-id>12205</product-id>
   </product>
   <product>
-    <product-name>Carmim Régia Colheita DOC Alentejo 2020 Tinto</product-name>
+    <product-name>Carmim Régia Colheita DOC Alentejo 2022 Tinto</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1185,7 +1185,7 @@
   </product>
   <product>
     <product-name>Provam Varanda do Conde Alvarinho/Trajadura 2021 White</product-name>
-    <price>104</price>
+    <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1194,7 +1194,7 @@
     <product-id>13031</product-id>
   </product>
   <product>
-    <product-name>Provam Portal do Fidalgo Alvarinho 2021 White</product-name>
+    <product-name>Provam Portal do Fidalgo Alvarinho White</product-name>
     <price>179</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1245,7 +1245,7 @@
   </product>
   <product>
     <product-name>Bodegas Rey Fernando de Castilla Jerez Fino Classic Dry Sec NV</product-name>
-    <price>189</price>
+    <price>179</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1255,7 +1255,7 @@
   </product>
   <product>
     <product-name>Pata Negra Gran Reserva 2012 Vinho</product-name>
-    <price>109</price>
+    <price>106.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1265,7 +1265,7 @@
   </product>
   <product>
     <product-name>Pata Negra Tempranillo Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>57</price>
+    <price>55</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1285,7 +1285,7 @@
   </product>
   <product>
     <product-name>Pata Negra Oro 2021 Vinho</product-name>
-    <price>52</price>
+    <price>55.8</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1295,7 +1295,7 @@
   </product>
   <product>
     <product-name>Pata Negra Verdejo 2022 White</product-name>
-    <price>64.9</price>
+    <price>65.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1375,7 +1375,7 @@
   </product>
   <product>
     <product-name>Pata Negra Reserva Tempranillo 2016 Vinho</product-name>
-    <price>76</price>
+    <price>73.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1434,7 +1434,7 @@
     <product-id>14154</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Cohiba Atmosphere Gran Reserva DOCa Rioja 2012 Vinho</product-name>
+    <product-name>Marqués de Tomares Cohiba Atmosphere Gran Reserva DOCa Rioja Vinho</product-name>
     <price>999</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1445,7 +1445,7 @@
   </product>
   <product>
     <product-name>Castillo San Simón 2022 Tinto</product-name>
-    <price>34.9</price>
+    <price>37.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1455,7 +1455,7 @@
   </product>
   <product>
     <product-name>Dominio de Punctum 99 Rosas Tempranillo e Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>67</price>
+    <price>72.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1465,7 +1465,7 @@
   </product>
   <product>
     <product-name>Dominio de Punctum 99 Rosas Chardonnay e Viognier 2021 Vinho White</product-name>
-    <price>67</price>
+    <price>72.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1475,7 +1475,7 @@
   </product>
   <product>
     <product-name>Dominio de Punctum 99 Rosas Rosé 2022 Rosé</product-name>
-    <price>67</price>
+    <price>72.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1485,7 +1485,7 @@
   </product>
   <product>
     <product-name>Pescador Rosé NV Vinho Rosé</product-name>
-    <price>64.9</price>
+    <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1495,7 +1495,7 @@
   </product>
   <product>
     <product-name>Pescador Blanc NV Vinho White</product-name>
-    <price>64.9</price>
+    <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1575,7 +1575,7 @@
   </product>
   <product>
     <product-name>Cave de Cairanne Le Chêne Noir 2020 Vinho</product-name>
-    <price>128</price>
+    <price>134.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1585,7 +1585,7 @@
   </product>
   <product>
     <product-name>Cave de Cairanne Le Pas de La Beaume 2018 Vinho</product-name>
-    <price>117</price>
+    <price>118</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1595,7 +1595,7 @@
   </product>
   <product>
     <product-name>Cave de Cairanne Caves de Cairanne Grande Reserve 2020 Vinho Tinto</product-name>
-    <price>169</price>
+    <price>194</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1615,7 +1615,7 @@
   </product>
   <product>
     <product-name>Ravoire &amp; Fils Jas des Vignes Provence Rosé 2022 Rosé</product-name>
-    <price>109.9</price>
+    <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1625,7 +1625,7 @@
   </product>
   <product>
     <product-name>Patriarche Héritage Rosé NV Vinho Rosé</product-name>
-    <price>69</price>
+    <price>72.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1635,7 +1635,7 @@
   </product>
   <product>
     <product-name>Patriarche Héritage NV Tinto</product-name>
-    <price>69</price>
+    <price>72.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1645,7 +1645,7 @@
   </product>
   <product>
     <product-name>Patriarche Héritage White NV Branco</product-name>
-    <price>69</price>
+    <price>72.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1665,7 +1665,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Cabernet Sauvignon 2020 Vinho</product-name>
-    <price>79</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1685,7 +1685,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Reserva de Família Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>199</price>
+    <price>197</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1715,7 +1715,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Carmenère 2020 Vinho</product-name>
-    <price>79</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1725,7 +1725,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Merlot 2017 Vinho</product-name>
-    <price>79</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1735,7 +1735,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Neblus 2014 Vinho</product-name>
-    <price>449</price>
+    <price>479</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1745,7 +1745,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Gran Reserva Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>139</price>
+    <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1755,7 +1755,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Sauvignon Blanc 2020 White</product-name>
-    <price>79</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1775,7 +1775,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Reserva de Família Carmenère 2016 Vinho</product-name>
-    <price>196</price>
+    <price>198</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1785,7 +1785,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Chardonnay 2021 White</product-name>
-    <price>79</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1795,7 +1795,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Pinot Noir 2020 Vinho</product-name>
-    <price>94</price>
+    <price>74</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1815,7 +1815,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Céfiro Cool Reserve Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>79</price>
+    <price>83</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1825,7 +1825,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Céfiro Cool Reserve Merlot 2019 Vinho</product-name>
-    <price>79</price>
+    <price>83</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1835,7 +1835,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Céfiro Cool Reserve Pinot Noir 2020 Vinho</product-name>
-    <price>93</price>
+    <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1845,7 +1845,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Céfiro Cool Reserve Carmenère 2020 Vinho</product-name>
-    <price>79</price>
+    <price>83</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1864,7 +1864,7 @@
     <product-id>23112</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Nimbus Single Vineyard Pinot Noir 2021 Vinho</product-name>
+    <product-name>Viña Casablanca Nimbus Single Vineyard Pinot Noir Vinho</product-name>
     <price>169</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1885,7 +1885,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Chardonnay 2022 White</product-name>
-    <price>64</price>
+    <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1895,7 +1895,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Cabernet Sauvignon 2022 Vinho</product-name>
-    <price>64</price>
+    <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1905,7 +1905,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Merlot 2022 Vinho</product-name>
-    <price>64</price>
+    <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1915,7 +1915,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Malbec 2022 Vinho</product-name>
-    <price>58.9</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1925,7 +1925,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Syrah 2021 Vinho</product-name>
-    <price>64</price>
+    <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1935,7 +1935,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Roca Exclusivo Chenin e Chardonnay 2022 White</product-name>
-    <price>47.9</price>
+    <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1945,7 +1945,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Pinot Noir 2023 Vinho</product-name>
-    <price>64</price>
+    <price>69.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1955,7 +1955,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Roca Bonarda e Sangiovese 2023 Vinho</product-name>
-    <price>47.9</price>
+    <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1965,7 +1965,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Rosé 2022 Rosé</product-name>
-    <price>64</price>
+    <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1975,7 +1975,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Roca Malbec e Merlot 2021 Vinho</product-name>
-    <price>54.9</price>
+    <price>51</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1985,7 +1985,7 @@
   </product>
   <product>
     <product-name>Bodegas Montes Toscanini Gran Tannat Premium 2020 Vinho</product-name>
-    <price>299</price>
+    <price>279</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -1995,7 +1995,7 @@
   </product>
   <product>
     <product-name>Bodegas Montes Toscanini Carlos Montes Tannat 2021 Vinho</product-name>
-    <price>129</price>
+    <price>122</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2005,7 +2005,7 @@
   </product>
   <product>
     <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2022 Vinho</product-name>
-    <price>69</price>
+    <price>65</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2015,7 +2015,7 @@
   </product>
   <product>
     <product-name>Bodegas Montes Toscanini Elegido Reserva 2020 Tinto</product-name>
-    <price>78</price>
+    <price>73.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2025,7 +2025,7 @@
   </product>
   <product>
     <product-name>Bodegas Montes Toscanini Elegido Tannat e Merlot 2022 Vinho</product-name>
-    <price>49.9</price>
+    <price>49</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2045,7 +2045,7 @@
   </product>
   <product>
     <product-name>Montes Toscanini Criado en Roble Blend 15 meses 2020 Vinho</product-name>
-    <price>144.9</price>
+    <price>140</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2055,7 +2055,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Shiraz 2021 Vinho</product-name>
-    <price>77.9</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2065,7 +2065,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>79</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2075,7 +2075,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Chardonnay 2021 White</product-name>
-    <price>77.9</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2085,7 +2085,7 @@
   </product>
   <product>
     <product-name>Jacob’s Creek Jacob's Creek Shiraz Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>79</price>
+    <price>84</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2095,7 +2095,7 @@
   </product>
   <product>
     <product-name>Nederburg The Winemasters Reserve Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>99</price>
+    <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2105,7 +2105,7 @@
   </product>
   <product>
     <product-name>Nederburg The Winemaster’s Sauvignon Blanc 2020 White</product-name>
-    <price>99</price>
+    <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2114,8 +2114,8 @@
     <product-id>51017</product-id>
   </product>
   <product>
-    <product-name>Nederburg Noble Late Harvest 375 ml 2022 de Dessert</product-name>
-    <price>149</price>
+    <product-name>Nederburg Noble Late Harvest 375 ml de Dessert</product-name>
+    <price>141</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2125,7 +2125,7 @@
   </product>
   <product>
     <product-name>Nederburg The Winemasters Shiraz 2017 Vinho</product-name>
-    <price>99</price>
+    <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2145,7 +2145,7 @@
   </product>
   <product>
     <product-name>Nederburg The Winemasters Reserve Pinotage 2019 Vinho</product-name>
-    <price>99</price>
+    <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2155,7 +2155,7 @@
   </product>
   <product>
     <product-name>Nederburg Manor House Cabernet Sauvignon 2016 Vinho</product-name>
-    <price>239</price>
+    <price>243</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2165,7 +2165,7 @@
   </product>
   <product>
     <product-name>Nederburg Cabernet Sauvignon 2022 Vinho</product-name>
-    <price>56</price>
+    <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2184,8 +2184,8 @@
     <product-id>51046</product-id>
   </product>
   <product>
-    <product-name>Nederburg Pinotage 2022 Vinho</product-name>
-    <price>56</price>
+    <product-name>Nederburg Pinotage Vinho</product-name>
+    <price>59</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2195,7 +2195,7 @@
   </product>
   <product>
     <product-name>Nederburg Shiraz 2022 Vinho</product-name>
-    <price>58.9</price>
+    <price>64.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2205,7 +2205,7 @@
   </product>
   <product>
     <product-name>Nederburg Baronne Cabernet Sauvignon Shiraz 2018 Vinho</product-name>
-    <price>99</price>
+    <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2270,7 +2270,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/monsaraz-reserva-doc-alentejo/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>9</inventory-count>
     <product-id>12258</product-id>
   </product>
   <product>
@@ -2295,7 +2295,7 @@
   </product>
   <product>
     <product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé 375 ml 2018 Rosé</product-name>
-    <price>109</price>
+    <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2315,7 +2315,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Cabernet Sauvignon 375 ml 2021 Vinho</product-name>
-    <price>46</price>
+    <price>44</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2325,7 +2325,7 @@
   </product>
   <product>
     <product-name>Viña Casablanca Céfiro Cool Reserve Cabernet Sauvignon 375 ml 2019 Vinho</product-name>
-    <price>47</price>
+    <price>49.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2334,8 +2334,8 @@
     <product-id>23209</product-id>
   </product>
   <product>
-    <product-name>Viña Casablanca Céfiro Cool Reserve Sauvignon Blanc 375 ml 2022 White</product-name>
-    <price>47</price>
+    <product-name>Viña Casablanca Céfiro Cool Reserve Sauvignon Blanc 375 ml White</product-name>
+    <price>49.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2355,7 +2355,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Malbec 375 ml 2022 Vinho</product-name>
-    <price>44.9</price>
+    <price>43</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2365,7 +2365,7 @@
   </product>
   <product>
     <product-name>Alfredo Roca Fincas Cabernet Sauvignon 375 ml 2022 Vinho</product-name>
-    <price>44.9</price>
+    <price>43</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2374,8 +2374,8 @@
     <product-id>24105</product-id>
   </product>
   <product>
-    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 375 ml 2021 Vinho</product-name>
-    <price>42.9</price>
+    <product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 375 ml Vinho</product-name>
+    <price>45</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>375 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2415,7 +2415,7 @@
   </product>
   <product>
     <product-name>Bodega Vieja Cabernet Sauvignon 2022 Vinho</product-name>
-    <price>29.9</price>
+    <price>32</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2425,7 +2425,7 @@
   </product>
   <product>
     <product-name>Bodega Vieja Suave 2022 Tinto</product-name>
-    <price>29.9</price>
+    <price>32</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2435,7 +2435,7 @@
   </product>
   <product>
     <product-name>Bodega Vieja Suave White 2022 Branco</product-name>
-    <price>29.9</price>
+    <price>32</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2460,7 +2460,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-burton’s-tawny/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>12315</product-id>
   </product>
   <product>
@@ -2535,7 +2535,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Cabernet Sauvignon 2022 Vinho</product-name>
-    <price>29.9</price>
+    <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2545,7 +2545,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Carmenère 2022 Vinho</product-name>
-    <price>29.9</price>
+    <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2555,7 +2555,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Merlot 2022 Vinho</product-name>
-    <price>29.9</price>
+    <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2565,7 +2565,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reservado Rosé Syrah 2022 Rosé</product-name>
-    <price>29.9</price>
+    <price>32.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2575,7 +2575,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>39.9</price>
+    <price>44</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2585,7 +2585,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Sauvignon Blanc 2022 White</product-name>
-    <price>39.9</price>
+    <price>44</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2595,7 +2595,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Superior Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>49</price>
+    <price>43.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2605,7 +2605,7 @@
   </product>
   <product>
     <product-name>Aura Wines Trapecista Reserva Superior Carmenère 2021 Vinho</product-name>
-    <price>49</price>
+    <price>43.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2695,7 +2695,7 @@
   </product>
   <product>
     <product-name>Sparkling Mandois Brut Origine NV</product-name>
-    <price>379</price>
+    <price>349</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2895,7 +2895,7 @@
   </product>
   <product>
     <product-name>Alambrado Cosecha Manual Gran Malbec 2021 Vinho</product-name>
-    <price>94.9</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2925,7 +2925,7 @@
   </product>
   <product>
     <product-name>Bodega Santa Julia Alambrado Pinot Noir 2023 Vinho</product-name>
-    <price>59</price>
+    <price>57</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -2935,7 +2935,7 @@
   </product>
   <product>
     <product-name>Bodega Santa Julia Alambrado Viognier 2023 Vinho White</product-name>
-    <price>59</price>
+    <price>64.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3065,7 +3065,7 @@
   </product>
   <product>
     <product-name>Dominio de Punctum 99 Rosas Rosé Edição Especial e Limitada 2022 Rosé</product-name>
-    <price>67</price>
+    <price>72.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3075,7 +3075,7 @@
   </product>
   <product>
     <product-name>Dominio de Punctum 99 Rosas White Edição Especial e Limitada 2022 Branco</product-name>
-    <price>67</price>
+    <price>72.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3095,7 +3095,7 @@
   </product>
   <product>
     <product-name>Sparkling Veuve du Vernay Demi Sec NV</product-name>
-    <price>79</price>
+    <price>77</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3105,7 +3105,7 @@
   </product>
   <product>
     <product-name>Sparkling Veuve du Vernay Brut Rosé NV</product-name>
-    <price>79</price>
+    <price>81.6</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3115,7 +3115,7 @@
   </product>
   <product>
     <product-name>Veuve du Vernay Ice NV Sparkling</product-name>
-    <price>92</price>
+    <price>93.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3125,7 +3125,7 @@
   </product>
   <product>
     <product-name>Sparkling Veuve du Vernay Ice Rosé NV</product-name>
-    <price>98</price>
+    <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3305,7 +3305,7 @@
   </product>
   <product>
     <product-name>Château Troupian Haut-Médoc 2019 Vinho</product-name>
-    <price>159</price>
+    <price>189</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3345,7 +3345,7 @@
   </product>
   <product>
     <product-name>Château Ducluzeau Listrac-Médoc 2015 Vinho</product-name>
-    <price>299</price>
+    <price>309</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3375,7 +3375,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Reservado Cabernet Sauvignon Magnum 2019 Vinho</product-name>
-    <price>59</price>
+    <price>61.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3414,7 +3414,7 @@
     <product-id>23257</product-id>
   </product>
   <product>
-    <product-name>Moillard Bourgogne Aligoté Long du Bois 2021 White</product-name>
+    <product-name>Moillard Bourgogne Aligoté Long du Bois White</product-name>
     <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3424,7 +3424,7 @@
     <product-id>23264</product-id>
   </product>
   <product>
-    <product-name>Moillard Beaujolais Les Malvaux 2020 Vinho</product-name>
+    <product-name>Moillard Beaujolais Les Malvaux Vinho</product-name>
     <price>139</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3695,7 +3695,7 @@
   </product>
   <product>
     <product-name>Finca Fella Cala Rey 2021 Tinto</product-name>
-    <price>63.9</price>
+    <price>74.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3875,7 +3875,7 @@
   </product>
   <product>
     <product-name>Finca Fella Cala Rey White 2022 Branco</product-name>
-    <price>63.9</price>
+    <price>74.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3885,7 +3885,7 @@
   </product>
   <product>
     <product-name>Sparkling Imperial Vintage Rosé Brut Sperone NV</product-name>
-    <price>66.9</price>
+    <price>75</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3894,7 +3894,7 @@
     <product-id>14192</product-id>
   </product>
   <product>
-    <product-name>Filipa Pato Post Quercus Bical 2020 White</product-name>
+    <product-name>Filipa Pato Post-Quer...s Bical 2020 Vinho White</product-name>
     <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4077,7 +4077,7 @@
   </product>
   <product>
     <product-name>Alambrado Gran Cosecha Manual Cabernet Sauvignon 2020 Vinho</product-name>
-    <price>94.9</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4087,7 +4087,7 @@
   </product>
   <product>
     <product-name>Alambrado Gran Cosecha Manual Malbec - Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>94.9</price>
+    <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4106,8 +4106,8 @@
     <product-id>14197</product-id>
   </product>
   <product>
-    <product-name>Luccarelli Bianco IGP Puglia 2022 White</product-name>
-    <price>82.9</price>
+    <product-name>Luccarelli Bianco IGP Puglia White</product-name>
+    <price>88</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4117,7 +4117,7 @@
   </product>
   <product>
     <product-name>Sparkling Sperone Moscato NV White</product-name>
-    <price>75</price>
+    <price>82</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4126,8 +4126,8 @@
     <product-id>14195</product-id>
   </product>
   <product>
-    <product-name>Sparkling Sperone Prosecco DOC Rosé Millesimato 2020 Rosé</product-name>
-    <price>108</price>
+    <product-name>Sparkling Sperone Prosecco DOC Rosé Millesimato Rosé</product-name>
+    <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4137,7 +4137,7 @@
   </product>
   <product>
     <product-name>Castillo San Simón Shiraz NV Vinho</product-name>
-    <price>35.9</price>
+    <price>37.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4167,7 +4167,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Gernot Langes 2019 Vinho</product-name>
-    <price>626</price>
+    <price>609</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4177,7 +4177,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Privado Family Blend 2021 Vinho</product-name>
-    <price>149.9</price>
+    <price>154.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4187,7 +4187,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Altura Malbec 2022 Vinho</product-name>
-    <price>119.9</price>
+    <price>119</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4207,7 +4207,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Reserva Malbec 2022 Vinho</product-name>
-    <price>76.9</price>
+    <price>79</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4217,7 +4217,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Reserva Cabernet Sauvignon 2020 Vinho</product-name>
-    <price>73.5</price>
+    <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4227,7 +4227,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Reserva Chardonnay 2022 White</product-name>
-    <price>73.5</price>
+    <price>78.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4257,7 +4257,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Select Chardonnay 2022 White</product-name>
-    <price>88</price>
+    <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4267,7 +4267,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Select Cabernet Sauvignon 2021 Vinho</product-name>
-    <price>88</price>
+    <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4297,7 +4297,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Sparkling Norton Extra Brut White NV</product-name>
-    <price>57.9</price>
+    <price>56.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4317,7 +4317,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Porteño Malbec 2023 Vinho</product-name>
-    <price>36.85</price>
+    <price>35</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4327,7 +4327,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Porteño Cabernet Sauvignon 2023 Vinho</product-name>
-    <price>39.9</price>
+    <price>35</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4337,7 +4337,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Porteño Chardonnay 2023 White</product-name>
-    <price>39.9</price>
+    <price>35</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4347,7 +4347,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Porteño Suave e Refrescante 2023 Tinto</product-name>
-    <price>39.9</price>
+    <price>35</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4407,7 +4407,7 @@
   </product>
   <product>
     <product-name>Santa Carolina  Estelar 57 Sauvignon Blanc 2021 White</product-name>
-    <price>56</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4417,7 +4417,7 @@
   </product>
   <product>
     <product-name>Santa Carolina  Estelar 57 Merlot 2020 Vinho</product-name>
-    <price>56</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4427,7 +4427,7 @@
   </product>
   <product>
     <product-name>Santa Carolina  Estelar 57 Chardonnay 2021 White</product-name>
-    <price>56</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4437,7 +4437,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Estelar 57 Cabernet Sauvignon 2020 Vinho</product-name>
-    <price>56</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4447,7 +4447,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Estelar 57 Carmenère 2020 Vinho</product-name>
-    <price>56</price>
+    <price>44.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4516,7 +4516,7 @@
     <product-id>11526</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Sparkling Belvino Rosé Brut 2023</product-name>
+    <product-name>Enoitalia Sparkling Belvino Rosé Brut</product-name>
     <price>68</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4526,7 +4526,7 @@
     <product-id>11527</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Amarone della Valpolicella DOCG Aristocratico 2018 Vinho</product-name>
+    <product-name>Enoitalia Amarone della Valpolicella DOCG Aristocratico 2019 Vinho</product-name>
     <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4546,7 +4546,7 @@
     <product-id>11529</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Norton Altura Pinot Noir 2022 Vinho</product-name>
+    <product-name>Bodega Norton Norton Altura Pinot Noir Vinho</product-name>
     <price>116</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4567,7 +4567,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Lote Negro 2020 Vinho</product-name>
-    <price>228.8</price>
+    <price>254.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4577,7 +4577,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Lote Lunlunta 2020 Vinho</product-name>
-    <price>256.9</price>
+    <price>279</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4586,8 +4586,8 @@
     <product-id>11584</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Norton Lote Finca La Colônia 2020 Vinho</product-name>
-    <price>259</price>
+    <product-name>Bodega Norton Norton Lote Finca La Colonia 2020 Vinho</product-name>
+    <price>279</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4597,7 +4597,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Lote Agrelo 2020 Vinho</product-name>
-    <price>256.9</price>
+    <price>279</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4606,7 +4606,7 @@
     <product-id>11586</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Triunvirato nº 7 2022 Vinho</product-name>
+    <product-name>Caves Messias Triunvirato nº 7 Vinho</product-name>
     <price>469</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4637,7 +4637,7 @@
   </product>
   <product>
     <product-name>Veuve du Vernay Édition Limitée Brut No. 2 NV Sparkling</product-name>
-    <price>74.9</price>
+    <price>77.3</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4727,7 +4727,7 @@
   </product>
   <product>
     <product-name>Bodega Norton Norton Reserva Cabernet Franc 2021 Vinho</product-name>
-    <price>109</price>
+    <price>86</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4756,7 +4756,7 @@
     <product-id>12329</product-id>
   </product>
   <product>
-    <product-name>Sparkling Moillard Crémant de Bourgogne Brut Prestige Chardonnay 2019 2020</product-name>
+    <product-name>Sparkling Moillard Crémant de Bourgogne Brut Prestige Chardonnay 2019</product-name>
     <price>187</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4827,7 +4827,7 @@
   </product>
   <product>
     <product-name>Château Chasse-Spleen Moulis-en-Médoc AOC 2013 Vinho</product-name>
-    <price>599</price>
+    <price>569</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4857,7 +4857,7 @@
   </product>
   <product>
     <product-name>Château Pontoise Cabarrus Château Hauts de Plaisance Haut-Médoc 2021 Vinho</product-name>
-    <price>109</price>
+    <price>124</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4897,7 +4897,7 @@
   </product>
   <product>
     <product-name>Château St. Thomas Les Gourmets Rosé 2021 Vinho Rosé</product-name>
-    <price>99.9</price>
+    <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4907,7 +4907,7 @@
   </product>
   <product>
     <product-name>Château St. Thomas Les Gourmets Blanc 2021 White</product-name>
-    <price>99.9</price>
+    <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4917,7 +4917,7 @@
   </product>
   <product>
     <product-name>Château St. Thomas Les Gourmets Rouge 2018 Vinho</product-name>
-    <price>99.9</price>
+    <price>109.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4976,8 +4976,8 @@
     <product-id>21741</product-id>
   </product>
   <product>
-    <product-name>Stemmari Rosé Terre Siciliane IGT 2021 Vinho Rosé</product-name>
-    <price>69</price>
+    <product-name>Stemmari Rosé Terre Siciliane IGT Vinho Rosé</product-name>
+    <price>78</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4987,7 +4987,7 @@
   </product>
   <product>
     <product-name>Stemmari Decorato Rosso 2019 Vinho</product-name>
-    <price>85</price>
+    <price>89</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4997,7 +4997,7 @@
   </product>
   <product>
     <product-name>Stemmari Cantodoro Sicilia DOC 2018 Vinho</product-name>
-    <price>135</price>
+    <price>139.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5007,7 +5007,7 @@
   </product>
   <product>
     <product-name>Michele Chiarlo Gavi DOCG Palás 2021 Vinho White</product-name>
-    <price>149</price>
+    <price>159</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5016,8 +5016,8 @@
     <product-id>21729</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  2021 White</product-name>
-    <price>224</price>
+    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  White</product-name>
+    <price>234.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5027,7 +5027,7 @@
   </product>
   <product>
     <product-name>Michele Chiarlo Barbaresco DOCG Palás 2018 Vinho</product-name>
-    <price>386</price>
+    <price>399</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5036,8 +5036,8 @@
     <product-id>21731</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 White</product-name>
-    <price>84</price>
+    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert White</product-name>
+    <price>81</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5047,7 +5047,7 @@
   </product>
   <product>
     <product-name>Oscar Haussmann OH01 Riesling Seco 2022 White</product-name>
-    <price>84</price>
+    <price>81</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5057,7 +5057,7 @@
   </product>
   <product>
     <product-name>Stemmari Nero d’Avola Sicilia DOC 2021 Vinho</product-name>
-    <price>69</price>
+    <price>78</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5066,8 +5066,8 @@
     <product-id>23334</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert 2020 White</product-name>
-    <price>84</price>
+    <product-name>Oscar Haussmann OH01 Gewürztraminer Meio Dessert White</product-name>
+    <price>81</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5086,7 +5086,7 @@
     <product-id>14049</product-id>
   </product>
   <product>
-    <product-name>Sparkling Belvino Grillo Brut 2023</product-name>
+    <product-name>Sparkling Belvino Grillo Brut</product-name>
     <price>68</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5096,7 +5096,7 @@
     <product-id>11536</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Voga Prosecco Brut DOC 2022 Sparkling</product-name>
+    <product-name>Enoitalia Voga Prosecco Brut DOC Sparkling</product-name>
     <price>124.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5107,7 +5107,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Carolina Reserva Rosé 2022 Vinho Rosé</product-name>
-    <price>86</price>
+    <price>59.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5117,7 +5117,7 @@
   </product>
   <product>
     <product-name>Santa Carolina Reserva de Familia Select Cask Cabernet Sauvignon 2019 Vinho</product-name>
-    <price>238</price>
+    <price>249</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5126,8 +5126,8 @@
     <product-id>23351</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Carolina Gran Reserva Assemblage 2019 Vinho</product-name>
-    <price>139</price>
+    <product-name>Santa Carolina Carolina Gran Reserva Assemblage Vinho</product-name>
+    <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5137,7 +5137,7 @@
   </product>
   <product>
     <product-name>Castillo San Simón Cabernet Sauvignon NV Vinho</product-name>
-    <price>35.9</price>
+    <price>37.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5156,8 +5156,8 @@
     <product-id>23332</product-id>
   </product>
   <product>
-    <product-name>Vesevo Falanghina IGT 2020 Vinho White</product-name>
-    <price>122</price>
+    <product-name>Vesevo Falanghina IGT Vinho White</product-name>
+    <price>129</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5207,7 +5207,7 @@
   </product>
   <product>
     <product-name>Antares Merlot 2022 Vinho</product-name>
-    <price>42.9</price>
+    <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -5217,7 +5217,7 @@
   </product>
   <product>
     <product-name>Finca Fella Cala Rey Rosé 2021 Rosé</product-name>
-    <price>63.9</price>
+    <price>74.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
