@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-04-24T19:49:29.292Z</feed-generation-date>
+    <feed-generation-date>2024-05-03T15:58:31.033Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -264,7 +264,7 @@
     <product-id>11430</product-id>
   </product>
   <product>
-    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT Vinho</product-name>
+    <product-name>Cantina Cellaro Lumà Nero D'Avola IGT 2020 Vinho</product-name>
     <price>178</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -290,7 +290,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>11442</product-id>
   </product>
   <product>
@@ -434,7 +434,7 @@
     <product-id>11839</product-id>
   </product>
   <product>
-    <product-name>Corbelli Pinot Grigio 2023 Vinho White</product-name>
+    <product-name>Corbelli Pinot Grigio Vinho White</product-name>
     <price>51.4</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -510,7 +510,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>36</inventory-count>
     <product-id>12013</product-id>
   </product>
   <product>
@@ -560,7 +560,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>36</inventory-count>
     <product-id>12051</product-id>
   </product>
   <product>
@@ -664,7 +664,7 @@
     <product-id>12113</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Marquês de Borba Colheita White 2020 Vinho Branco</product-name>
+    <product-name>João Portugal Ramos Marquês de Borba Colheita White Vinho Branco</product-name>
     <price>95</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -674,7 +674,7 @@
     <product-id>12114</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Marquês de Borba Colheita 2020 Vinho Tinto</product-name>
+    <product-name>João Portugal Ramos Marquês de Borba Colheita 2021 Vinho Tinto</product-name>
     <price>95</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -694,7 +694,7 @@
     <product-id>12118</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos DOC White 2021 Vinho Branco</product-name>
+    <product-name>Carmim Reguengos DOC White 2022 Vinho Branco</product-name>
     <price>42.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -704,7 +704,7 @@
     <product-id>12119</product-id>
   </product>
   <product>
-    <product-name>Carmim Monsaraz Alentejo DOC 2019 Vinho Tinto</product-name>
+    <product-name>Carmim Monsaraz Alentejo DOC 2022 Vinho Tinto</product-name>
     <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -750,7 +750,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/monsaraz-doc-branco/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>12133</product-id>
   </product>
   <product>
@@ -874,7 +874,7 @@
     <product-id>12181</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Estremus Vinho</product-name>
+    <product-name>João Portugal Ramos Estremus 2017 Vinho</product-name>
     <price>1259</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -920,7 +920,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/monsaraz-alentejo-rose/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>12193</product-id>
   </product>
   <product>
@@ -1014,7 +1014,7 @@
     <product-id>12222</product-id>
   </product>
   <product>
-    <product-name>V Puro Doravante DOC 2016 Vinho</product-name>
+    <product-name>V Puro Doravante DOC 2017 Vinho</product-name>
     <price>239</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1024,7 +1024,7 @@
     <product-id>12223</product-id>
   </product>
   <product>
-    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White 2018 Vinho Branco</product-name>
+    <product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White 2019 Vinho Branco</product-name>
     <price>186</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1330,7 +1330,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nuestro-8-meses-do-ribera-del-duero/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>14138</product-id>
   </product>
   <product>
@@ -1370,7 +1370,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/chan-de-rosas-cuvee-especial-albariño/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>14142</product-id>
   </product>
   <product>
@@ -1674,7 +1674,7 @@
     <product-id>23002</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Estrellas Reserva Sauvignon Blanc 2020 Vinho White</product-name>
+    <product-name>Santa Carolina Estrellas Reserva Sauvignon Blanc 2021 Vinho White</product-name>
     <price>56</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1934,7 +1934,7 @@
     <product-id>24049</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Roca Exclusivo Chenin e Chardonnay Vinho White</product-name>
+    <product-name>Alfredo Roca Roca Exclusivo Chenin e Chardonnay 2023 Vinho White</product-name>
     <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2104,7 +2104,7 @@
     <product-id>51006</product-id>
   </product>
   <product>
-    <product-name>Nederburg The Winemaster’s Sauvignon Blanc 2020 Vinho White</product-name>
+    <product-name>Nederburg The Winemasters Sauvignon Blanc 2020 Vinho White</product-name>
     <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2144,7 +2144,7 @@
     <product-id>51023</product-id>
   </product>
   <product>
-    <product-name>Nederburg The Winemasters Reserve Pinotage 2019 Vinho</product-name>
+    <product-name>Nederburg The Winemasters Reserve Pinotage 2021 Vinho</product-name>
     <price>97</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2244,7 +2244,7 @@
     <product-id>12194</product-id>
   </product>
   <product>
-    <product-name>Carmim Monsaraz DOC Magnum 2017 Vinho Tinto</product-name>
+    <product-name>Carmim Monsaraz DOC Magnum 2021 Vinho Tinto</product-name>
     <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -2650,7 +2650,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/la-viña-de-sofia-albariño-clasico/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>27</inventory-count>
     <product-id>14176</product-id>
   </product>
   <product>
@@ -2704,7 +2704,7 @@
     <product-id>14177</product-id>
   </product>
   <product>
-    <product-name>Marqués de Tomares Crianza Rioja White 2019 Vinho Branco</product-name>
+    <product-name>Marqués de Tomares Crianza Rioja White Vinho Branco</product-name>
     <price>107</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2780,7 +2780,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/diaz-bayo-8-meses/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>18</inventory-count>
     <product-id>14169</product-id>
   </product>
   <product>
@@ -2810,7 +2810,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
-    <inventory-count>29</inventory-count>
+    <inventory-count>30</inventory-count>
     <product-id>14173</product-id>
   </product>
   <product>
@@ -2820,7 +2820,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-    <inventory-count>28</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>14174</product-id>
   </product>
   <product>
@@ -2830,7 +2830,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>14175</product-id>
   </product>
   <product>
@@ -2880,7 +2880,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>1</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>23235</product-id>
   </product>
   <product>
@@ -2940,7 +2940,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-viognier/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>23245</product-id>
   </product>
   <product>
@@ -3020,7 +3020,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -3030,7 +3030,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-nela-tempranillo/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>14186</product-id>
   </product>
   <product>
@@ -3314,7 +3314,7 @@
     <product-id>23262</product-id>
   </product>
   <product>
-    <product-name>Moillard Aloxe-Corton Les Affouages Vinho</product-name>
+    <product-name>Moillard Aloxe-Corton Les Affouages 2019 Vinho</product-name>
     <price>556</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3394,7 +3394,7 @@
     <product-id>23254</product-id>
   </product>
   <product>
-    <product-name>Château de Cathalogne Bordeaux 2017 Vinho Tinto</product-name>
+    <product-name>Château de Cathalogne Bordeaux 2019 Vinho Tinto</product-name>
     <price>109</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3684,7 +3684,7 @@
     <product-id>23001</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Messias Beiras 2023 Vinho Tinto</product-name>
+    <product-name>Caves Messias Messias Beiras Vinho Tinto</product-name>
     <price>45</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3704,7 +3704,7 @@
     <product-id>25041</product-id>
   </product>
   <product>
-    <product-name>Cantina Negrar La Sorte Valpolicella Classico DOC 2020 Vinho</product-name>
+    <product-name>Cantina Negrar La Sorte Valpolicella Classico DOC Vinho</product-name>
     <price>83.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3744,7 +3744,7 @@
     <product-id>12176</product-id>
   </product>
   <product>
-    <product-name>Carmim Olaria Suave 2022 Vinho Tinto</product-name>
+    <product-name>Carmim Olaria Suave 2021 Vinho Tinto</product-name>
     <price>34.5</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4026,7 +4026,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-beau-rocher-brut-branco/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>25</inventory-count>
     <product-id>23312</product-id>
   </product>
   <product>
@@ -4050,7 +4050,7 @@
     <product-id>23303</product-id>
   </product>
   <product>
-    <product-name>Alambrado Etiqueta Negra Bonarda 2021 Vinho</product-name>
+    <product-name>Alambrado Etiqueta Negra Bonarda 2022 Vinho</product-name>
     <price>65.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4386,7 +4386,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/sexy-fish-blanc-de-blancs/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>11</inventory-count>
     <product-id>11572</product-id>
   </product>
   <product>
@@ -4460,7 +4460,7 @@
     <product-id>11521</product-id>
   </product>
   <product>
-    <product-name>Provinco Langhe Nebbiolo DOC Cantine del Borgo Reale 2019 Vinho</product-name>
+    <product-name>Provinco Langhe Nebbiolo DOC Cantine del Borgo Reale Vinho</product-name>
     <price>189.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4480,7 +4480,7 @@
     <product-id>11523</product-id>
   </product>
   <product>
-    <product-name>Enoitalia Voga Pinot Grigio Delle Venezie DOC 2022 Vinho White</product-name>
+    <product-name>Enoitalia Voga Pinot Grigio Delle Venezie DOC Vinho White</product-name>
     <price>99.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4990,7 +4990,7 @@
     <product-id>23336</product-id>
   </product>
   <product>
-    <product-name>Stemmari Cantodoro Sicilia DOC 2018 Vinho</product-name>
+    <product-name>Stemmari Cantodoro Sicilia DOC Vinho</product-name>
     <price>139.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5010,7 +5010,7 @@
     <product-id>21729</product-id>
   </product>
   <product>
-    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  Vinho White</product-name>
+    <product-name>Michele Chiarlo Roero Arneis DOCG Le Madri  2021 Vinho White</product-name>
     <price>234.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5030,7 +5030,7 @@
     <product-id>21731</product-id>
   </product>
   <product>
-    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert Vinho White</product-name>
+    <product-name>Oscar Haussmann OH01 Spätlese Fruit Meio Dessert 2021 Vinho White</product-name>
     <price>81</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -5270,7 +5270,7 @@
     <product-id>12262</product-id>
   </product>
   <product>
-    <product-name>Barcos Wines - Adega Ponte da Barca Pardalito DOC Vinho Verde Vinho White</product-name>
+    <product-name>Barcos Wines - Adega Ponte da Barca Pardalito DOC Vinho Verde 2024 Vinho White</product-name>
     <price>39</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
