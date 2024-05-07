@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-05-03T15:58:31.033Z</feed-generation-date>
+    <feed-generation-date>2024-05-07T15:58:30.855Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -934,7 +934,7 @@
     <product-id>12200</product-id>
   </product>
   <product>
-    <product-name>Régia Colheita Reguengos Reserva White Vinho Branco</product-name>
+    <product-name>Carmim Reguengos Régia Colheita White Alentejo DOC NV Vinho Branco</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -944,7 +944,7 @@
     <product-id>12205</product-id>
   </product>
   <product>
-    <product-name>Carmim Régia Colheita DOC Alentejo 2021 Vinho Tinto</product-name>
+    <product-name>Carmim Reguengos Régia Colheita Alentejo DOC 2021 Vinho Tinto</product-name>
     <price>104</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3015,7 +3015,7 @@
   </product>
   <product>
     <product-name>Garcia Carrion Saludas Cosecha Tinto 2022 Vinho Tinto</product-name>
-    <price>24.8</price>
+    <price>27.7</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -3025,7 +3025,7 @@
   </product>
   <product>
     <product-name>García Carrión Viña Nela Tempranillo NV Vinho</product-name>
-    <price>24.8</price>
+    <price>27.7</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
@@ -4496,7 +4496,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/voga-rose-trevenezie-igt/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>11525</product-id>
   </product>
   <product>
