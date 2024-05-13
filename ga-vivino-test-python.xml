@@ -1,1 +1,13 @@
-Teste
+<?xml version="1.0" ?>
+<catalog>
+	<cd>
+		<title>Empire Burlesque</title>
+		<artist>Bob Dylan</artist>
+		<price>10.90</price>
+	</cd>
+	<cd>
+		<title>Hide your heart</title>
+		<artist>Bonnie Tyler</artist>
+		<price>9.90</price>
+	</cd>
+</catalog>
