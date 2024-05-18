@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
   <meta-data>
-    <feed-generation-date>2024-05-07T15:58:30.855Z</feed-generation-date>
+    <feed-generation-date>2024-05-18T15:58:31.356Z</feed-generation-date>
   </meta-data>
   <product>
     <product-name>Cantina Bennati Bardolino Cornale 2020 Vinho</product-name>
@@ -434,7 +434,7 @@
     <product-id>11839</product-id>
   </product>
   <product>
-    <product-name>Corbelli Pinot Grigio Vinho White</product-name>
+    <product-name>Corbelli Pinot Grigio 2023 Vinho White</product-name>
     <price>51.4</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -744,7 +744,7 @@
     <product-id>12131</product-id>
   </product>
   <product>
-    <product-name>Carmim Monsaraz White Alentejo DOC 2020 Vinho Branco</product-name>
+    <product-name>Carmim Monsaraz White Alentejo DOC 2022 Vinho Branco</product-name>
     <price>47</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -784,7 +784,7 @@
     <product-id>12152</product-id>
   </product>
   <product>
-    <product-name>Duorum Colheita 2019 Vinho</product-name>
+    <product-name>Duorum Colheita 2020 Vinho</product-name>
     <price>139</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -854,7 +854,7 @@
     <product-id>12169</product-id>
   </product>
   <product>
-    <product-name>Tons de Duorum White 2020 Vinho Branco</product-name>
+    <product-name>Tons de Duorum White Vinho Branco</product-name>
     <price>69</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -994,7 +994,7 @@
     <product-id>12220</product-id>
   </product>
   <product>
-    <product-name>V Puro Aliás tinto 2016 Vinho</product-name>
+    <product-name>V Puro Aliás Elegância de Outrora 2016 Vinho Tinto</product-name>
     <price>319</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1104,7 +1104,7 @@
     <product-id>12255</product-id>
   </product>
   <product>
-    <product-name>Caves Messias Fortified Messias 10 Anos com Fibrolata NV Vinho do Porto</product-name>
+    <product-name>Caves Messias Fortified Messias 10 Anos com Fibralata NV Vinho do Porto</product-name>
     <price>199</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1184,7 +1184,7 @@
     <product-id>13030</product-id>
   </product>
   <product>
-    <product-name>Provam Varanda do Conde Alvarinho/Trajadura 2021 Vinho White</product-name>
+    <product-name>Provam Varanda do Conde Alvarinho/Trajadura Vinho White</product-name>
     <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1324,7 +1324,7 @@
     <product-id>14075</product-id>
   </product>
   <product>
-    <product-name>Premium Fincas Nuestro 8 meses DO Ribera del Duero 2021 Vinho</product-name>
+    <product-name>Premium Fincas Nuestro 8 meses DO Ribera del Duero Vinho</product-name>
     <price>98</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1744,7 +1744,7 @@
     <product-id>23033</product-id>
   </product>
   <product>
-    <product-name>Santa Carolina Gran Reserva Cabernet Sauvignon 2019 Vinho</product-name>
+    <product-name>Santa Carolina Gran Reserva Cabernet Sauvignon Vinho</product-name>
     <price>99</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -1884,7 +1884,7 @@
     <product-id>23507</product-id>
   </product>
   <product>
-    <product-name>Alfredo Roca Fincas Chardonnay 2022 Vinho White</product-name>
+    <product-name>Alfredo Roca Fincas Chardonnay Vinho White</product-name>
     <price>61</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2254,7 +2254,7 @@
     <product-id>12195</product-id>
   </product>
   <product>
-    <product-name>Carmim Reguengos Reserva DOC Magnum 2019 Vinho Tinto</product-name>
+    <product-name>Carmim Reguengos Reserva DOC Magnum Vinho Tinto</product-name>
     <price>179</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>1,5 L</bottle_size>
@@ -2754,7 +2754,7 @@
     <product-id>21951</product-id>
   </product>
   <product>
-    <product-name>Bodegas Diaz Bayo Nuestro Verdejo 2021 Vinho White</product-name>
+    <product-name>Bodegas Diaz Bayo Nuestro Verdejo Vinho White</product-name>
     <price>66</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -2784,7 +2784,7 @@
     <product-id>14169</product-id>
   </product>
   <product>
-    <product-name>Díaz Bayo Crianza 15 meses 2020 Vinho</product-name>
+    <product-name>Díaz Bayo Crianza 15 meses 2021 Vinho</product-name>
     <price>119.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3524,7 +3524,7 @@
     <product-id>23279</product-id>
   </product>
   <product>
-    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  2022 Vinho</product-name>
+    <product-name>Moillard Morgon Les Collines Cru de Beaujolais  Vinho</product-name>
     <price>189</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3534,7 +3534,7 @@
     <product-id>23280</product-id>
   </product>
   <product>
-    <product-name>Moillard Moulin-à-Vent Les Tuileries Cru de Beaujolais 2021 Vinho Tinto</product-name>
+    <product-name>Moillard Moulin-à-Vent Les Tuileries Cru de Beaujolais Vinho Tinto</product-name>
     <price>209</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -3979,7 +3979,7 @@
     <product-id>12323</product-id>
   </product>
   <product>
-    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda 2021 Vinho</product-name>
+    <product-name>Barbera d’Asti DOCG Truffle Hunter Leda Vinho</product-name>
     <price>84.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4140,7 +4140,7 @@
     <product-id>14234</product-id>
   </product>
   <product>
-    <product-name>Reguengos Reserva dos Sócios 2020 Vinho</product-name>
+    <product-name>Carmim Reguengos Reserva dos Sócios 2020 Vinho</product-name>
     <price>149</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4270,7 +4270,7 @@
     <product-id>11569</product-id>
   </product>
   <product>
-    <product-name>Bodega Norton Sexy Fish Malbec 2022 Vinho</product-name>
+    <product-name>Bodega Norton Sexy Fish Malbec 2023 Vinho</product-name>
     <price>46.9</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
@@ -4601,7 +4601,7 @@
   </product>
   <product>
     <product-name>Caves Messias Triunvirato nº 7 Vinho</product-name>
-    <price>469</price>
+    <price>548</price>
     <quantity-is-minimum>false</quantity-is-minimum>
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
