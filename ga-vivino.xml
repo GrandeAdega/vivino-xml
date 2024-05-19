@@ -420,7 +420,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>13</inventory-count>
     <product-id>11838</product-id>
   </product>
   <product>
@@ -2580,7 +2580,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/trapecista-reserva-cabernet-sauvignon/p</link>
-    <inventory-count>24</inventory-count>
+    <inventory-count>23</inventory-count>
     <product-id>14220</product-id>
   </product>
   <product>
@@ -2880,7 +2880,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>23235</product-id>
   </product>
   <product>
@@ -3030,7 +3030,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-nela-tempranillo/p</link>
-    <inventory-count>38</inventory-count>
+    <inventory-count>37</inventory-count>
     <product-id>14186</product-id>
   </product>
   <product>
@@ -4316,7 +4316,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-malbec/p</link>
-    <inventory-count>13</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>11575</product-id>
   </product>
   <product>
@@ -4356,7 +4356,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-putos-tinto-alentejo-doc/p</link>
-    <inventory-count>33</inventory-count>
+    <inventory-count>32</inventory-count>
     <product-id>12286</product-id>
   </product>
   <product>
@@ -5106,7 +5106,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/carolina-reserva-rose/p</link>
-    <inventory-count>4</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>23349</product-id>
   </product>
   <product>
@@ -5276,7 +5276,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>30</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>13057</product-id>
   </product>
 </vivino-product-list>
