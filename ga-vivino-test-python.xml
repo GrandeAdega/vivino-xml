@@ -1,6 +1,18 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T13:40:54.704171</feed-generation-date>
+		<feed-generation-date>2024-05-24T13:48:49.326667</feed-generation-date>
 	</meta-data>
+	 
+	<note>
+		  
+		<to>Alguém</to>
+		  
+		<from>De outra pessoa</from>
+		  
+		<heading>Recado</heading>
+		  
+		<body>Não esqueça...</body>
+		 
+	</note>
 </vivino-product-list>
