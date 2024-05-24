@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T15:07:42.985156</feed-generation-date>
+		<feed-generation-date>2024-05-24T17:00:02.656330</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2020  Red</product-name>
@@ -1220,7 +1220,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-		<inventory-count>29</inventory-count>
+		<inventory-count>77</inventory-count>
 		<product-id>12051</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
@@ -1594,7 +1594,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-garrafeira-dos-socios/p</link>
-		<inventory-count>4</inventory-count>
+		<inventory-count>3</inventory-count>
 		<product-id>12123</product-id>
 		<extras>
 			<producer>Carmim</producer>
