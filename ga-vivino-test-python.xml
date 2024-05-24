@@ -1,18 +1,94 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T13:48:49.326667</feed-generation-date>
+		<feed-generation-date>2024-05-24T14:28:28.379200</feed-generation-date>
 	</meta-data>
-	 
-	<note>
-		  
-		<to>Alguém</to>
-		  
-		<from>De outra pessoa</from>
-		  
-		<heading>Recado</heading>
-		  
-		<body>Não esqueça...</body>
-		 
-	</note>
+	<product>
+		<product-name>Cantina Bennati Bardolino Cornale 2020  Red</product-name>
+		<price>59.95</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-bardolino-cornale/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>11008</product-id>
+		<extras>
+			<producer>Cantina Bennati</producer>
+			<wine-name>Vinho Bardolino Cornale</wine-name>
+			<appelation>Vêneto</appelation>
+			<vintage>2020</vintage>
+			<country>Itália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-AGO-Produto-CantinaBennati-Bardolino-Cornale.png</image>
+			<GTIN>8002167000130</GTIN>
+			<alcohol>11,5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cantina Bennati Valpolicella Cornale 2016  Red</product-name>
+		<price>92.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/valpolicella-cornale/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>11009</product-id>
+		<extras>
+			<producer>Cantina Bennati</producer>
+			<wine-name>Vinho Valpolicella Cornale</wine-name>
+			<appelation>Vêneto</appelation>
+			<vintage>2016</vintage>
+			<country>Itália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/11009-valpolicella-cornale.png</image>
+			<GTIN>8002167000222</GTIN>
+			<alcohol>11,5%</alcohol>
+			<ageing>Este vinho amadurece brevemente em barricas de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cantina Camigliano Brunello di Montalcino DOCG Camigliano NV  Red</product-name>
+		<price>548.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/brunello-di-montalcino-docg-camigliano/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>11013</product-id>
+		<extras>
+			<producer>Cantina Camigliano</producer>
+			<wine-name>Vinho Brunello di Montalcino DOCG Camigliano</wine-name>
+			<appelation>Toscana</appelation>
+			<vintage>NV</vintage>
+			<country>Itália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-camigliano-brunellodimontalcino.png</image>
+			<GTIN>8006114000013</GTIN>
+			<alcohol>14,0%</alcohol>
+			<ageing>Este vinho estagia durante 24 meses em barricas de carvalho e passa mais 12 meses em garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cantina Camigliano Rosso di Montalcino Camigliano 2018  Red</product-name>
+		<price>269.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/rosso-di-montalcino-camigliano/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>11028</product-id>
+		<extras>
+			<producer>Cantina Camigliano</producer>
+			<wine-name>Vinho Rosso di Montalcino Camigliano</wine-name>
+			<appelation>Toscana</appelation>
+			<vintage>2018</vintage>
+			<country>Itália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/11028_rosso_di_montalcino.png</image>
+			<GTIN>8006114000020</GTIN>
+			<alcohol>14,0%</alcohol>
+			<ageing>Amadurece 6 meses em barricas de carvalho francesas e passa mais 6 meses em garrafa antes da sua comercialização.</ageing>
+		</extras>
+	</product>
 </vivino-product-list>
