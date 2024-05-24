@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T14:49:54.708292</feed-generation-date>
+		<feed-generation-date>2024-05-24T15:07:42.985156</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2020  Red</product-name>
@@ -978,7 +978,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-		<inventory-count>19</inventory-count>
+		<inventory-count>0</inventory-count>
 		<product-id>11841</product-id>
 		<extras>
 			<producer>Corbelli</producer>
@@ -1101,6 +1101,2206 @@
 			<GTIN>5601292123054</GTIN>
 			<alcohol>13.0%</alcohol>
 			<ageing>Amadurece por 6 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias Tawny  do Fortified</product-name>
+		<price>84.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
+		<inventory-count>25</inventory-count>
+		<product-id>12013</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias Tawny</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-tawny.png</image>
+			<GTIN>5601292171024</GTIN>
+			<alcohol>19.5%</alcohol>
+			<ageing>A fermentação do vinho é interrompida pela adição de aguardente vínica e envelhecimento em carvalho até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 10 anos  do Fortified</product-name>
+		<price>174.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-10-anos/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>12014</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 10 anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-10-anos.png</image>
+			<GTIN>5601292175015</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Fermentação alcoólica interrompida pela adição de aguardente vínica. O lote amadurece em carvalho por, em média, 10 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 10 Anos White  do Fortified</product-name>
+		<price>209.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-10-years-branco/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>12022</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 10 Anos Branco</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-10-anos-white-dry.png</image>
+			<GTIN>5601292175343</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Envelhece em carvalho por, em média, 10 anos até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 20 anos  do Fortified</product-name>
+		<price>409.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-20-anos/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>12028</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 20 anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-20-anos.png</image>
+			<GTIN>5601292175022</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Fermentação alcoólica interrompida pela adição de aguardente vínica. O lote é envelhecido em carvalho por, em média, 20 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Valdoeiro Red 2017</product-name>
+		<price>92.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-valdoeiro-tinto/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>12047</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Valdoeiro Tinto</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/quinta_do_valdoeiro_tinto.png</image>
+			<GTIN>5601292121272</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Estagia por 12 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias Ruby  do Fortified</product-name>
+		<price>84.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
+		<inventory-count>29</inventory-count>
+		<product-id>12051</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias Ruby</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-ruby.png</image>
+			<GTIN>5601292171048</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Fermentação alcoólica interrompida pela adição de aguardente vínica, sendo posteriormente envelhecido em carvalho até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 anos Dessert</product-name>
+		<price>109.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-3-anos-doce/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12058</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira 3 anos Doce</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justinos-madeira-3-anos-doce.png</image>
+			<GTIN>5601889009495</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Amadurece por, no mínimo, 3 anos em barricas de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Sparkling Messias Bairrada Brut Milésime 2022</product-name>
+		<price>79.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/espumante-messias-bairrada-brut-milesime/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>12059</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Espumante Messias Bairrada Brut Milésime</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/espumante-messias-bairrada-brut-milesime.png</image>
+			<GTIN>5601292131097</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Tinta Negra 10 anos Dessert</product-name>
+		<price>299.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-10-anos/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>12060</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Tinta Negra 10 anos Doce</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justinos-madeira-10-anos.png</image>
+			<GTIN>5601889009426</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Envelhecimento em barrica por, no mínimo, 10 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Terrantez Old Reserve</product-name>
+		<price>1059.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-terrantez-old-reserve/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>12078</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Terrantez Old Reserve</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justinos-madeira-terrantez-old-reserve.png</image>
+			<GTIN>5601889009389</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Passa por envelhecimento em toneis de carvalho francês, americano e português.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Boal 1978</product-name>
+		<price>2999.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-boal-1978/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12102</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Boal 1978</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justinos-madeira-boal-1978.png</image>
+			<GTIN>5601889009938</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Terrantez 1978</product-name>
+		<price>7389.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-terrantez-1978/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12103</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Terrantez 1978</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justino-madeira-terrantez-1978.png</image>
+			<GTIN>5601889009945</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Envelhece em tonéis de carvalho português, francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Valdoeiro Chardonnay 2018  White</product-name>
+		<price>93.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-valdoeiro-chardonnay/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12104</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Valdoeiro Chardonnay</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2018</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2024-MAI-Produto-QuintaDoValdoeiro-Chardonnay-v1.png</image>
+			<GTIN>5601292111457</GTIN>
+			<alcohol>11.5%</alcohol>
+			<ageing>Fermentação parcial em madeira de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Valdoeiro Reserva 2015  Red</product-name>
+		<price>149.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-valdoeiro-reserva/p</link>
+		<inventory-count>29</inventory-count>
+		<product-id>12106</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Valdoeiro Reserva</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2015</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/quinta-do-valdoeiro-reserva-bairrada.png</image>
+			<GTIN>5601292121449</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Estagia durante 24 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Loios White 2020</product-name>
+		<price>65.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/loios-branco/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>12112</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Loios Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-loios-branco.png</image>
+			<GTIN>5604135001243</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Loios Red 2022</product-name>
+		<price>65.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/loios-tinto/p</link>
+		<inventory-count>18</inventory-count>
+		<product-id>12113</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Loios Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-loios-tinto.png</image>
+			<GTIN>5604135001144</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Colheita White NV</product-name>
+		<price>95.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12114</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Colheita Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-borba-colheita-branco.png</image>
+			<GTIN>5604135002011</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Colheita Red 2021</product-name>
+		<price>95.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-tinto/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>12116</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Colheita Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-borba-colheita-tinto.png</image>
+			<GTIN>5604135003032</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 6 meses em meias pipas de carvalho americano de segundo e terceiro usos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos DOC Red 2022</product-name>
+		<price>42.5</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reguengos-doc-tinto/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>12118</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos DOC Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/reguengos-doc-alentejo-tinto.png</image>
+			<GTIN>5601377335082</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos DOC White 2022</product-name>
+		<price>42.5</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-reguengos-doc-branco/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>12119</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos DOC Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/reguengos-alentejo-branco.png</image>
+			<GTIN>5601377315183</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Monsaraz Red Alentejo DOC 2022</product-name>
+		<price>47.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/monsaraz-doc-tinto/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12120</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Monsaraz Tinto Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/12120_Monsaraz_tto_2.png</image>
+			<GTIN>5601377339080</GTIN>
+			<alcohol>13.50%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Reserva DOC Red 2021</product-name>
+		<price>89.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reguengos-reserva-doc-tinto/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12122</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Reserva DOC Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/COD-994.png</image>
+			<GTIN>5601377333187</GTIN>
+			<alcohol>15%</alcohol>
+			<ageing>Amadurece por 12 meses em barricas de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Garrafeira dos Sócios NV  Red</product-name>
+		<price>306.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reguengos-garrafeira-dos-socios/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>12123</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Garrafeira dos Sócios</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-reguengos-garrafeiradossocios-tinto.png</image>
+			<GTIN>5601377337482</GTIN>
+			<alcohol>15.5%</alcohol>
+			<ageing>Estagia 24 meses em barrica de carvalho e passa mais 12 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Bom Juiz Reserva 2021  Red</product-name>
+		<price>139.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>12131</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Bom Juiz Reserva</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/bom-juiz.png</image>
+			<GTIN>5601377120084</GTIN>
+			<alcohol>15.5%</alcohol>
+			<ageing>Estagia em barrica de carvalho francês por 18 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Monsaraz White Alentejo DOC 2022</product-name>
+		<price>47.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/monsaraz-doc-branco/p</link>
+		<inventory-count>11</inventory-count>
+		<product-id>12133</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Monsaraz Branco Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/monsaraz-tradicao-branco.png</image>
+			<GTIN>5601377319082</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Reserva 2017  Red</product-name>
+		<price>599.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-reserva/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12138</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Reserva</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-borba-reserva.png</image>
+			<GTIN>5604135000673</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece 18 meses em meias pipas novas de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Malvasia 10 anos 375 ml</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-malvasia-10-anos-375-ml/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12150</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Malvasia 10 anos 375 ml</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justino-madeira-malvasia-10-anos.png</image>
+			<GTIN>5601889001208</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Amadurece por, no mínimo, 10 anos em barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Verdelho 10 Anos 375 ml</product-name>
+		<price>248.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-verdelho-10-anos-375-ml/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>12152</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira Verdelho 10 Anos 375 ml</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/justinos_madeira_verdelho_10anos_375.png</image>
+			<GTIN>5601889001185</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Amadurece em cascos de carvalho francês e americano por, em média, 10 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Duorum Colheita 2020  Red</product-name>
+		<price>139.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/duorum-colheita/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>12155</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Duorum Colheita</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-MAI-Produto-Duorum-Colheita.png</image>
+			<GTIN>5600224301027</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurecimento em barricas de carvalho francês durante 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Duorum Reserva DOC 2017  Red</product-name>
+		<price>419.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/duorum-reserva-doc/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>12157</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Duorum Reserva DOC</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-MAI-Produto-Duorum-ReservaDOC.png</image>
+			<GTIN>5600224301102</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece em barricas de 225 e 300 litros de carvalho francês por 18 meses, de acordo com cada lote e casta.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Duorum Fortified Vintage DOC 2011  do Fortified</product-name>
+		<price>1099.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/duorum-porto-vintage-doc/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>12158</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Duorum Porto Vintage DOC</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2011</vintage>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2024-MAR-Produto-Duorum-Vintage-2011.png</image>
+			<GTIN>5600224301805</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Amadurecimento em barricas de carvalho selecionadas.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias Vintage 2007  do Fortified</product-name>
+		<price>1232.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-vintage-2007/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>12165</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias Vintage 2007</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2007</vintage>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-do-porto-messias-vintage-2007.png</image>
+			<GTIN>5601292174278</GTIN>
+			<alcohol>19.5%</alcohol>
+			<ageing>Amadurece em madeira de carvalho durante um período mínimo de 7 anos, nos armazéns em Vila Nova de Gaia, até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Nossa Calcário White 2022</product-name>
+		<price>318.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nossa-calcario-branco/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>12167</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Vinho Nossa Calcário Branco</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-AGO-Produto-FilipaPato-NossaCalcario-Branco.png</image>
+			<GTIN>5601743900111', '5600816160018</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece durante 8 meses em pipas de carvalho de 500 ou 600 litros.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Tons de Duorum Red 2019</product-name>
+		<price>69.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/tons-de-duorum/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>12168</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Tons de Duorum Tinto</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/tons-de-duorum-tto-douro-750ml.png</image>
+			<GTIN>5600224301409</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Estagia em barricas de carvalho francês durante 6 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Aprendiz DOC 2015  Red</product-name>
+		<price>124.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/aprendiz-doc/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12169</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Aprendiz DOC</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2015</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/aprendiz_doc.png</image>
+			<GTIN>5601292123450</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Estágio parcial em madeira de carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Tons de Duorum White NV</product-name>
+		<price>69.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/tons-de-duorum-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12174</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Tons de Duorum Branco</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/TONS-DE-DUORUM-BCO-DOURO-750ML.png</image>
+			<GTIN>5600224301423</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Alvarinho DOC 2020  White</product-name>
+		<price>174.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-joao-portugal-ramos-alvarinho-doc/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12181</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho João Portugal Ramos Alvarinho DOC</wine-name>
+			<appelation>Monção e Melgaço</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alvarinho-joao-portugal-ramos.png</image>
+			<GTIN>5604135006002</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Estremus 2017  Red</product-name>
+		<price>1259.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/Vinho-Joao-Portugal-Ramos-Estremus/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12185</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho João Portugal Ramos Estremus</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-estremus-tinto.png</image>
+			<GTIN>5604135007009</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 18 meses em meias pipas de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Sparkling 3B Rosé</product-name>
+		<price>119.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/espumante-3b-rose/p</link>
+		<inventory-count>17</inventory-count>
+		<product-id>12186</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Espumante 3B Rosé</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/espumante-3b-rose-filipa-pato.png</image>
+			<GTIN>5601743900142</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>A uva Baga é fermentada em barris de carvalho usados e a Bical em aço inoxidável com controle de temperatura de 18° C. Segunda fermentação ocorre sur lies em garrafa, por 9 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Verde Loureiro João Portugal Ramos 2022  White</product-name>
+		<price>64.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/joao-portugal-ramos-loureiro-vinho-verde/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>12189</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Verde Loureiro João Portugal Ramos</wine-name>
+			<appelation>Minho</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-loureiro-vinhoverde.png</image>
+			<GTIN>5604135011303</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Reserva DOC White 2020</product-name>
+		<price>89.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/Vinho-Reguengos-Reserva-DOC-Branco/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>12192</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Reserva DOC Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/COD-1064.png</image>
+			<GTIN>5601377000393</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Passa por batonnage durante quatro meses e, posteriormente, descansa pelo menos dois meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Monsaraz Rosé Alentejo DOC 2022</product-name>
+		<price>47.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/monsaraz-alentejo-rose/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12193</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Monsaraz Rosé Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-DEZ-Monsaraz-Rose.png</image>
+			<GTIN>5601377000355</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Cachão Touriga Nacional 2012  Red</product-name>
+		<price>199.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-cachao-touriga-nacional/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>12200</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Cachão Touriga Nacional</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2012</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/quinta-do-cachao-touriga-nacional.png</image>
+			<GTIN>5601292123139</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Passa por fermentação malolática em barricas de carvalho, seguida de estágio com a duração de 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Régia Colheita White Alentejo DOC</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reguengos-reserva-regia-colheita-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12205</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Régia Colheita Branco Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/regia-colheita-branco.png</image>
+			<GTIN>5601377315084</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Após a fermentação em barricas de carvalho, passa por um processo de bâtonnage (contato com as borras), durante algumas semanas, e depois estagia até ao final do inverno. O vinho é removido das barricas para ser engarrafado no início da primavera.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Régia Colheita Red Alentejo DOC 2021</product-name>
+		<price>104.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-tinto/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>12209</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Régia Colheita Tinto Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-regiacolheita-tinto.png</image>
+			<GTIN>5601377001031</GTIN>
+			<alcohol>15%</alcohol>
+			<ageing>Uma parte do vinho (60%) estagia em barricas de carvalho francês por 8 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Penedo DOC Red 2016</product-name>
+		<price>119.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-penedo-doc-tinto/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12211</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Penedo DOC Tinto</wine-name>
+			<appelation>Dão</appelation>
+			<vintage>2016</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/quinta-do-penedo-doc-tto.png</image>
+			<GTIN>5601292122316</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>Estagia por 12 meses em barricas de carvalho novas e usadas.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Quinta do Penedo DOC White 2019</product-name>
+		<price>104.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-do-penedo-doc-branco/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12213</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Quinta do Penedo DOC Branco</wine-name>
+			<appelation>Dão</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/quinta-do-penedo-doc-bco.png</image>
+			<GTIN>5601292122378</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Messias Vinha de Santa Bárbara 2013  Red</product-name>
+		<price>409.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/messias-vinha-de-santa-barbara/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12214</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Messias Vinha de Santa Bárbara</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2013</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/messias-vinha-de-santa-barbara.png</image>
+			<GTIN>5601292123566</GTIN>
+			<alcohol>13.7%</alcohol>
+			<ageing>O vinho estagia em barricas de carvalho francês durante 24 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>V Puro Outrora Clássico Baga Bairrada DOC 2016  Red</product-name>
+		<price>519.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/outrora-classico-baga-bairrada-doc/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12220</product-id>
+		<extras>
+			<producer>V Puro</producer>
+			<wine-name>Vinho Outrora Clássico Baga Bairrada DOC</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2016</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/outrora-baga-classico-bairrada.png</image>
+			<GTIN>5055590100000</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece durante 24 meses em barricas de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>V Puro Aliás Elegância de Outrora Red 2016</product-name>
+		<price>319.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alias-tinto/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12221</product-id>
+		<extras>
+			<producer>V Puro</producer>
+			<wine-name>Vinho Aliás Elegância de Outrora Tinto</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2016</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alias_tinto.png</image>
+			<GTIN>5055590100048</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>A fermentação acontece em lagar, com 10% do engaço, e é finalizada em barrica de carvalho francês. O vinho estagia por 12 meses em barrica francesa usada.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>V Puro Aliás White de Outrora 2016</product-name>
+		<price>303.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alias-branco-de-outrora/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12222</product-id>
+		<extras>
+			<producer>V Puro</producer>
+			<wine-name>Vinho Aliás Branco de Outrora</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2016</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alias-bairrada-branco.png</image>
+			<GTIN>5055590100031</GTIN>
+			<alcohol>11.0%</alcohol>
+			<ageing>A fermentação ocorre em barricas francesas usadas com leveduras naturais e, posteriormente, o vinho estagia por 12 meses na mesma barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>V Puro Doravante DOC 2017  Red</product-name>
+		<price>239.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/doravante-doc/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12223</product-id>
+		<extras>
+			<producer>V Puro</producer>
+			<wine-name>Vinho Doravante DOC</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/doravante-bairrada.png</image>
+			<GTIN>5055590100079</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>Amadurece por 12 meses em carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas White 2019</product-name>
+		<price>186.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-branco/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>12229</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Vinhas Velhas Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/MarquesDeBorba-VinhasVelhas-Branco.png</image>
+			<GTIN>5604135001700</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>Fermenta e estagia em barris de carvalho durante 6 meses, ao longo dos quais se realizaram batonnages periódicas.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Vinhas Velhas Red 2020</product-name>
+		<price>186.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-vinhas-velhas-tinto/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12230</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Vinhas Velhas Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-MAI-Produto-MarquesDeBorba-Colheita-Tinto.png</image>
+			<GTIN>5604135001601</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Fermenta em lagares de mármore com pisa a pé e estagia 12 meses em barricas de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Pouca Roupa White 2020</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pouca-roupa-branco/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>12231</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Pouca Roupa Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-pouca-roupa-branco-750ml.png</image>
+			<GTIN>5604135012003</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Pouca Roupa Rosé 2020</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pouca-roupa-rose/p</link>
+		<inventory-count>11</inventory-count>
+		<product-id>12232</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Pouca Roupa Rosé</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pouca-roupa-rose-screwcap-novo.png</image>
+			<GTIN>5604135012201</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Pouca Roupa Red 2022</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pouca-roupa-tinto/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12233</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Pouca Roupa Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-poucaroupa-tinto.png</image>
+			<GTIN>5604135012102</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Duorum O. Leucura Douro Reserva DOC 2015  Red</product-name>
+		<price>1360.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/o--leucura-douro-reserva-doc/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12234</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Duorum O. Leucura Douro Reserva DOC</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2015</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/12234_o.png</image>
+			<GTIN>5600224302048</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece durante 24 meses em barricas de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Dinamica D.N.M.C Baga 2021  Red</product-name>
+		<price>129.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/dinamica-d-n-m-c-baga/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12253</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Vinho Dinamica D.N.M.C Baga</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/dinamica-baga-filipa-pato.png</image>
+			<GTIN>5601743900258', '5600816160063</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Santola Rosé 2021 Frisante</product-name>
+		<price>59.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santola-rose/p</link>
+		<inventory-count>25</inventory-count>
+		<product-id>12255</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Santola Rosé</wine-name>
+			<appelation>Beiras</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color>Frisante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-DEZ-Santola-Rose.png</image>
+			<GTIN>5601292112652</GTIN>
+			<alcohol>10.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 10 Anos com Fibralata  do Fortified</product-name>
+		<price>199.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-10-anos-com-fibrolata/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>12557</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 10 Anos com Fibralata</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-10-anos-lata.png</image>
+			<GTIN>5601292175183</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>A fermentação alcoólica é interrompida pela adição de aguardente vínica. O lote amadurece em carvalho por, em média, 10 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Sparkling 3B Blanc de Blancs</product-name>
+		<price>119.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/espumante-3b-blanc-de-blancs/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12905</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Espumante 3B Blanc de Blancs</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/espumante-3b-blanc-de-blancs-filipa-pato.png</image>
+			<GTIN>5601743900159', '5600816160049</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>Passa 9 meses sur lies (contato com as borras).</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Messias Clássico Garrafeira 2013  Red</product-name>
+		<price>409.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/messias-classico-garrafeira/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12907</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Messias Clássico Garrafeira</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2013</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/messias-bairrada-classico-garrafeira.png</image>
+			<GTIN>5601292121524</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing>O vinho estagia durante dois anos em barrica francesa, sendo metade nova, e fica mais um ano em adega para estabilização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Sparkling Marquês de Borba Brut Rosé 2016</product-name>
+		<price>219.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/espumante-marques-de-borba-brut-rose/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12914</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Espumante Marquês de Borba Brut Rosé</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2016</vintage>
+			<country>Portugal</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/espumante-marques-de-borba-brut-rose.png</image>
+			<GTIN>5604135003704</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>Passa 24 meses sur lies (em contato com as borras).</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias White Dry Seco  do Fortified</product-name>
+		<price>89.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-white-dry-seco/p</link>
+		<inventory-count>24</inventory-count>
+		<product-id>13000</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias White Dry Seco</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-white-dry.png</image>
+			<GTIN>5601292171079</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Envelhecido em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 30 anos  do Fortified</product-name>
+		<price>649.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-30-anos/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>13001</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 30 anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-30-anos.png</image>
+			<GTIN>5601292175039</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Fermentação alcoólica interrompida pela adição de aguardente. O lote é envelhecido em carvalho por, em média, 30 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias 40 anos  do Fortified</product-name>
+		<price>899.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-40-anos/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>13002</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias 40 anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-40-anos.png</image>
+			<GTIN>5601292175046</GTIN>
+			<alcohol>20.0%</alcohol>
+			<ageing>Fermentação alcoólica interrompida pela adição de aguardente vínica. O lote é envelhecido em carvalho por, em média, 40 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 anos Seco</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/justino-s-madeira-3-anos-seco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>13030</product-id>
+		<extras>
+			<producer>[&quot;Justino's Madeira&quot;]</producer>
+			<wine-name>Vinho Justino's Madeira 3 anos Seco</wine-name>
+			<appelation>Ilha da Madeira</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> Madeira</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/madeira-justinos-3-anos-bco-seco-750ml.png</image>
+			<GTIN>5601889009501</GTIN>
+			<alcohol>19.0%</alcohol>
+			<ageing>Amadurece em barricas por, no mínimo, 3 anos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Provam Varanda do Conde Alvarinho/Trajadura NV  White</product-name>
+		<price>99.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/varanda-do-conde-alvarinho-trajadura/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>13031</product-id>
+		<extras>
+			<producer>Provam</producer>
+			<wine-name>Vinho Varanda do Conde Alvarinho/Trajadura</wine-name>
+			<appelation>Monção e Melgaço</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-varandadoconde-branco.png</image>
+			<GTIN>5603530000028</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Provam Portal do Fidalgo Alvarinho NV  White</product-name>
+		<price>179.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/portal-do-fidalgo-alvarinho/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>13032</product-id>
+		<extras>
+			<producer>Provam</producer>
+			<wine-name>Vinho Portal do Fidalgo Alvarinho</wine-name>
+			<appelation>Monção e Melgaço</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-portaldofidalgo-branco.png</image>
+			<GTIN>5603530000011</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Don Román Red 2021</product-name>
+		<price>76.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/don-roman-tinto/p</link>
+		<inventory-count>19</inventory-count>
+		<product-id>14000</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Don Román Tinto</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/DON-ROMAN-RIOJA.png</image>
+			<GTIN>8422938198130</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece em barricas francesas por 3 meses e mais 3 meses em garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Sparkling Cava Don Román Brut</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cava-don-roman-brut/p</link>
+		<inventory-count>16</inventory-count>
+		<product-id>14014</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Espumante Cava Don Román Brut</wine-name>
+			<appelation>Penedès</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cava-don-roman-brut.png</image>
+			<GTIN>8422938999928</GTIN>
+			<alcohol>11.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Sparkling Cava Semi Sec Don Román</product-name>
+		<price>59.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cava-semi-sec-don-roman/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>14015</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Espumante Cava Semi Sec Don Román</wine-name>
+			<appelation>Penedès</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cava_don_roman_demi_sec2.png</image>
+			<GTIN>8422938999942</GTIN>
+			<alcohol>11.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Crianza 2020  Red</product-name>
+		<price>114.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>14016</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Marqués de Tomares Crianza</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2020</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-tomares-crianza.png</image>
+			<GTIN>8422938197232</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece 12 meses em barrica de carvalho americano e francês e estagia 12 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Rey Fernando de Castilla Jerez Fino Classic Dry Sec</product-name>
+		<price>179.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jerez-fino-classic-dry-sec/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14020</product-id>
+		<extras>
+			<producer>Bodegas Rey Fernando de Castilla</producer>
+			<wine-name>Jerez Fino Classic Dry Sec</wine-name>
+			<appelation>Jerez de la Frontera</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color>Jerez</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/jerez-fino-dry.png</image>
+			<GTIN>8423360020013</GTIN>
+			<alcohol>15.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pata Negra Gran Reserva 2012  Red</product-name>
+		<price>106.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pata-negra-gran-reserva/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>14027</product-id>
+		<extras>
+			<producer>Pata Negra</producer>
+			<wine-name>Vinho Pata Negra Gran Reserva</wine-name>
+			<appelation>Valdepeñas</appelation>
+			<vintage>2012</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pata-negra-gran-reserva.png</image>
+			<GTIN>8410415580721</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece por 36 meses em barricas de carvalho americano e francês seguido de descanso na garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pata Negra Tempranillo Cabernet Sauvignon 2019  Red</product-name>
+		<price>55.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pata-negra-tempranillo-cabernet-sauvignon/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>14048</product-id>
+		<extras>
+			<producer>Pata Negra</producer>
+			<wine-name>Vinho Pata Negra Tempranillo Cabernet Sauvignon</wine-name>
+			<appelation>Valdepeñas</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pata-negra-tempranillo-cabernet-sauvignon.png</image>
+			<GTIN>8410415580752</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing>Passa por 6 meses de envelhecimento em barris de carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Excellence 2020  Red</product-name>
+		<price>72.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-tomares-excellence/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>14050</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Marqués de Tomares Excellence</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2020</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/14050_marques_tomares_excellence.png</image>
+			<GTIN>8422938105534</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece por 3 meses em barricas de carvalho americano e mais 3 meses em garrafa antes de ser comercializado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pata Negra Oro 2021  Red</product-name>
+		<price>55.8</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pata-negra-oro/p</link>
+		<inventory-count>25</inventory-count>
+		<product-id>14055</product-id>
+		<extras>
+			<producer>Pata Negra</producer>
+			<wine-name>Vinho Pata Negra Oro</wine-name>
+			<appelation>Valdepeñas</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pata-negra-oro-tempranillo.png</image>
+			<GTIN>8410415580776</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Passa por 6 meses de amadurecimento em barris de carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pata Negra Verdejo 2022  White</product-name>
+		<price>65.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pata-negra-verdejo/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>14058</product-id>
+		<extras>
+			<producer>Pata Negra</producer>
+			<wine-name>Vinho Pata Negra Verdejo</wine-name>
+			<appelation>Rueda</appelation>
+			<vintage>2022</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pata-negra-verdejo.png</image>
+			<GTIN>8410261113005</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Sparkling Cava Don Román Rosé</product-name>
+		<price>77.99</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cava-don-roman-rose/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>14059</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Espumante Cava Don Román Rosé</wine-name>
+			<appelation>Penedès</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color>Espumante</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cava_don_roman_rose2.png</image>
+			<GTIN>8422938206033</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Casa Gran del Siurana GR-174 Priorato 2019  Red</product-name>
+		<price>269.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/gr-174-priorato/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>14075</product-id>
+		<extras>
+			<producer>Casa Gran del Siurana</producer>
+			<wine-name>Vinho GR-174 Priorato</wine-name>
+			<appelation>Priorato</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/gr-174.png</image>
+			<GTIN>8437008357089</GTIN>
+			<alcohol>15.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Nuestro 8 meses DO Ribera del Duero 2021  Red</product-name>
+		<price>98.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nuestro-8-meses-do-ribera-del-duero/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>14138</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Nuestro 8 meses DO Ribera del Duero</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nuestro-8-meses.png</image>
+			<GTIN>8437007000016</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>A fermentação ocorre em madeira, aço inoxidável e tanques de concreto. O vinho amadurece por 6 meses em barricas de carvalho francês e mínimo de 2 meses em adega antes de ir ao mercado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Nuestro 15 meses Crianza DO Ribera del Duero 2020  Red</product-name>
+		<price>125.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nuestro-15-meses-crianza-do-ribera-del-duero/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>14139</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Nuestro 15 meses Crianza DO Ribera del Duero</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2020</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nuestro-15-meses.png</image>
+			<GTIN>8437007000054</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>A fermentação acontece em madeira, aço inoxidável e tanques de concreto. Amadurece por 15 meses em barricas de carvalho francês e descansa mais 15 meses em garrafa antes de ir ao mercado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Nuestro 20 meses Reserva DO Ribera del Duero 2015  Red</product-name>
+		<price>259.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nuestro-20-meses-reserva-do-ribera-del-duero/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14140</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Nuestro 20 meses Reserva DO Ribera del Duero</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2015</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nuestro-20-meses.png</image>
+			<GTIN>8437007000092</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>A fermentação ocorre em barrica de carvalho francês. Amadurece 20 meses em barricas de carvalho francês e descansa mais 18 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Chan de Rosas Albariño Clásico 2022  White</product-name>
+		<price>124.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chan-de-rosas-albariño-clasico/p</link>
+		<inventory-count>22</inventory-count>
+		<product-id>14141</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Chan de Rosas Albariño Clásico</wine-name>
+			<appelation>Galícia</appelation>
+			<vintage>2022</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chan-de-rosas-clasico.png</image>
+			<GTIN>8437014035049</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Chan de Rosas Cuvée Especial Albariño 2021  White</product-name>
+		<price>124.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chan-de-rosas-cuvee-especial-albariño/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14142</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Chan de Rosas Cuvée Especial Albariño</wine-name>
+			<appelation>Galícia</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chan-de-rosas-cuvee-especial.png</image>
+			<GTIN>8437014035070</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Parte deste vinho (15%) estagia em barricas novas de carvalho francês por aproximadamente 6 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pata Negra Reserva Tempranillo 2016  Red</product-name>
+		<price>73.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pata-negra-reserva-tempranillo/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>14147</product-id>
+		<extras>
+			<producer>Pata Negra</producer>
+			<wine-name>Vinho Pata Negra Reserva Tempranillo</wine-name>
+			<appelation>Valdepeñas</appelation>
+			<vintage>2016</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pata-negra-reserva-tempranillo.png</image>
+			<GTIN>8410415370728</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês por 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Montaña Finca La Marquesita Graciano DOCa Rioja 2014  Red</product-name>
+		<price>239.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/montaña-graciano-reserva-doca/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14148</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Montaña Finca La Marquesita Graciano DOCa Rioja</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2014</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2024-MAR-Produto-Montaña-Graciano.png</image>
+			<GTIN>8422938000419</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece por 24 meses em barricas de carvalho francês e posteriormente 24 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Gran Reserva White 2016</product-name>
+		<price>224.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-marques-de-tomares-gran-reserva-branco/p</link>
+		<inventory-count>17</inventory-count>
+		<product-id>14149</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Marqués de Tomares Gran Reserva Branco</wine-name>
+			<appelation>Rioja Alta</appelation>
+			<vintage>2016</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-tomares-gran-reserva-branco.png</image>
+			<GTIN>8422938001584</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece por 36 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Numbered Edition Soto de Oñatil 2022  Rosé</product-name>
+		<price>39.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/numbered-edition-soto-de-oñatil/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>14152</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Numbered Edition Soto de Oñatil</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2022</vintage>
+			<country>Espanha</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-OUT-Produto-NumberedEdition-SotoDeOnatil-v1.png</image>
+			<GTIN>8422938001911</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Montaña Finca la Claudia Reserva Garnacha DOCa Rioja 2016  Red</product-name>
+		<price>284.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/montaña-finca-la-claudia-reserva-garnacha-doca-rioja/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>14153</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Montaña Finca la Claudia Reserva Garnacha DOCa Rioja</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2016</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/montanha-finca-la-claudia-garnacha.png</image>
+			<GTIN>8422938002079</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 24 meses em barricas de carvalho francês e posteriormente 24 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Cohiba Atmosphere Reserva DOCa Rioja 2014  Red</product-name>
+		<price>509.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cohiba-atmosphere-reserva-doca-rioja/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14154</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Cohiba Atmosphere Reserva DOCa Rioja</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2014</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cohiba-reserva-marques-de-tomares.png</image>
+			<GTIN>8422938000877</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 18 meses em barricas de carvalho francês, posteriormente em adega durante 18 meses até a comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Cohiba Atmosphere Gran Reserva DOCa Rioja 2012  Red</product-name>
+		<price>999.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cohiba-atmosphere-gran-reserva-doca-rioja/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14155</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Cohiba Atmosphere Gran Reserva DOCa Rioja</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2012</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cohiba-gran-reserva-marques-de-tomares.png</image>
+			<GTIN>8422938000884</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 36 meses em barricas de carvalho francês e americano, posteriormente descansa por 36 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Castillo San Simón Red 2022</product-name>
+		<price>37.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
+		<inventory-count>19</inventory-count>
+		<product-id>14210</product-id>
+		<extras>
+			<producer>Castillo San Simón</producer>
+			<wine-name>Vinho Castillo San Simón Tinto</wine-name>
+			<appelation>Múrcia</appelation>
+			<vintage>2022</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-mar-castillosansim-c3-b3n-tinto.png</image>
+			<GTIN>8410261081281</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Dominio de Punctum 99 Rosas Tempranillo e Cabernet Sauvignon 2021  Red</product-name>
+		<price>72.3</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/99-rosas-tempranillo-e-cabernet-sauvignon/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>14212</product-id>
+		<extras>
+			<producer>Dominio de Punctum</producer>
+			<wine-name>Vinho 99 Rosas Tempranillo e Cabernet Sauvignon</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/99rosas_tto.png</image>
+			<GTIN>8437010828355</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Dominio de Punctum 99 Rosas Chardonnay e Viognier 2021  White</product-name>
+		<price>72.3</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/99-rosas-chardonnay-e-viognier/p</link>
+		<inventory-count>14</inventory-count>
+		<product-id>14213</product-id>
+		<extras>
+			<producer>Dominio de Punctum</producer>
+			<wine-name>Vinho 99 Rosas Chardonnay e Viognier</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/14213_99rosas_bco.png</image>
+			<GTIN>8437010828638</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Dominio de Punctum 99 Rosas Rosé 2022</product-name>
+		<price>72.3</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/99-rosas-rose/p</link>
+		<inventory-count>11</inventory-count>
+		<product-id>14214</product-id>
+		<extras>
+			<producer>Dominio de Punctum</producer>
+			<wine-name>Vinho 99 Rosas Rosé</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2022</vintage>
+			<country>Espanha</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/99-rosas-rose.png</image>
+			<GTIN>8437014636062</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pescador Rosé</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pescador-rose/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>14215</product-id>
+		<extras>
+			<producer>Pescador</producer>
+			<wine-name>Vinho Pescador Rosé</wine-name>
+			<appelation>Catalunha</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pescador-rose.png</image>
+			<GTIN>8410745500536</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Pescador Blanc  White</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/pescador-blanc/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14216</product-id>
+		<extras>
+			<producer>Pescador</producer>
+			<wine-name>Vinho Pescador Blanc</wine-name>
+			<appelation>Catalunha</appelation>
+			<vintage/>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/pescador-branco.png</image>
+			<GTIN>8410745500529</GTIN>
+			<alcohol>11.0%</alcohol>
+			<ageing/>
 		</extras>
 	</product>
 </vivino-product-list>
