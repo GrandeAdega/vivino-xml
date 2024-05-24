@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T14:37:10.325486</feed-generation-date>
+		<feed-generation-date>2024-05-24T14:42:27.818461</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2020  Red</product-name>
@@ -21,7 +21,7 @@
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/2023-AGO-Produto-CantinaBennati-Bardolino-Cornale.png</image>
 			<GTIN>8002167000130</GTIN>
-			<alcohol>11,5%</alcohol>
+			<alcohol>11.5%</alcohol>
 			<ageing/>
 		</extras>
 	</product>
@@ -43,7 +43,7 @@
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/11009-valpolicella-cornale.png</image>
 			<GTIN>8002167000222</GTIN>
-			<alcohol>11,5%</alcohol>
+			<alcohol>11.5%</alcohol>
 			<ageing>Este vinho amadurece brevemente em barricas de carvalho.</ageing>
 		</extras>
 	</product>
@@ -65,7 +65,7 @@
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-camigliano-brunellodimontalcino.png</image>
 			<GTIN>8006114000013</GTIN>
-			<alcohol>14,0%</alcohol>
+			<alcohol>14.0%</alcohol>
 			<ageing>Este vinho estagia durante 24 meses em barricas de carvalho e passa mais 12 meses em garrafa.</ageing>
 		</extras>
 	</product>
@@ -87,7 +87,7 @@
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/11028_rosso_di_montalcino.png</image>
 			<GTIN>8006114000020</GTIN>
-			<alcohol>14,0%</alcohol>
+			<alcohol>14.0%</alcohol>
 			<ageing>Amadurece 6 meses em barricas de carvalho francesas e passa mais 6 meses em garrafa antes da sua comercialização.</ageing>
 		</extras>
 	</product>
