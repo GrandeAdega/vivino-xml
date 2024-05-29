@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2024-05-24T17:00:02.656330</feed-generation-date>
+		<feed-generation-date>2024-05-29T16:26:45.692714</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2020  Red</product-name>
@@ -120,7 +120,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/frascati-san-marco/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>2</inventory-count>
 		<product-id>11038</product-id>
 		<extras>
 			<producer>Cantina San Marco</producer>
@@ -164,7 +164,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/caldora-yume-montepulciano-d-abruzzo-doc/p</link>
-		<inventory-count>15</inventory-count>
+		<inventory-count>9</inventory-count>
 		<product-id>11059</product-id>
 		<extras>
 			<producer>Cantina Caldora</producer>
@@ -362,7 +362,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/terre-natuzzi-chianti-docg-riserva/p</link>
-		<inventory-count>3</inventory-count>
+		<inventory-count>2</inventory-count>
 		<product-id>11146</product-id>
 		<extras>
 			<producer>Terre Natuzzi</producer>
@@ -516,7 +516,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-primitivo-puglia-igp/p</link>
-		<inventory-count>23</inventory-count>
+		<inventory-count>39</inventory-count>
 		<product-id>11425</product-id>
 		<extras>
 			<producer>Luccarelli</producer>
@@ -538,7 +538,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-negroamaro-igp/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>5</inventory-count>
 		<product-id>11427</product-id>
 		<extras>
 			<producer>Luccarelli</producer>
@@ -626,7 +626,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-		<inventory-count>30</inventory-count>
+		<inventory-count>53</inventory-count>
 		<product-id>11442</product-id>
 		<extras>
 			<producer>Luccarelli</producer>
@@ -670,7 +670,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/campo-marina-malvasia-nera-salento/p</link>
-		<inventory-count>9</inventory-count>
+		<inventory-count>8</inventory-count>
 		<product-id>11445</product-id>
 		<extras>
 			<producer>Luccarelli</producer>
@@ -868,7 +868,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-primitivo/p</link>
-		<inventory-count>26</inventory-count>
+		<inventory-count>30</inventory-count>
 		<product-id>11836</product-id>
 		<extras>
 			<producer>Corbelli</producer>
@@ -890,7 +890,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-sangiovese/p</link>
-		<inventory-count>8</inventory-count>
+		<inventory-count>32</inventory-count>
 		<product-id>11837</product-id>
 		<extras>
 			<producer>Corbelli</producer>
@@ -906,19 +906,19 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Corbelli Nero d'Avola 2020  Red</product-name>
+		<product-name>Corbelli Nero d'Avola 2021  Red</product-name>
 		<price>49.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-nero-d-avola/p</link>
-		<inventory-count>17</inventory-count>
+		<inventory-count>11</inventory-count>
 		<product-id>11838</product-id>
 		<extras>
 			<producer>Corbelli</producer>
 			<wine-name>Vinho Corbelli Nero d'Avola</wine-name>
 			<appelation>Sicília</appelation>
-			<vintage>2020</vintage>
+			<vintage>2021</vintage>
 			<country>Itália</country>
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/corbelli-nero-d-avola.png</image>
@@ -956,7 +956,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-		<inventory-count>27</inventory-count>
+		<inventory-count>25</inventory-count>
 		<product-id>11840</product-id>
 		<extras>
 			<producer>Corbelli</producer>
@@ -978,7 +978,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-chianti-docg/p</link>
-		<inventory-count>0</inventory-count>
+		<inventory-count>18</inventory-count>
 		<product-id>11841</product-id>
 		<extras>
 			<producer>Corbelli</producer>
@@ -1022,7 +1022,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-		<inventory-count>8</inventory-count>
+		<inventory-count>37</inventory-count>
 		<product-id>11843</product-id>
 		<extras>
 			<producer>Sandro Forte e Figlio</producer>
@@ -1044,7 +1044,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-forte-ambrone-vino-rosso/p</link>
-		<inventory-count>21</inventory-count>
+		<inventory-count>12</inventory-count>
 		<product-id>11844</product-id>
 		<extras>
 			<producer>Sandro Forte e Figlio</producer>
@@ -1110,7 +1110,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
-		<inventory-count>25</inventory-count>
+		<inventory-count>24</inventory-count>
 		<product-id>12013</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
@@ -1126,17 +1126,17 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Caves Messias Fortified Messias 10 anos  do Fortified</product-name>
+		<product-name>Caves Messias Fortified Messias 10 Anos  do Fortified</product-name>
 		<price>174.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-10-anos/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>12014</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
-			<wine-name>Vinho Porto Messias 10 anos</wine-name>
+			<wine-name>Vinho Porto Messias 10 Anos</wine-name>
 			<appelation>Douro</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -1170,7 +1170,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Caves Messias Fortified Messias 20 anos  do Fortified</product-name>
+		<product-name>Caves Messias Fortified Messias 20 Anos  do Fortified</product-name>
 		<price>409.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -1180,7 +1180,7 @@
 		<product-id>12028</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
-			<wine-name>Vinho Porto Messias 20 anos</wine-name>
+			<wine-name>Vinho Porto Messias 20 Anos</wine-name>
 			<appelation>Douro</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -1220,7 +1220,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-		<inventory-count>77</inventory-count>
+		<inventory-count>76</inventory-count>
 		<product-id>12051</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
@@ -1236,17 +1236,17 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 anos Dessert</product-name>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 Anos Dessert</product-name>
 		<price>109.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/justino-s-madeira-3-anos-doce/p</link>
-		<inventory-count>12</inventory-count>
+		<inventory-count>10</inventory-count>
 		<product-id>12058</product-id>
 		<extras>
 			<producer>[&quot;Justino's Madeira&quot;]</producer>
-			<wine-name>Vinho Justino's Madeira 3 anos Doce</wine-name>
+			<wine-name>Vinho Justino's Madeira 3 Anos Doce</wine-name>
 			<appelation>Ilha da Madeira</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -1280,7 +1280,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Tinta Negra 10 anos Dessert</product-name>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Tinta Negra 10 Anos Dessert</product-name>
 		<price>299.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -1290,7 +1290,7 @@
 		<product-id>12060</product-id>
 		<extras>
 			<producer>[&quot;Justino's Madeira&quot;]</producer>
-			<wine-name>Vinho Justino's Madeira Tinta Negra 10 anos Doce</wine-name>
+			<wine-name>Vinho Justino's Madeira Tinta Negra 10 Anos Doce</wine-name>
 			<appelation>Ilha da Madeira</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -1440,7 +1440,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/loios-tinto/p</link>
-		<inventory-count>18</inventory-count>
+		<inventory-count>17</inventory-count>
 		<product-id>12113</product-id>
 		<extras>
 			<producer>João Portugal Ramos</producer>
@@ -1484,7 +1484,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-tinto/p</link>
-		<inventory-count>5</inventory-count>
+		<inventory-count>1</inventory-count>
 		<product-id>12116</product-id>
 		<extras>
 			<producer>João Portugal Ramos</producer>
@@ -1506,7 +1506,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-doc-tinto/p</link>
-		<inventory-count>7</inventory-count>
+		<inventory-count>0</inventory-count>
 		<product-id>12118</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -1550,7 +1550,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/monsaraz-doc-tinto/p</link>
-		<inventory-count>3</inventory-count>
+		<inventory-count>1</inventory-count>
 		<product-id>12120</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -1572,7 +1572,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reguengos-reserva-doc-tinto/p</link>
-		<inventory-count>12</inventory-count>
+		<inventory-count>11</inventory-count>
 		<product-id>12122</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -1588,7 +1588,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Carmim Reguengos Garrafeira dos Sócios NV  Red</product-name>
+		<product-name>Carmim Reguengos Garrafeira dos Sócios 2019  Red</product-name>
 		<price>306.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -1600,7 +1600,7 @@
 			<producer>Carmim</producer>
 			<wine-name>Vinho Reguengos Garrafeira dos Sócios</wine-name>
 			<appelation>Alentejo</appelation>
-			<vintage>NV</vintage>
+			<vintage>2019</vintage>
 			<country>Portugal</country>
 			<color> Tinto</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-reguengos-garrafeiradossocios-tinto.png</image>
@@ -1616,7 +1616,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
-		<inventory-count>20</inventory-count>
+		<inventory-count>17</inventory-count>
 		<product-id>12131</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -1676,7 +1676,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Malvasia 10 anos 375 ml</product-name>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified Malvasia 10 Anos 375 ml</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>375 ml</bottle_size>
@@ -1686,7 +1686,7 @@
 		<product-id>12150</product-id>
 		<extras>
 			<producer>[&quot;Justino's Madeira&quot;]</producer>
-			<wine-name>Vinho Justino's Madeira Malvasia 10 anos 375 ml</wine-name>
+			<wine-name>Vinho Justino's Madeira Malvasia 10 Anos 375 ml</wine-name>
 			<appelation>Ilha da Madeira</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -1726,7 +1726,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/duorum-colheita/p</link>
-		<inventory-count>4</inventory-count>
+		<inventory-count>2</inventory-count>
 		<product-id>12155</product-id>
 		<extras>
 			<producer>Duorum</producer>
@@ -2012,7 +2012,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/monsaraz-alentejo-rose/p</link>
-		<inventory-count>12</inventory-count>
+		<inventory-count>11</inventory-count>
 		<product-id>12193</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -2078,7 +2078,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-tinto/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>5</inventory-count>
 		<product-id>12209</product-id>
 		<extras>
 			<producer>Carmim</producer>
@@ -2512,7 +2512,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Caves Messias Fortified Messias White Dry Seco  do Fortified</product-name>
+		<product-name>Caves Messias Fortified Messias White Dry (White Seco)  do Fortified</product-name>
 		<price>89.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -2522,7 +2522,7 @@
 		<product-id>13000</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
-			<wine-name>Vinho Porto Messias White Dry Seco</wine-name>
+			<wine-name>Vinho Porto Messias White Dry (Branco Seco)</wine-name>
 			<appelation>Douro</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -2530,11 +2530,11 @@
 			<image>https://grandeadega.vteximg.com.br/arquivos/porto-messias-white-dry.png</image>
 			<GTIN>5601292171079</GTIN>
 			<alcohol>20.0%</alcohol>
-			<ageing>Envelhecido em barrica de carvalho.</ageing>
+			<ageing>Envelhecido em barricas de carvalho.</ageing>
 		</extras>
 	</product>
 	<product>
-		<product-name>Caves Messias Fortified Messias 30 anos  do Fortified</product-name>
+		<product-name>Caves Messias Fortified Messias 30 Anos  do Fortified</product-name>
 		<price>649.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -2544,7 +2544,7 @@
 		<product-id>13001</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
-			<wine-name>Vinho Porto Messias 30 anos</wine-name>
+			<wine-name>Vinho Porto Messias 30 Anos</wine-name>
 			<appelation>Douro</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -2556,7 +2556,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Caves Messias Fortified Messias 40 anos  do Fortified</product-name>
+		<product-name>Caves Messias Fortified Messias 40 Anos  do Fortified</product-name>
 		<price>899.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -2566,7 +2566,7 @@
 		<product-id>13002</product-id>
 		<extras>
 			<producer>Caves Messias</producer>
-			<wine-name>Vinho Porto Messias 40 anos</wine-name>
+			<wine-name>Vinho Porto Messias 40 Anos</wine-name>
 			<appelation>Douro</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -2578,7 +2578,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 anos Seco</product-name>
+		<product-name>[&quot;Justino's Fortified&quot;] Justino's Fortified 3 Anos Seco</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -2588,7 +2588,7 @@
 		<product-id>13030</product-id>
 		<extras>
 			<producer>[&quot;Justino's Madeira&quot;]</producer>
-			<wine-name>Vinho Justino's Madeira 3 anos Seco</wine-name>
+			<wine-name>Vinho Justino's Madeira 3 Anos Seco</wine-name>
 			<appelation>Ilha da Madeira</appelation>
 			<vintage/>
 			<country>Portugal</country>
@@ -2600,8 +2600,8 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Provam Varanda do Conde Alvarinho/Trajadura NV  White</product-name>
-		<price>99.0</price>
+		<product-name>Provam Varanda do Conde Alvarinho/Trajadura  White</product-name>
+		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -2612,7 +2612,7 @@
 			<producer>Provam</producer>
 			<wine-name>Vinho Varanda do Conde Alvarinho/Trajadura</wine-name>
 			<appelation>Monção e Melgaço</appelation>
-			<vintage>NV</vintage>
+			<vintage/>
 			<country>Portugal</country>
 			<color> Branco</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-varandadoconde-branco.png</image>
@@ -2622,7 +2622,7 @@
 		</extras>
 	</product>
 	<product>
-		<product-name>Provam Portal do Fidalgo Alvarinho NV  White</product-name>
+		<product-name>Provam Portal do Fidalgo Alvarinho  White</product-name>
 		<price>179.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
@@ -2634,7 +2634,7 @@
 			<producer>Provam</producer>
 			<wine-name>Vinho Portal do Fidalgo Alvarinho</wine-name>
 			<appelation>Monção e Melgaço</appelation>
-			<vintage>NV</vintage>
+			<vintage/>
 			<country>Portugal</country>
 			<color> Branco</color>
 			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-portaldofidalgo-branco.png</image>
@@ -2672,7 +2672,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/cava-don-roman-brut/p</link>
-		<inventory-count>16</inventory-count>
+		<inventory-count>10</inventory-count>
 		<product-id>14014</product-id>
 		<extras>
 			<producer>Marqués de Tomares</producer>
@@ -2689,7 +2689,7 @@
 	</product>
 	<product>
 		<product-name>Marqués de Tomares Sparkling Cava Semi Sec Don Román</product-name>
-		<price>59.0</price>
+		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -2716,7 +2716,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
-		<inventory-count>20</inventory-count>
+		<inventory-count>15</inventory-count>
 		<product-id>14016</product-id>
 		<extras>
 			<producer>Marqués de Tomares</producer>
@@ -2804,7 +2804,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/marques-de-tomares-excellence/p</link>
-		<inventory-count>10</inventory-count>
+		<inventory-count>9</inventory-count>
 		<product-id>14050</product-id>
 		<extras>
 			<producer>Marqués de Tomares</producer>
@@ -2826,7 +2826,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pata-negra-oro/p</link>
-		<inventory-count>25</inventory-count>
+		<inventory-count>14</inventory-count>
 		<product-id>14055</product-id>
 		<extras>
 			<producer>Pata Negra</producer>
@@ -2936,7 +2936,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nuestro-15-meses-crianza-do-ribera-del-duero/p</link>
-		<inventory-count>15</inventory-count>
+		<inventory-count>13</inventory-count>
 		<product-id>14139</product-id>
 		<extras>
 			<producer>Premium Fincas</producer>
@@ -2958,7 +2958,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/nuestro-20-meses-reserva-do-ribera-del-duero/p</link>
-		<inventory-count>6</inventory-count>
+		<inventory-count>9</inventory-count>
 		<product-id>14140</product-id>
 		<extras>
 			<producer>Premium Fincas</producer>
@@ -3002,7 +3002,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/chan-de-rosas-cuvee-especial-albariño/p</link>
-		<inventory-count>3</inventory-count>
+		<inventory-count>2</inventory-count>
 		<product-id>14142</product-id>
 		<extras>
 			<producer>Premium Fincas</producer>
@@ -3090,7 +3090,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/numbered-edition-soto-de-oñatil/p</link>
-		<inventory-count>8</inventory-count>
+		<inventory-count>7</inventory-count>
 		<product-id>14152</product-id>
 		<extras>
 			<producer>Marqués de Tomares</producer>
@@ -3178,7 +3178,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/castillo-san-simon-tinto/p</link>
-		<inventory-count>19</inventory-count>
+		<inventory-count>14</inventory-count>
 		<product-id>14210</product-id>
 		<extras>
 			<producer>Castillo San Simón</producer>
@@ -3200,7 +3200,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/99-rosas-tempranillo-e-cabernet-sauvignon/p</link>
-		<inventory-count>7</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>14212</product-id>
 		<extras>
 			<producer>Dominio de Punctum</producer>
@@ -3266,7 +3266,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pescador-rose/p</link>
-		<inventory-count>5</inventory-count>
+		<inventory-count>4</inventory-count>
 		<product-id>14215</product-id>
 		<extras>
 			<producer>Pescador</producer>
@@ -3288,7 +3288,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/pescador-blanc/p</link>
-		<inventory-count>3</inventory-count>
+		<inventory-count>1</inventory-count>
 		<product-id>14216</product-id>
 		<extras>
 			<producer>Pescador</producer>
@@ -3301,6 +3301,3306 @@
 			<GTIN>8410745500529</GTIN>
 			<alcohol>11.0%</alcohol>
 			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Liderato Red 2019</product-name>
+		<price>54.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/liderato-tinto/p</link>
+		<inventory-count>37</inventory-count>
+		<product-id>14224</product-id>
+		<extras>
+			<producer>Marqués de Tomares</producer>
+			<wine-name>Vinho Liderato Tinto</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/liderato-tto-rioja.png</image>
+			<GTIN>8422938111931</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Sparkling Deutz Brut Rosé</product-name>
+		<price>699.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/champagne-deutz-brut-rose/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>21215</product-id>
+		<extras>
+			<producer>Deutz</producer>
+			<wine-name>Champagne Deutz Brut Rosé</wine-name>
+			<appelation>Champagne</appelation>
+			<vintage/>
+			<country>França</country>
+			<color>Champagne</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/deutz_brut_rose2.png</image>
+			<GTIN>3359950052001</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marc Rougeot-Dupin Aloxe-Corton Village 2016  Red</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/aloxe-corton-village/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21272</product-id>
+		<extras>
+			<producer>Marc Rougeot-Dupin</producer>
+			<wine-name>Vinho Aloxe-Corton Village</wine-name>
+			<appelation>Aloxe-Corton', 'Borgonha</appelation>
+			<vintage>2016</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marc-rougeot-dupin-aloxe-corton.png</image>
+			<GTIN>3296311101605</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece durante 15 a 20 meses em barricas de carvalho novos e usados, com bâtonnage (agitação dos sedimentos) periódica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marc Rougeot-Dupin Meursault Village 2016  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/meursault-village/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21273</product-id>
+		<extras>
+			<producer>Marc Rougeot-Dupin</producer>
+			<wine-name>Vinho Meursault Village</wine-name>
+			<appelation>Borgonha', 'Meursault</appelation>
+			<vintage>2016</vintage>
+			<country>França</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marc-rougeot-dupin-mersault.png</image>
+			<GTIN>3296311135600</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Fermenta em barricas de carvalho, novos e usados, com leveduras naturais, durante várias semanas. Posteriormente estagia entre 10 e 16 meses nas mesmas barricas, com bâtonnage (agitação dos sedimentos) periódica, para maior complexidade.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu Clos Floridene Red 2013</product-name>
+		<price>294.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/clos-floridene-tinto/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21276</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho Clos Floridene Tinto</wine-name>
+			<appelation>Bordeaux', 'Graves</appelation>
+			<vintage>2013</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-closfloridene-tinto.png</image>
+			<GTIN>3760036912230</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurecimento em barricas de carvalho francês por 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu Le Rosé de Floridene 2017</product-name>
+		<price>113.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/le-rose-de-floridene/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>21431</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho Le Rosé de Floridene</wine-name>
+			<appelation>Bordeaux', 'Graves</appelation>
+			<vintage>2017</vintage>
+			<country>França</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-lerosedefloridene.png</image>
+			<GTIN>3760036919277</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Permanece de 5-6 meses em contato com as borras antes do engarrafamento.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nony Borie Château Caronne Ste. Gemme 2015  Red</product-name>
+		<price>229.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-caronne-ste--gemme-2015/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>21433</product-id>
+		<extras>
+			<producer>Nony Borie</producer>
+			<wine-name>Vinho Château Caronne Ste. Gemme 2015</wine-name>
+			<appelation>Bordeaux', 'Haut-Médoc</appelation>
+			<vintage>2015</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chateau-caronne-ste-gemme-tinto.png</image>
+			<GTIN>3450460075150</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece aproximadamente por 12 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cave de Cairanne Le Chêne Noir 2020  Red</product-name>
+		<price>134.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cave-de-cairanne-le-chene-noir/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>21472</product-id>
+		<extras>
+			<producer>Cave de Cairanne</producer>
+			<wine-name>Vinho Cave de Cairanne Le Chêne Noir</wine-name>
+			<appelation>Côtes-du-Rhône Villages</appelation>
+			<vintage>2020</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cave-de-cairanne-le-chene-noir-cotes-du-rhone.png</image>
+			<GTIN>3251130173240</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cave de Cairanne Le Pas de La Beaume 2018  Red</product-name>
+		<price>118.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cave-de-cairanne-le-pas-de-la-beaume/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21473</product-id>
+		<extras>
+			<producer>Cave de Cairanne</producer>
+			<wine-name>Vinho Cave de Cairanne Le Pas de La Beaume</wine-name>
+			<appelation>Côtes-du-Rhône</appelation>
+			<vintage>2018</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cave-de-cairanne-le-pas-de-la-beaume-cotes-du-rhone.png</image>
+			<GTIN>3251130173790</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Cave de Cairanne Caves de Cairanne Grande Reserve Red 2020</product-name>
+		<price>194.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/caves-de-cairanne-grande-reserve-tinto/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>21476</product-id>
+		<extras>
+			<producer>Cave de Cairanne</producer>
+			<wine-name>Vinho Caves de Cairanne Grande Reserve Tinto</wine-name>
+			<appelation>Côtes-du-Rhône Villages</appelation>
+			<vintage>2020</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/caves-de-cairanne-grande-reserve-tinto.png</image>
+			<GTIN>3251130173790', '3251130177194</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé 2020</product-name>
+		<price>185.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/manon-cotes-de-provence-rose/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>21613</product-id>
+		<extras>
+			<producer>Ravoire &amp; Fils</producer>
+			<wine-name>Vinho Manon Côtes de Provence Rosé</wine-name>
+			<appelation>Provence</appelation>
+			<vintage>2020</vintage>
+			<country>França</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/manon_2020.png</image>
+			<GTIN>3330620004735</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Ravoire &amp; Fils Jas des Vignes Provence Rosé 2022</product-name>
+		<price>119.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jas-des-vignes-provence-rose/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>21616</product-id>
+		<extras>
+			<producer>Ravoire &amp; Fils</producer>
+			<wine-name>Vinho Jas des Vignes Provence Rosé</wine-name>
+			<appelation>Provence</appelation>
+			<vintage>2022</vintage>
+			<country>França</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/jas-des-vignes-provence-rose.png</image>
+			<GTIN>3330620022098</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Patriarche Héritage Rosé</product-name>
+		<price>72.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-heritage-rose/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>21710</product-id>
+		<extras>
+			<producer>Patriarche</producer>
+			<wine-name>Vinho Héritage Rosé</wine-name>
+			<appelation>Rhône</appelation>
+			<vintage/>
+			<country>França</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/21710-heritage-rose.png</image>
+			<GTIN>3040072406796</GTIN>
+			<alcohol>11.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Patriarche Héritage Red</product-name>
+		<price>72.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/heritage-tinto/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>21711</product-id>
+		<extras>
+			<producer>Patriarche</producer>
+			<wine-name>Vinho Héritage Tinto</wine-name>
+			<appelation>Rhône</appelation>
+			<vintage/>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/heritage-tinto.png</image>
+			<GTIN>3040072388665</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Patriarche Héritage White</product-name>
+		<price>72.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/heritage-branco/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>21712</product-id>
+		<extras>
+			<producer>Patriarche</producer>
+			<wine-name>Vinho Héritage Branco</wine-name>
+			<appelation>Rhône</appelation>
+			<vintage/>
+			<country>França</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/heritage-branco.png</image>
+			<GTIN>3040072388825</GTIN>
+			<alcohol>11.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu L'Extravagant de Doisy-Daëne Sauternes 375 ml 2010  de Dessert</product-name>
+		<price>3599.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/l-extravagant-de-doisy-daene-sauternes-375-ml/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>21907</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho L'Extravagant de Doisy-Daëne Sauternes 375 ml</wine-name>
+			<appelation>Barsac', 'Bordeaux</appelation>
+			<vintage>2010</vintage>
+			<country>França</country>
+			<color> de Sobremesa</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/l-extravagant_doisy_daene_sauternes_375.png</image>
+			<GTIN>3760021827006</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing>A fermentação alcoólica ocorre em barricas de carvalho onde permanece em amadurecimento por 18 meses. Os vinhos em barris estagiam em ambiente climatizado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Cabernet Sauvignon 2020  Red</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-cabernet-sauvignon/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>23002</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Cabernet Sauvignon</wine-name>
+			<appelation>Vale do Colchagua</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-cabernet-sauvignon-750.png</image>
+			<GTIN>7804350596359</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing>Amadurece 8 meses em barrica de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estrellas Reserva Sauvignon Blanc 2021  White</product-name>
+		<price>56.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/estrellas-reserva-sauvignon-blanc/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23006</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Estrellas Reserva Sauvignon Blanc</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-estrellas-sauvignon-blanc.png</image>
+			<GTIN>7804350596328</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Reserva de Família Cabernet Sauvignon 2019  Red</product-name>
+		<price>197.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-carolina-reserva-de-familia-cabernet-sauvignon/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>23007</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Santa Carolina Reserva de Família Cabernet Sauvignon</wine-name>
+			<appelation>Vale do Maipo</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/sc_rdf_cabernet_sauvignon.png</image>
+			<GTIN>7804350599756</GTIN>
+			<alcohol>13.8%</alcohol>
+			<ageing>Envelhece 14 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estrellas Reserva Cabernet Sauvignon 2018  Red</product-name>
+		<price>56.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/estrellas-reserva-cabernet-sauvignon-750-ml/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23008</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Estrellas Reserva Cabernet Sauvignon</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2018</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-estrellas-cabernet-sauvignon.png</image>
+			<GTIN>7804350596335</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estrellas Reserva Merlot 2018  Red</product-name>
+		<price>56.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/estrellas-reserva-merlot-750-ml/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23014</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Estrellas Reserva Merlot</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2018</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-estrellas-merlot.png</image>
+			<GTIN>7804350600353</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Carmenère 2020  Red</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-carmenere/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23021</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Carmenère</wine-name>
+			<appelation>Vale do Cachapoal</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-carmenere-750.png</image>
+			<GTIN>7804350000382</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Envelhece por 8 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Merlot 2017  Red</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-merlot/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>23029</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Merlot</wine-name>
+			<appelation>Vale de Colchagua</appelation>
+			<vintage>2017</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-merlot-750.png</image>
+			<GTIN>7804350600360</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece por 9 meses em carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Neblus 2014  Red</product-name>
+		<price>479.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/neblus/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23033</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Neblus</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage>2014</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/neblus.png</image>
+			<GTIN>7804350000092</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Parte do vinho fermenta em barrica de carvalho francês. Amadurece em carvalho francês por 16 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Gran Reserva Cabernet Sauvignon  Red</product-name>
+		<price>99.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-carolina-gran-reserva-cabernet-sauvignon/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23042</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Santa Carolina Gran Reserva Cabernet Sauvignon</wine-name>
+			<appelation>Vale do Maipo</appelation>
+			<vintage/>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/carolina-gran-cs-750.png</image>
+			<GTIN>7804350701661</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 12 meses em barricas de carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Sauvignon Blanc 2020  White</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-sauvignon-blanc/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>23051</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Sauvignon Blanc</wine-name>
+			<appelation>Vale de Leyda</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-sauvignon-blanc-750.png</image>
+			<GTIN>7804350596366</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estrellas Reserva Cabernet Sauvignon Rosé 2019</product-name>
+		<price>56.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/estrellas-reserva-cabernet-sauvignon-rose/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23053</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Estrellas Reserva Cabernet Sauvignon Rosé</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-estrellas-cabernet-sauvignon-rose.png</image>
+			<GTIN>7804350174700</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Reserva de Família Carmenère NV  Red</product-name>
+		<price>198.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-carolina-reserva-de-familia-carmenere/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23056</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Santa Carolina Reserva de Família Carmenère</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>NV</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-de-familia-carmenere.png</image>
+			<GTIN>7804350002225</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece 15 meses em barrica e mais 6 meses em garrafa antes de ser comercializado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Chardonnay 2021  White</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-chardonnay/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>23075</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Chardonnay</wine-name>
+			<appelation>Valle de Leyda</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-chardonnay-750.png</image>
+			<GTIN>7804350596373</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Aproximadamente 40% do vinho fermenta em barricas antigas, posteriormente amadurece 6 meses em carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Pinot Noir 2020  Red</product-name>
+		<price>74.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-pinot-noir/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23082</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Pinot Noir</wine-name>
+			<appelation>Vale de Leyda</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-reserva-pinot-noir-750.png</image>
+			<GTIN>7804350599626</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece por 6 meses em barrica de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Chardonnay 2020  White</product-name>
+		<price>79.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-chardonnay/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>23086</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Chardonnay</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro-cool-reserve-chardonnay.png</image>
+			<GTIN>7804350001402</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Em torno de 20% do vinho é fermentado em carvalho francês. Bâtonnage (agitação das leduras) durante dois meses, para melhor estrutura e untuosidade.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Cabernet Sauvignon 2019  Red</product-name>
+		<price>83.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-cabernet-sauvignon/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>23092</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Cabernet Sauvignon</wine-name>
+			<appelation>Vale do Maipo</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro-cool-reserve-cabernet-sauvignon.png</image>
+			<GTIN>7804350001372</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece entre 8 e 10 meses em barrica, sendo de 20 a 30% de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Merlot 2019  Red</product-name>
+		<price>83.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-merlot/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>23093</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Merlot</wine-name>
+			<appelation>Vale do Maipo</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro-cool-reserve-merlot.png</image>
+			<GTIN>7804350001389</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece de 8 a 10 meses em barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Pinot Noir 2020  Red</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-pinot-noir/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23094</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Pinot Noir</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro-cool-reserve-pinot-noir.png</image>
+			<GTIN>7804350002782</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurecimento em carvalho francês durante 6 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Carmenère 2020  Red</product-name>
+		<price>83.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-carmenere/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23097</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Carmenère</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2020</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro-cool-reserve-carmenere.png</image>
+			<GTIN>7804350001563</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece entre 8 e 10 meses em barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Herencia Carmenère 2008  Red</product-name>
+		<price>1379.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/herencia-carmenere/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23112</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Herencia Carmenère</wine-name>
+			<appelation>D.O. Peumo</appelation>
+			<vintage>2008</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/herencia-santa-carolina.png</image>
+			<GTIN>7804350003932</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>O amadurecimento é feito em 18 meses em barricas de carvalho francês, sendo que o primeiro ano 100% do vinho passa por barricas novas e 60% do vinho permanece mais 6 meses nessas mesmas barricas - os 40% restantes são transferidos para barricas novas por 6 meses. Antes de ser comercializado permanece 6 meses em repouso na vinícola.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Nimbus Single Vineyard Pinot Noir  Red</product-name>
+		<price>169.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nimbus-single-vineyard-pinot-noir/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23114</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Nimbus Single Vineyard Pinot Noir</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage/>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nimbus-pinot-noir.png</image>
+			<GTIN>7804350004090</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece em carvalho francês entre 10 a 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Specialties Cool Mountain Field Blend 2013  Red</product-name>
+		<price>169.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-carolina-specialties-cool-mountain-field-blend/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>23507</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Santa Carolina Specialties Cool Mountain Field Blend</wine-name>
+			<appelation>Vale de Curicó</appelation>
+			<vintage>2013</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-carolina-specialties-cool-mountain-field-blend.png</image>
+			<GTIN>7804350005776</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Envelhece durante 12 meses em barris de carvalho, mas busca-se a complexidade e não a presença de madeira.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Chardonnay NV  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-chardonnay/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>24007</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Chardonnay</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>NV</vintage>
+			<country>Argentina</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-chardonnay.png</image>
+			<GTIN>7790607000383</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Cabernet Sauvignon 2022  Red</product-name>
+		<price>61.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-cabernet-sauvignon/p</link>
+		<inventory-count>22</inventory-count>
+		<product-id>24030</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Cabernet Sauvignon</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-cabernet-sauvignon.png</image>
+			<GTIN>7790607000369</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Envelhece por 8 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Merlot 2022  Red</product-name>
+		<price>61.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-merlot/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>24031</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Merlot</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-merlot.png</image>
+			<GTIN>7790607000376</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Envelhecimento de 6 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Malbec 2022  Red</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-malbec/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>24033</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Malbec</wine-name>
+			<appelation>Mendoza</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-malbec.png</image>
+			<GTIN>7790607000352</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece em barris de carvalho por 9 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Syrah 2021  Red</product-name>
+		<price>61.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-syrah/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>24049</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Syrah</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2021</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-syrah.png</image>
+			<GTIN>7790607000345</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece em barrica de carvalho por 9 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Roca Exclusivo Chenin e Chardonnay 2023  White</product-name>
+		<price>46.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/roca-exclusivo-chenin-e-chardonnay/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>24062</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Roca Exclusivo Chenin e Chardonnay</wine-name>
+			<appelation>Mendoza</appelation>
+			<vintage>2023</vintage>
+			<country>Argentina</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/roca-chenin-chardonnay.png</image>
+			<GTIN>7790607001793</GTIN>
+			<alcohol>12.8%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Pinot Noir 2023  Red</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-pinot-noir/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>24064</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Pinot Noir</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2023</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-pinot-noir.png</image>
+			<GTIN>7790607001502</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Breve estágio em barris de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Roca Bonarda e Sangiovese 2023  Red</product-name>
+		<price>46.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/roca-bonarda-e-sangiovese/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>24069</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Roca Bonarda e Sangiovese</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2023</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/roca-bonarda-sangiovese.png</image>
+			<GTIN>7790607000123</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Rosé 2022</product-name>
+		<price>61.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-rose/p</link>
+		<inventory-count>14</inventory-count>
+		<product-id>24075</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Rosé</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo-roca-fincas-rose.png</image>
+			<GTIN>7790607000192</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Roca Malbec e Merlot 2021  Red</product-name>
+		<price>51.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/roca-malbec-e-merlot/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>24076</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Roca Malbec e Merlot</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2021</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/roca-malbec-merlot.png</image>
+			<GTIN>7790607001762</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Gran Tannat Premium NV  Red</product-name>
+		<price>279.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/gran-tannat-premium/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>25010</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Gran Tannat Premium</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>NV</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/gran_tannat_premium.png</image>
+			<GTIN>7730910250402</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 18 meses em barrica de carvalho americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Carlos Montes Tannat 2021  Red</product-name>
+		<price>122.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carlos-montes-tannat/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>25012</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Carlos Montes Tannat</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2021</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/carlos-montes-tannat.png</image>
+			<GTIN>7730910250273</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece por 12 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 2022  Red</product-name>
+		<price>59.5</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
+		<inventory-count>33</inventory-count>
+		<product-id>25013</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Reserva Familiar Tannat</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2022</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/montes-toscanini-reserva-familiar-tannat.png</image>
+			<GTIN>7730910250297</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing>Amadurece em barrica de carvalho para maior complexidade.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Elegido Reserva Red 2020</product-name>
+		<price>73.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/elegido-reserva-tinto/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>25016</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Elegido Reserva Tinto</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2020</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/elegido-reserva-tinto-montes-toscanini.png</image>
+			<GTIN>7730910250075</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece em barrica de carvalho por 8 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Elegido Tannat e Merlot 2022  Red</product-name>
+		<price>49.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/elegido-tannat-e-merlot/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>25017</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Elegido Tannat e Merlot</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2022</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/elegido_bivarietal_tannat_merlot.png</image>
+			<GTIN>7730910250112</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Reserva Familiar Tannat Rosé 2022</product-name>
+		<price>69.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reserva-familiar-tannat-rose/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>25029</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Reserva Familiar Tannat Rosé</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2022</vintage>
+			<country>Uruguai</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/reserva-familiar-tannat-rose.png</image>
+			<GTIN>7730910250358</GTIN>
+			<alcohol>12.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Criado en Roble Blend 15 meses 2020  Red</product-name>
+		<price>140.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/criado-en-roble-blend-15-meses/p</link>
+		<inventory-count>27</inventory-count>
+		<product-id>25030</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Criado en Roble Blend 15 meses</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2020</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/criado-en-roble-15-meses-blend.png</image>
+			<GTIN>7730910250532</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês por 15 meses. O vinho não é filtrado nem estabilizado antes de ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Jacob’s Creek Jacob's Creek Shiraz 2021  Red</product-name>
+		<price>84.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jacob-s-creek-shiraz/p</link>
+		<inventory-count>19</inventory-count>
+		<product-id>26040</product-id>
+		<extras>
+			<producer>Jacob’s Creek</producer>
+			<wine-name>Vinho Jacob's Creek Shiraz</wine-name>
+			<appelation>South Eastern Australia</appelation>
+			<vintage>2021</vintage>
+			<country>Austrália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/jacobs_creek_shiraz.png</image>
+			<GTIN>9300727014740</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Jacob’s Creek Jacob's Creek Cabernet Sauvignon 2021  Red</product-name>
+		<price>84.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jacob-s-creek-cabernet-sauvignon/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>26043</product-id>
+		<extras>
+			<producer>Jacob’s Creek</producer>
+			<wine-name>Vinho Jacob's Creek Cabernet Sauvignon</wine-name>
+			<appelation>South Eastern Australia</appelation>
+			<vintage>2021</vintage>
+			<country>Austrália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-dez-jacob_screek-cabernetsauvignon.png</image>
+			<GTIN>9300727014757</GTIN>
+			<alcohol>13.9%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Jacob’s Creek Jacob's Creek Chardonnay 2021  White</product-name>
+		<price>84.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jacob-s-creek-chardonnay/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>26051</product-id>
+		<extras>
+			<producer>Jacob’s Creek</producer>
+			<wine-name>Vinho Jacob's Creek Chardonnay</wine-name>
+			<appelation>South Eastern Australia</appelation>
+			<vintage>2021</vintage>
+			<country>Austrália</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/jacobs_creek_chardonnay.png</image>
+			<GTIN>9300727406453</GTIN>
+			<alcohol>12.7%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Jacob’s Creek Jacob's Creek Shiraz Cabernet Sauvignon 2019  Red</product-name>
+		<price>84.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/jacob-s-creek-shiraz-cabernet-sauvignon/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>26052</product-id>
+		<extras>
+			<producer>Jacob’s Creek</producer>
+			<wine-name>Vinho Jacob's Creek Shiraz Cabernet Sauvignon</wine-name>
+			<appelation>South Eastern Australia</appelation>
+			<vintage>2019</vintage>
+			<country>Austrália</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/jacobs_creek_shiraz_cabernet.png</image>
+			<GTIN>9300727453532</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg The Winemasters Reserve Cabernet Sauvignon 2019  Red</product-name>
+		<price>97.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-the-winemasters-reserve-cabernet-sauvignon/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>51006</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg The Winemasters Reserve Cabernet Sauvignon</wine-name>
+			<appelation>Western Cape</appelation>
+			<vintage>2019</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-the-winemasters-cabernet-sauvignon.png</image>
+			<GTIN>6001452301862</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece por 12 meses em barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg The Winemasters Sauvignon Blanc 2020  White</product-name>
+		<price>97.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-the-winemaster’s-sauvignon-blanc/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>51017</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg The Winemasters Sauvignon Blanc</wine-name>
+			<appelation>Western Cape</appelation>
+			<vintage>2020</vintage>
+			<country>África do Sul</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg_savignon_blanc_2020.png</image>
+			<GTIN>6001452258005</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Noble Late Harvest 375 ml NV  de Dessert</product-name>
+		<price>141.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-noble-late-harvest-375-ml/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>51020</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Noble Late Harvest 375 ml</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>NV</vintage>
+			<country>África do Sul</country>
+			<color> de Sobremesa</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/winemaster_noble_late_harvest_375.png</image>
+			<GTIN>6001452278010</GTIN>
+			<alcohol>10.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg The Winemasters Shiraz 2017  Red</product-name>
+		<price>97.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-the-winemasters-shiraz/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>51022</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg The Winemasters Shiraz</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2017</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/NEDERBURG-WINEMASTERS-SHIRAZ-TTO-750ML-2.png</image>
+			<GTIN>6001452371506</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Estagia em barricas de carvalho francês e americano por 18 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Manor House Shiraz 2016  Red</product-name>
+		<price>229.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-manor-house-shiraz/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>51023</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Manor House Shiraz</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2016</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-manorhouse-shiraz.png</image>
+			<GTIN>6001108018236</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece entre 8 e 12 meses em barricas de carvalho francês e americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg The Winemasters Reserve Pinotage NV  Red</product-name>
+		<price>97.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-the-winemasters-reserve-pinotage/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>51031</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg The Winemasters Reserve Pinotage</wine-name>
+			<appelation>Western Cape</appelation>
+			<vintage>NV</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-the-winemasters-pinotage.png</image>
+			<GTIN>6001452303873</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece em barricas de carvalho novo (americano e francês) por 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Manor House Cabernet Sauvignon 2016  Red</product-name>
+		<price>243.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-manor-house-cabernet-sauvignon/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>51042</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Manor House Cabernet Sauvignon</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2016</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-manorhouse-cabernet-sauvignon.png</image>
+			<GTIN>6001108018014</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece entre 12 e 14 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Cabernet Sauvignon 2022  Red</product-name>
+		<price>59.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-cabernet-sauvignon/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>51045</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Cabernet Sauvignon</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2022</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-out-nederburg-varietal-cabernetsauvignon.png</image>
+			<GTIN>6001108037565', '6001108098269</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece 6 meses em barricas de carvalho americano.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Sauvignon Blanc 2023  White</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-sauvignon-blanc/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>51046</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Sauvignon Blanc</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2023</vintage>
+			<country>África do Sul</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-dez-nederburg-varietal-sauvignonblanc.png</image>
+			<GTIN>6001108037640', '6001108098382</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Pinotage 2022  Red</product-name>
+		<price>59.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-pinotage/p</link>
+		<inventory-count>13</inventory-count>
+		<product-id>51047</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Pinotage</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2022</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-pinotage.png</image>
+			<GTIN>6001108037626', '6001108098344</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês e americano por 6 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Shiraz 2022  Red</product-name>
+		<price>64.3</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-shiraz/p</link>
+		<inventory-count>13</inventory-count>
+		<product-id>51048</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Shiraz</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2022</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-shiraz-tto.png</image>
+			<GTIN>6001108037664', '6001108098405</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece em barrica de carvalho por 6 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg Baronne Cabernet Sauvignon Shiraz 2018  Red</product-name>
+		<price>98.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-baronne-cabernet-sauvignon-shiraz/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>51052</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg Baronne Cabernet Sauvignon Shiraz</wine-name>
+			<appelation>Paarl</appelation>
+			<vintage>2018</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nederburg-barone.png</image>
+			<GTIN>6001452296861</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>6 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Messias Tawny 375 ml  do Fortified</product-name>
+		<price>63.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-messias-tawny-375-ml/p</link>
+		<inventory-count>13</inventory-count>
+		<product-id>12065</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Messias Tawny 375 ml</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/porto_messias_tawny_375.png</image>
+			<GTIN>5601292171581</GTIN>
+			<alcohol>19.5%</alcohol>
+			<ageing>Fermentação interrompida pela adição de aguardente vínica e envelhecimento em carvalho até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Duorum Colheita Magnum 2017  Red</product-name>
+		<price>369.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/duorum-colheita-magnum/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12173</product-id>
+		<extras>
+			<producer>Duorum</producer>
+			<wine-name>Vinho Duorum Colheita Magnum</wine-name>
+			<appelation>Douro</appelation>
+			<vintage>2017</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/duorum-colheita-magnum.png</image>
+			<GTIN>5600224301041</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurecimento em barricas de carvalho francês durante 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Marquês de Borba Colheita Red Magnum NV</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-borba-colheita-tinto-magnum/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12194</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Marquês de Borba Colheita Tinto Magnum</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-borba-colheita-tinto.png</image>
+			<GTIN>5604135003049</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece por 6 meses em meias pipas de carvalho americano de segundo e terceiro usos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Monsaraz DOC Red Magnum 2021</product-name>
+		<price>99.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/monsaraz-doc-tinto-magnum/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12195</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Monsaraz DOC Tinto Magnum</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/COD-1067.png</image>
+			<GTIN>5601377002328</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Uma parte do vinho amadurece em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Reguengos Reserva DOC Red Magnum NV</product-name>
+		<price>179.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reguengos-reserva-doc-tinto-magnum/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12196</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Reguengos Reserva DOC Tinto Magnum</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>NV</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/reguengos-reserva-doc-magnum.png</image>
+			<GTIN>5601377002595</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Parte do vinho amadurece em barricas de carvalho português e francês durante 12 meses e estagia mais 6 meses na adega.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Monsaraz Reserva Alentejo DOC 2020  Red</product-name>
+		<price>124.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/monsaraz-reserva-doc-alentejo/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12258</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Monsaraz Reserva Alentejo DOC</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2020</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/monsaraz-reserva-tinto-2018.png</image>
+			<GTIN>5601377000973</GTIN>
+			<alcohol>15.5%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês e americano por 12 meses. Estagia 3 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Nossa Calcário Red 2021</product-name>
+		<price>359.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nossa-calcario-tinto/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>12901</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Vinho Nossa Calcário Tinto</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nossa-calcario-tinto-filipa-pato.png</image>
+			<GTIN>5601743900234', '5600816160070</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Estagia 18 meses em pipas de carvalho francês, 80% usados e 20% novos.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nony Borie Château Caronne Ste. Gemme Magnum 2015  Red</product-name>
+		<price>479.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-caronne-ste--gemme-magnum-2015/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>21434</product-id>
+		<extras>
+			<producer>Nony Borie</producer>
+			<wine-name>Vinho Château Caronne Ste. Gemme Magnum 2015</wine-name>
+			<appelation>Bordeaux', 'Haut-Médoc</appelation>
+			<vintage>2015</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chateau-caronne-ste-gemme-magnum.png</image>
+			<GTIN>3450460150154</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece aproximadamente por 12 meses em barrica de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Ravoire &amp; Fils Manon Côtes de Provence Rosé 375 ml 2018</product-name>
+		<price>119.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/manon-cotes-de-provence-rose-375-ml/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>21615</product-id>
+		<extras>
+			<producer>Ravoire &amp; Fils</producer>
+			<wine-name>Vinho Manon Côtes de Provence Rosé 375 ml</wine-name>
+			<appelation>Provence</appelation>
+			<vintage>2018</vintage>
+			<country>França</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/manon_cotes_provence_rose_375.png</image>
+			<GTIN>3330620004858</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Chardonnay 375 ml 2021  White</product-name>
+		<price>47.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-chardonnay-375-ml/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23205</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Chardonnay 375 ml</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro_cool_reserve_chardonnay_375.png</image>
+			<GTIN>7804350003000</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Em torno de 20% do vinho é fermentado em carvalho francês. Bâtonnage (agitação das leduras) durante dois meses, para melhor estrutura e untuosidade.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Carolina Reserva Cabernet Sauvignon 375 ml 2021  Red</product-name>
+		<price>44.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/carolina-reserva-cabernet-sauvignon-375-ml/p</link>
+		<inventory-count>13</inventory-count>
+		<product-id>23206</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Carolina Reserva Cabernet Sauvignon 375 ml</wine-name>
+			<appelation>Vale do Colchagua</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/carolina_reserva_cs_375ml.png</image>
+			<GTIN>7804350700930</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece 8 meses em barrica de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Cabernet Sauvignon 375 ml 2019  Red</product-name>
+		<price>49.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-cabernet-sauvignon-375-ml/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>23209</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Cabernet Sauvignon 375 ml</wine-name>
+			<appelation>Vale do Maipo</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro_cool_reserve_cabernet_sauvignon_375.png</image>
+			<GTIN>7804350002997</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Amadurece entre 8 e 10 meses em barrica, sendo de 20 a 30% de carvalho francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Viña Casablanca Céfiro Cool Reserve Sauvignon Blanc 375 ml NV  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/cefiro-cool-reserve-sauvignon-blanc-375-ml/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23210</product-id>
+		<extras>
+			<producer>Viña Casablanca</producer>
+			<wine-name>Vinho Céfiro Cool Reserve Sauvignon Blanc 375 ml</wine-name>
+			<appelation>Vale de Casablanca</appelation>
+			<vintage>NV</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/cefiro_cool_reserve_sauvignon_blanc_375.png</image>
+			<GTIN>7804350001938</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Bâtonnage durante dois meses para melhor estrutura, corpo, untuosidade e volume em boca.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estrellas Reserva Chardonnay 375 ml 2019  White</product-name>
+		<price>32.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/estrellas-reserva-chardonnay-375-ml/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23219</product-id>
+		<extras>
+			<producer>Santa Carolina</producer>
+			<wine-name>Vinho Estrellas Reserva Chardonnay 375 ml</wine-name>
+			<appelation>Vale do Rapel</appelation>
+			<vintage>2019</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/estrellas_reserva_chardonnay_375.png</image>
+			<GTIN>7804350700947</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Malbec 375 ml 2022  Red</product-name>
+		<price>43.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-malbec-375-ml/p</link>
+		<inventory-count>24</inventory-count>
+		<product-id>24065</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Malbec 375 ml</wine-name>
+			<appelation>Mendoza</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo_roca_fincas_malbec_375.png</image>
+			<GTIN>7790607001106</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Amadurece em barris de carvalho por 9 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Alfredo Roca Fincas Cabernet Sauvignon 375 ml 2022  Red</product-name>
+		<price>43.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-cabernet-sauvignon-375-ml/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>24105</product-id>
+		<extras>
+			<producer>Alfredo Roca</producer>
+			<wine-name>Vinho Alfredo Roca Fincas Cabernet Sauvignon 375 ml</wine-name>
+			<appelation>Mendoza', 'San Rafael</appelation>
+			<vintage>2022</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alfredo_roca_fincas_cabernet_sauvignon_375.png</image>
+			<GTIN>7790607001090</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing>Envelhece por 8 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodegas Montes Toscanini Reserva Familiar Tannat 375 ml 2022  Red</product-name>
+		<price>45.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/reserva-familiar-tannat-375-ml/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>25021</product-id>
+		<extras>
+			<producer>Bodegas Montes Toscanini</producer>
+			<wine-name>Vinho Reserva Familiar Tannat 375 ml</wine-name>
+			<appelation>Canelones</appelation>
+			<vintage>2022</vintage>
+			<country>Uruguai</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/reserva_familiar_tannat_375ml.png</image>
+			<GTIN>7730910250365</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing>Amadurece em barrica de carvalho para maior complexidade.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nederburg The Winemasters Reserve Cabernet Sauvignon 2016  Red</product-name>
+		<price>34.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>250 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-the-winemasters-reserve-cabernet-sauvignon-250-ml/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>51050</product-id>
+		<extras>
+			<producer>Nederburg</producer>
+			<wine-name>Vinho Nederburg The Winemasters Reserve Cabernet Sauvignon</wine-name>
+			<appelation>Western Cape</appelation>
+			<vintage>2016</vintage>
+			<country>África do Sul</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/COD-3569.png</image>
+			<GTIN>6001452302869</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Amadurece por 12 meses em barrica.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Christ Grüner Veltliner Bisamberg 2019  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/gruner-veltliner-bisamberg/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23117</product-id>
+		<extras>
+			<producer>Christ</producer>
+			<wine-name>Vinho Grüner Veltliner Bisamberg</wine-name>
+			<appelation>Viena</appelation>
+			<vintage>2019</vintage>
+			<country>Áustria</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/gruner_veltliner_bisamberg_750.png</image>
+			<GTIN>9120018365142', '9120018365210</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Christ Grüner Veltliner Bruch 2019  White</product-name>
+		<price>239.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/gruner-veltliner-bruch/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>23118</product-id>
+		<extras>
+			<producer>Christ</producer>
+			<wine-name>Vinho Grüner Veltliner Bruch</wine-name>
+			<appelation>Viena</appelation>
+			<vintage>2019</vintage>
+			<country>Áustria</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/gruner_veltliner_bruch_750.png</image>
+			<GTIN>9120018365166</GTIN>
+			<alcohol>13.0%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Vieja Cabernet Sauvignon 2022  Red</product-name>
+		<price>32.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/bodega-vieja-cabernet-sauvignon/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>14201</product-id>
+		<extras>
+			<producer>Bodega Vieja</producer>
+			<wine-name>Vinho Bodega Vieja Cabernet Sauvignon</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/bodega_cabernet.png</image>
+			<GTIN>7898152992006</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Vieja Suave Red 2022</product-name>
+		<price>32.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/bodega-vieja-suave-tinto/p</link>
+		<inventory-count>22</inventory-count>
+		<product-id>14204</product-id>
+		<extras>
+			<producer>Bodega Vieja</producer>
+			<wine-name>Vinho Bodega Vieja Suave Tinto</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/bodega_tinto_suave.png</image>
+			<GTIN>7898152997025</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Vieja Suave White 2022</product-name>
+		<price>32.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/bodega-vieja-suave-branco/p</link>
+		<inventory-count>14</inventory-count>
+		<product-id>14205</product-id>
+		<extras>
+			<producer>Bodega Vieja</producer>
+			<wine-name>Vinho Bodega Vieja Suave Branco</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-dez-bodegavieja-suave-branco.png</image>
+			<GTIN>7898152997032</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Filipa Pato Dinamica D.N.M.C. branco 2021  White</product-name>
+		<price>129.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/dinamica-d-n-m-c--branco/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>12916</product-id>
+		<extras>
+			<producer>Filipa Pato</producer>
+			<wine-name>Vinho Dinamica D.N.M.C. branco</wine-name>
+			<appelation>Bairrada</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/dinamica-d.png</image>
+			<GTIN>5600816160001</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>10% amadurece em pipas de carvalho francês de 500 e 600 litros. Posteriormente, permanece 2 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Burton’s Tawny  do Fortified</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-burton’s-tawny/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>12315</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Burton’s Tawny</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-do-porto-burtons-tawny.png</image>
+			<GTIN>5601292171673</GTIN>
+			<alcohol>19.5%</alcohol>
+			<ageing>Amadurece em madeira antes do engarrafamento.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Burton’s 10 Anos  do Fortified</product-name>
+		<price>184.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-burton’s-10-anos/p</link>
+		<inventory-count>16</inventory-count>
+		<product-id>12316</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Burton’s 10 Anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-do-porto-burtons-10-anos.png</image>
+			<GTIN>5601292175282</GTIN>
+			<alcohol>20%</alcohol>
+			<ageing>O lote é envelhecido em madeira por, em média, 10 anos até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Caves Messias Fortified Burton’s 20 Anos  do Fortified</product-name>
+		<price>439.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/porto-burton’s-20-anos/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>12317</product-id>
+		<extras>
+			<producer>Caves Messias</producer>
+			<wine-name>Vinho Porto Burton’s 20 Anos</wine-name>
+			<appelation>Douro</appelation>
+			<vintage/>
+			<country>Portugal</country>
+			<color> do Porto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-do-porto-burtons-20-anos.png</image>
+			<GTIN>5601292175299</GTIN>
+			<alcohol>20%</alcohol>
+			<ageing>O lote envelhece em madeira por, em média, 20 anos, até ser engarrafado.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Vila Santa Red 2022</product-name>
+		<price>79.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vila-santa-tinto/p</link>
+		<inventory-count>16</inventory-count>
+		<product-id>12263</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Vila Santa Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-fino-tinto-seco-vila-santa-750-ml.png</image>
+			<GTIN>5604135002318</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Vila Santa White 2021</product-name>
+		<price>79.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vila-santa-branco/p</link>
+		<inventory-count>19</inventory-count>
+		<product-id>12264</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Vila Santa Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2021</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vila-santa-branco.png</image>
+			<GTIN>5604135002301</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>João Portugal Ramos Quinta da Viçosa 2019  Red</product-name>
+		<price>329.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/quinta-da-vicosa/p</link>
+		<inventory-count>8</inventory-count>
+		<product-id>12265</product-id>
+		<extras>
+			<producer>João Portugal Ramos</producer>
+			<wine-name>Vinho Quinta da Viçosa</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2023-MAI-Produto-JPR-QuintaDaVicosa.png</image>
+			<GTIN>5604135100878', '5604135100793</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Estagia 12 meses em barricas de carvalho americano e francês.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Donna Red 2022</product-name>
+		<price>49.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/donna-tinto/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>12235</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Donna Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-fino-tinto-seco-donna.png</image>
+			<GTIN>5600320468150</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Alto del Valle White</product-name>
+		<price>29.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alto-del-valle-branco/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>14207</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Alto del Valle Branco</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage/>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-alto-del-valle-bco.png</image>
+			<GTIN>7808765747177</GTIN>
+			<alcohol>12.55%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reservado Cabernet Sauvignon 2022  Red</product-name>
+		<price>32.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reservado-cabernet-sauvignon/p</link>
+		<inventory-count>23</inventory-count>
+		<product-id>14208</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reservado Cabernet Sauvignon</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/trapecista-reservado-cabernet-sauvignon.png</image>
+			<GTIN>7808765747184</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reservado Carmenère NV  Red</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reservado-carmenere/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>14209</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reservado Carmenère</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>NV</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-trapecista-reservado---carmenere-750ml.png</image>
+			<GTIN>7808765747191</GTIN>
+			<alcohol>12.50%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reservado Merlot 2022  Red</product-name>
+		<price>32.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reservado-merlot/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>14217</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reservado Merlot</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/trapecista-reservado-merlot.png</image>
+			<GTIN>7808765747207</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reservado Rosé Syrah 2022</product-name>
+		<price>32.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reservado-rose-syrah/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14218</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reservado Rosé Syrah</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-trapecista-reservado---rose-750ml.png</image>
+			<GTIN>7808765747221</GTIN>
+			<alcohol>12.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reserva Cabernet Sauvignon 2021  Red</product-name>
+		<price>44.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reserva-cabernet-sauvignon/p</link>
+		<inventory-count>20</inventory-count>
+		<product-id>14220</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reserva Cabernet Sauvignon</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-trapecista-reserva---cabernet-sauvignon-750ml.png</image>
+			<GTIN>7808765747238</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reserva Sauvignon Blanc 2022  White</product-name>
+		<price>44.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reserva-sauvignon-blanc/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14226</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reserva Sauvignon Blanc</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2022</vintage>
+			<country>Chile</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-trapecista-reserva---sauvignon-blanc-750ml.png</image>
+			<GTIN>7808765747269</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reserva Superior Cabernet Sauvignon 2021  Red</product-name>
+		<price>43.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reserva-superior-cabernet-sauvignon/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14227</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reserva Superior Cabernet Sauvignon</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/trapecista-reserva-superior-cabernet-sauvignon.png</image>
+			<GTIN>7808765747276</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Estagia 8 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Aura Wines Trapecista Reserva Superior Carmenère 2021  Red</product-name>
+		<price>43.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/trapecista-reserva-superior-carmenere/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>14228</product-id>
+		<extras>
+			<producer>Aura Wines</producer>
+			<wine-name>Vinho Trapecista Reserva Superior Carmenère</wine-name>
+			<appelation>Vale Central</appelation>
+			<vintage>2021</vintage>
+			<country>Chile</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-trapecista-reserva-superior---carmenere-750ml.png</image>
+			<GTIN>7808765747283</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>Estagia 8 meses em barrica de carvalho.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Ganarcha Rosé 2019</product-name>
+		<price>56.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-ganarcha-rose/p</link>
+		<inventory-count>14</inventory-count>
+		<product-id>14161</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Ganarcha Rosé</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Rosé</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-garnacha-rose.png</image>
+			<GTIN>8422938000716</GTIN>
+			<alcohol>%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Viura White 2019</product-name>
+		<price>56.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-viura-branco/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14162</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Viura Branco</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-blanco.png</image>
+			<GTIN>8422938000693</GTIN>
+			<alcohol>%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Reserva 2015  Red</product-name>
+		<price>139.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-reserva/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>14164</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Reserva</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2015</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-reserva.png</image>
+			<GTIN>8422938000655</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>Estagia 18 meses em barricas de carvalho francês e americano e, posteriormente, 18 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas La Viña de Sofia Albariño Clásico 2021  White</product-name>
+		<price>109.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/la-viña-de-sofia-albariño-clasico/p</link>
+		<inventory-count>38</inventory-count>
+		<product-id>14176</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho La Viña de Sofia Albariño Clásico</wine-name>
+			<appelation>Galícia', 'Rías Baixas</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/la-vina-de-sofia-albarino-clasico.png</image>
+			<GTIN>8437014035254</GTIN>
+			<alcohol>%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Jovem 2019  Red</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-jovem/p</link>
+		<inventory-count>10</inventory-count>
+		<product-id>14160</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Jovem</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-joven.png</image>
+			<GTIN>8422938000570</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>3 meses em adega antes da comercialização</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Crianza 2017  Red</product-name>
+		<price>79.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-crianza/p</link>
+		<inventory-count>15</inventory-count>
+		<product-id>14163</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Crianza</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2017</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-crianza.png</image>
+			<GTIN>8422938000617</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>12 meses em barricas de carvalho americano e francês e mais 12 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Gran Reserva 2014  Red</product-name>
+		<price>199.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-gran-reserva/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>14165</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Gran Reserva</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2014</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vina-otano-gran-reserva.png</image>
+			<GTIN>8422938001225</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>24 meses em barricas de carvalho francês e americano, e mais 12 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Reserva Magnum 2015  Red</product-name>
+		<price>259.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-reserva-magnum/p</link>
+		<inventory-count>2</inventory-count>
+		<product-id>14167</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Reserva Magnum</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2015</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/botella-montaje-vina-otano-reserva.png</image>
+			<GTIN>8422938000662</GTIN>
+			<alcohol>%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Sparkling Mandois Brut Origine</product-name>
+		<price>349.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/champagne-mandois-brut-origine/p</link>
+		<inventory-count>16</inventory-count>
+		<product-id>14177</product-id>
+		<extras>
+			<producer>Champagne Mandois</producer>
+			<wine-name>Champagne Mandois Brut Origine</wine-name>
+			<appelation>Champagne</appelation>
+			<vintage/>
+			<country>França</country>
+			<color>Champagne</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/champagne_mandois_brut.png</image>
+			<GTIN>3760064080031</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>Estagia durante 3 anos sobre as borras nas caves construídas no século XVIII.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Marqués de Tomares Crianza Rioja White NV</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/marques-de-tomares-crianza-rioja-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>14158</product-id>
+		<extras>
+			<producer/>
+			<wine-name>Vinho Marqués de Tomares Crianza Rioja Branco</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>NV</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/marques-de-tomares-blanco.png</image>
+			<GTIN>8422938000723</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing>6 meses em barrica de carvalho francês (em contato com as borras).</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Terra Lenta Premium White 2019</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/terra-lenta-premium-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12260</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Terra Lenta Premium Branco</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-fino-branco-seco-terra-lenta-premium.png</image>
+			<GTIN>5601377003417</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu Château Haura 2015 NV  Red</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-haura-2015/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21953</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho Château Haura 2015</wine-name>
+			<appelation>Bordeaux', 'Graves</appelation>
+			<vintage>NV</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/21953-chateau-haura.png</image>
+			<GTIN>3760021824258</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing>Amadurece por 12 meses em barricas de carvalho, sendo 30% novas.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu Clos Floridène White 2018</product-name>
+		<price>329.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/clos-floridene-branco/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>21954</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho Clos Floridène Branco</wine-name>
+			<appelation>Bordeaux', 'Graves</appelation>
+			<vintage>2018</vintage>
+			<country>França</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/2022-dez-closfloridene-branco.png</image>
+			<GTIN>3760036917280</GTIN>
+			<alcohol>12.50%</alcohol>
+			<ageing>Amadurece por 9 meses sobre as borras.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Domaine Denis Dubourdieu Château Reynon 2017  Red</product-name>
+		<price>199.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-reynon-2017/p</link>
+		<inventory-count>5</inventory-count>
+		<product-id>21951</product-id>
+		<extras>
+			<producer>Domaine Denis Dubourdieu</producer>
+			<wine-name>Vinho Château Reynon 2017</wine-name>
+			<appelation>Bordeaux</appelation>
+			<vintage>2017</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chateau-reynon-tinto.png</image>
+			<GTIN>3760036910274</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês por 12 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nuestro Verdejo NV  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nuestro-verdejo/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>14159</product-id>
+		<extras>
+			<producer/>
+			<wine-name>Vinho Nuestro Verdejo</wine-name>
+			<appelation>Rueda</appelation>
+			<vintage>NV</vintage>
+			<country>Espanha</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/nuestro-verdejo.png</image>
+			<GTIN>8437007812473</GTIN>
+			<alcohol>%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Díaz Bayo 4U 2021  Red</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/diaz-bayo-4u/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>14168</product-id>
+		<extras>
+			<producer>Díaz Bayo</producer>
+			<wine-name>Vinho Díaz Bayo 4U</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/diaz-bayo-4u.png</image>
+			<GTIN>8437007000177</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>3 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Díaz Bayo 8 meses 2021  Red</product-name>
+		<price>79.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/diaz-bayo-8-meses/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>14169</product-id>
+		<extras>
+			<producer>Díaz Bayo</producer>
+			<wine-name>Vinho Díaz Bayo 8 meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/diaz-bayo-8-meses.png</image>
+			<GTIN>8437007000290</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>8 meses em barricas de carvalho francês e americano seguido de 6 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Díaz Bayo Crianza 15 meses 2021  Red</product-name>
+		<price>119.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/diaz-bayo-crianza-15-meses/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>14170</product-id>
+		<extras>
+			<producer>Díaz Bayo</producer>
+			<wine-name>Vinho Díaz Bayo Crianza 15 meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/diaz-bayo-15-meses.png</image>
+			<GTIN>8437007000337</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>15 meses em barricas de carvalho francês e americano e mais 12 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Díaz Bayo 20 Meses 2015  Red</product-name>
+		<price>239.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/diaz-bayo-20-meses/p</link>
+		<inventory-count>18</inventory-count>
+		<product-id>14171</product-id>
+		<extras>
+			<producer>Díaz Bayo</producer>
+			<wine-name>Vinho Díaz Bayo 20 Meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2015</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/diaz-bayo-20-meses.png</image>
+			<GTIN>8437007000375</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>20 meses em barricas de carvalho francês mais 18 meses em adega antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Petit Vega 8 meses 2021  Red</product-name>
+		<price>84.6</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/petit-vega-8-meses/p</link>
+		<inventory-count>18</inventory-count>
+		<product-id>14173</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Petit Vega 8 meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/petit-vega-8-meses.png</image>
+			<GTIN>8437007000610</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>Estagia por 8 meses em barricas de carvalho francês e americano seguidos de 6 meses em garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Petit Vega 18 meses 2021  Red</product-name>
+		<price>111.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>14174</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Petit Vega 18 meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2021</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/petit-vega-18-meses.png</image>
+			<GTIN>8437007000627</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing>Estagia por 18 meses em barricas de carvalho americano e francês e depois permanece mais 12 meses em garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Petit Vega 28 meses 2015  Red</product-name>
+		<price>238.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
+		<inventory-count>21</inventory-count>
+		<product-id>14175</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Petit Vega 28 meses</wine-name>
+			<appelation>Ribera del Duero</appelation>
+			<vintage>2015</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/petit-vega-28-meses.png</image>
+			<GTIN>8437007000634</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing>Estagia por 28 meses em barrica de carvalho francês e mais 18 meses em garrafa.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Tarefa Red 2022</product-name>
+		<price>229.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/tarefa-tinto/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>12238</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Tarefa Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2022</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/tarefa-tinto.png</image>
+			<GTIN>5601377003448</GTIN>
+			<alcohol>13.50%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Carmim Terra Lenta Red 2019</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/terra-lenta-tinto/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>12239</product-id>
+		<extras>
+			<producer>Carmim</producer>
+			<wine-name>Vinho Terra Lenta Tinto</wine-name>
+			<appelation>Alentejo</appelation>
+			<vintage>2019</vintage>
+			<country>Portugal</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/vinho-fino-tinto--seco-terra-lenta-750ml.png</image>
+			<GTIN>5600320469935</GTIN>
+			<alcohol>14.50%</alcohol>
+			<ageing>2019</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Premium Fincas Viña Otano Crianza Magnum 2017  Red</product-name>
+		<price>176.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>1,5 L</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/viña-otano-crianza-magnum/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>14166</product-id>
+		<extras>
+			<producer>Premium Fincas</producer>
+			<wine-name>Vinho Viña Otano Crianza Magnum</wine-name>
+			<appelation>Rioja</appelation>
+			<vintage>2017</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/botella-montaje-vina-otano-crianza.png</image>
+			<GTIN>8422938000624</GTIN>
+			<alcohol>%</alcohol>
+			<ageing>12 meses em barricas de carvalho americano e francês e mais 12 meses em garrafa antes da comercialização.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Nony Borie Château Labat 2016  Red</product-name>
+		<price>214.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-labat/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>21955</product-id>
+		<extras>
+			<producer>Nony Borie</producer>
+			<wine-name>Vinho Château Labat</wine-name>
+			<appelation>AOC Haut-Médoc', 'Bordeaux</appelation>
+			<vintage>2016</vintage>
+			<country>França</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/chateau-labat.png</image>
+			<GTIN>3450460175164</GTIN>
+			<alcohol>14.0%</alcohol>
+			<ageing>Amadurece 12 meses em barricas francesas.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Alambrado Etiqueta Negra Malbec NV  Red</product-name>
+		<price>65.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alambrado-malbec/p</link>
+		<inventory-count>9</inventory-count>
+		<product-id>23235</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Alambrado Etiqueta Negra Malbec</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>NV</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alambrado-malbec.png</image>
+			<GTIN>7791728002690</GTIN>
+			<alcohol>15%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês por 10 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Alambrado Etiqueta Negra Cabernet Sauvignon 2021  Red</product-name>
+		<price>65.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alambrado-cabernet-sauvignon/p</link>
+		<inventory-count>1</inventory-count>
+		<product-id>23236</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Alambrado Etiqueta Negra Cabernet Sauvignon</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>2021</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alambrado-cabernet-sauvignon.png</image>
+			<GTIN>7791728002713</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing>Amadurece em barricas de carvalho francês por 10 meses.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Gran Alambrado Cosecha Manual Malbec 2021  Red</product-name>
+		<price>109.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/gran-alambrado-cosecha-manual-malbec/p</link>
+		<inventory-count>6</inventory-count>
+		<product-id>23237</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Gran Alambrado Cosecha Manual Malbec</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>2021</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/gran-alambrado-malbec.png</image>
+			<GTIN>7791728240993</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing>Uma parte do vinho estagia por 10 meses em madeira.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Santa Julia Colección Bonarda 2020  Red</product-name>
+		<price>53.8</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-julia-coleccion-bonarda/p</link>
+		<inventory-count>17</inventory-count>
+		<product-id>23242</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Santa Julia Colección Bonarda</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>2020</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-julia-coleccion-bonarda.png</image>
+			<GTIN>7791728241013</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Santa Julia Colección Sauvignon Blanc 2020  White</product-name>
+		<price>53.8</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-julia-coleccion-sauvignon-blanc/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23243</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Santa Julia Colección Sauvignon Blanc</wine-name>
+			<appelation>Mendoza', 'Santa Rosa</appelation>
+			<vintage>2020</vintage>
+			<country>Argentina</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-julia-coleccion-sauvignon-blanc.png</image>
+			<GTIN>7791728238150</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Alambrado Pinot Noir 2023  Red</product-name>
+		<price>57.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alambrado-pinot-noir/p</link>
+		<inventory-count>12</inventory-count>
+		<product-id>23244</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Alambrado Pinot Noir</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>2023</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alambrado-pinot-noir.png</image>
+			<GTIN>7791728241068</GTIN>
+			<alcohol>15%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Alambrado Viognier 2023  White</product-name>
+		<price>64.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/alambrado-viognier/p</link>
+		<inventory-count>11</inventory-count>
+		<product-id>23245</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Alambrado Viognier</wine-name>
+			<appelation>Mendoza', 'Vale do Uco</appelation>
+			<vintage>2023</vintage>
+			<country>Argentina</country>
+			<color> Branco</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/alambrado-viognier.png</image>
+			<GTIN>7791728241051</GTIN>
+			<alcohol>13.5%</alcohol>
+			<ageing>A Bodega recebeu o prêmio “Destacado Custo-Benefício” do Guia Descorchados 2021.</ageing>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Santa Julia Colección Malbec 2020  Red</product-name>
+		<price>53.8</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-julia-coleccion-malbec/p</link>
+		<inventory-count>3</inventory-count>
+		<product-id>23240</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Santa Julia Colección Malbec</wine-name>
+			<appelation>Maipú', 'Mendoza', 'Santa Rosa</appelation>
+			<vintage>2020</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-julia-coleccion-malbec.png</image>
+			<GTIN>7791728235333</GTIN>
+			<alcohol>14%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Bodega Santa Julia Santa Julia Colección Cabernet Sauvignon 2020  Red</product-name>
+		<price>53.8</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/santa-julia-coleccion-cabernet-sauvignon/p</link>
+		<inventory-count>14</inventory-count>
+		<product-id>23241</product-id>
+		<extras>
+			<producer>Bodega Santa Julia</producer>
+			<wine-name>Vinho Santa Julia Colección Cabernet Sauvignon</wine-name>
+			<appelation>Mendoza</appelation>
+			<vintage>2020</vintage>
+			<country>Argentina</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/santa-julia-coleccion-cabernet-sauvignon.png</image>
+			<GTIN>7791728239867</GTIN>
+			<alcohol>14.5%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Navarro López Don Aurelio Garnacha 2019  Red</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/don-aurelio-garnacha/p</link>
+		<inventory-count>17</inventory-count>
+		<product-id>14179</product-id>
+		<extras>
+			<producer>Navarro López</producer>
+			<wine-name>Vinho Don Aurelio Garnacha</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/don-aurelio-ganacha.png</image>
+			<GTIN>8437006894579</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Navarro López Don Aurelio Tempranillo 2019  Red</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/don-aurelio-tempranillo/p</link>
+		<inventory-count>11</inventory-count>
+		<product-id>14180</product-id>
+		<extras>
+			<producer>Navarro López</producer>
+			<wine-name>Vinho Don Aurelio Tempranillo</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/don-aurelio-tempranilho.png</image>
+			<GTIN>8437006111041</GTIN>
+			<alcohol>13.50%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Navarro López Don Aurelio Syrah 2019  Red</product-name>
+		<price>69.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/don-aurelio-syrah/p</link>
+		<inventory-count>7</inventory-count>
+		<product-id>14181</product-id>
+		<extras>
+			<producer>Navarro López</producer>
+			<wine-name>Vinho Don Aurelio Syrah</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2019</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/don-aurelio-syrah.png</image>
+			<GTIN>8437000044451</GTIN>
+			<alcohol>13.50%</alcohol>
+			<ageing/>
+		</extras>
+	</product>
+	<product>
+		<product-name>Navarro López Don Aurelio Crianza 2016  Red</product-name>
+		<price>79.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/don-aurelio-crianza/p</link>
+		<inventory-count>18</inventory-count>
+		<product-id>14182</product-id>
+		<extras>
+			<producer>Navarro López</producer>
+			<wine-name>Vinho Don Aurelio Crianza</wine-name>
+			<appelation>Castilla La Mancha</appelation>
+			<vintage>2016</vintage>
+			<country>Espanha</country>
+			<color> Tinto</color>
+			<image>https://grandeadega.vteximg.com.br/arquivos/don-aurelio-crianza.png</image>
+			<GTIN>8437006111058</GTIN>
+			<alcohol>13%</alcohol>
+			<ageing>Passa, pelo menos, 6 meses em barrica de carvalho francês e americano.</ageing>
 		</extras>
 	</product>
 </vivino-product-list>
