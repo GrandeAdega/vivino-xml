@@ -50,7 +50,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbera-la-quercia/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>11029</product-id>
   </product>
   <product>
@@ -440,7 +440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-    <inventory-count>9</inventory-count>
+    <inventory-count>21</inventory-count>
     <product-id>11840</product-id>
   </product>
   <product>
@@ -660,7 +660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/loios-tinto/p</link>
-    <inventory-count>14</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>12113</product-id>
   </product>
   <product>
@@ -2830,7 +2830,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-petit-vega-28-meses/p</link>
-    <inventory-count>32</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>14175</product-id>
   </product>
   <product>
@@ -4515,7 +4515,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-belvino-rose-brut/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>11527</product-id>
   </product>
   <product>
