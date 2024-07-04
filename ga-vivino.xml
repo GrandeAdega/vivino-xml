@@ -440,7 +440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-    <inventory-count>49</inventory-count>
+    <inventory-count>43</inventory-count>
     <product-id>11840</product-id>
   </product>
   <product>
@@ -950,7 +950,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/regia-colheita-doc-alentejo-tinto/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>12209</product-id>
   </product>
   <product>
@@ -1920,7 +1920,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/alfredo-roca-fincas-malbec/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>24033</product-id>
   </product>
   <product>
@@ -2080,7 +2080,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/jacob-s-creek-chardonnay/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>26051</product-id>
   </product>
   <product>
@@ -3670,7 +3670,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-tinto/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>12124</product-id>
   </product>
   <product>
@@ -5165,7 +5165,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/terras-d-el-rei-branco/p</link>
-    <inventory-count>27</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>12130</product-id>
   </product>
   <product>
@@ -5255,7 +5255,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-reguengos-selecao-tinto-alentejo-doc/p</link>
-    <inventory-count>28</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>12348</product-id>
   </product>
   <product>
@@ -5275,7 +5275,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>37</inventory-count>
+    <inventory-count>31</inventory-count>
     <product-id>13057</product-id>
   </product>
 </vivino-product-list>
