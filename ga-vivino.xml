@@ -480,7 +480,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-forte-ambrone-vino-rosso/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>18</inventory-count>
     <product-id>11844</product-id>
   </product>
   <product>
@@ -2010,7 +2010,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-    <inventory-count>13</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>25013</product-id>
   </product>
   <product>
@@ -2490,7 +2490,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vila-santa-tinto/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>12263</product-id>
   </product>
   <product>
@@ -3120,7 +3120,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-ice/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>10</inventory-count>
     <product-id>21406</product-id>
   </product>
   <product>
@@ -3130,7 +3130,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-ice-rose/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>1</inventory-count>
     <product-id>21407</product-id>
   </product>
   <product>
@@ -4015,7 +4015,7 @@
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/moscato-d’asti-docg-truffle-hunter-leda
 /p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>12327</product-id>
   </product>
   <product>
@@ -4505,7 +4505,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/voga-merlot-terre-siciliane-igt/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>9</inventory-count>
     <product-id>11526</product-id>
   </product>
   <product>
@@ -5275,7 +5275,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>28</inventory-count>
     <product-id>13057</product-id>
   </product>
 </vivino-product-list>
