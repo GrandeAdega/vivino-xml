@@ -440,7 +440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-    <inventory-count>1</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>11840</product-id>
   </product>
   <product>
@@ -550,7 +550,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-do-valdoeiro-tinto/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12047</product-id>
   </product>
   <product>
@@ -960,7 +960,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-do-penedo-doc-tinto/p</link>
-    <inventory-count>7</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>12211</product-id>
   </product>
   <product>
@@ -2430,7 +2430,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bodega-vieja-suave-tinto/p</link>
-    <inventory-count>36</inventory-count>
+    <inventory-count>26</inventory-count>
     <product-id>14204</product-id>
   </product>
   <product>
@@ -2900,7 +2900,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/gran-alambrado-cosecha-manual-malbec/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>23237</product-id>
   </product>
   <product>
@@ -3000,7 +3000,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-aurelio-crianza/p</link>
-    <inventory-count>13</inventory-count>
+    <inventory-count>12</inventory-count>
     <product-id>14182</product-id>
   </product>
   <product>
@@ -4085,7 +4085,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/gran-alambrado-cosecha-manual-Malbec---cabernet-sauvignon/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>23307</product-id>
   </product>
   <product>
@@ -4195,7 +4195,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/altura-cabernet-franc/p</link>
-    <inventory-count>20</inventory-count>
+    <inventory-count>19</inventory-count>
     <product-id>11562</product-id>
   </product>
   <product>
@@ -5275,7 +5275,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>15</inventory-count>
     <product-id>13057</product-id>
   </product>
 </vivino-product-list>
