@@ -650,7 +650,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/loios-branco/p</link>
-    <inventory-count>21</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>12112</product-id>
   </product>
   <product>
@@ -660,7 +660,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/loios-tinto/p</link>
-    <inventory-count>25</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>12113</product-id>
   </product>
   <product>
@@ -3250,7 +3250,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/mil-historias-syrah/p</link>
-    <inventory-count>22</inventory-count>
+    <inventory-count>21</inventory-count>
     <product-id>23251</product-id>
   </product>
   <product>
@@ -3260,7 +3260,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/mil-historias-tempranillo/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>5</inventory-count>
     <product-id>23252</product-id>
   </product>
   <product>
@@ -5245,7 +5245,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-reguengos-selecao-branco-alentejo-doc/p</link>
-    <inventory-count>6</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12349</product-id>
   </product>
   <product>
