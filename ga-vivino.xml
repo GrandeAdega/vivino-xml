@@ -1210,7 +1210,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-roman-tinto/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>22</inventory-count>
     <product-id>14000</product-id>
   </product>
   <product>
@@ -3090,7 +3090,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-brut/p</link>
-    <inventory-count>95</inventory-count>
+    <inventory-count>85</inventory-count>
     <product-id>21085</product-id>
   </product>
   <product>
@@ -4315,7 +4315,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-malbec/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>29</inventory-count>
     <product-id>11575</product-id>
   </product>
   <product>
@@ -4335,7 +4335,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-chardonnay/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>3</inventory-count>
     <product-id>11577</product-id>
   </product>
   <product>
@@ -4735,7 +4735,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/sexy-fish-rose/p</link>
-    <inventory-count>5</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>11588</product-id>
   </product>
   <product>
