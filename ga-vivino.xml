@@ -50,7 +50,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbera-la-quercia/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>11029</product-id>
   </product>
   <product>
@@ -440,7 +440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-corbelli-pinot-grigio/p</link>
-    <inventory-count>35</inventory-count>
+    <inventory-count>59</inventory-count>
     <product-id>11840</product-id>
   </product>
   <product>
@@ -470,7 +470,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/forte-ambrone-etichetta-nera-igt-toscana/p</link>
-    <inventory-count>31</inventory-count>
+    <inventory-count>34</inventory-count>
     <product-id>11843</product-id>
   </product>
   <product>
@@ -480,7 +480,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-forte-ambrone-vino-rosso/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>11844</product-id>
   </product>
   <product>
@@ -740,7 +740,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
-    <inventory-count>15</inventory-count>
+    <inventory-count>14</inventory-count>
     <product-id>12131</product-id>
   </product>
   <product>
@@ -1240,7 +1240,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/marques-de-tomares-crianza/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>24</inventory-count>
     <product-id>14016</product-id>
   </product>
   <product>
@@ -2190,7 +2190,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/nederburg-pinotage/p</link>
-    <inventory-count>11</inventory-count>
+    <inventory-count>9</inventory-count>
     <product-id>51047</product-id>
   </product>
   <product>
@@ -2820,7 +2820,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/petit-vega-18-meses/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>14174</product-id>
   </product>
   <product>
@@ -3090,7 +3090,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-brut/p</link>
-    <inventory-count>59</inventory-count>
+    <inventory-count>4</inventory-count>
     <product-id>21085</product-id>
   </product>
   <product>
@@ -4315,7 +4315,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-malbec/p</link>
-    <inventory-count>70</inventory-count>
+    <inventory-count>69</inventory-count>
     <product-id>11575</product-id>
   </product>
   <product>
@@ -4335,7 +4335,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/porteño-chardonnay/p</link>
-    <inventory-count>38</inventory-count>
+    <inventory-count>37</inventory-count>
     <product-id>11577</product-id>
   </product>
   <product>
@@ -4655,7 +4655,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/quinta-de-foz-de-arouce-tinto/p</link>
-    <inventory-count>12</inventory-count>
+    <inventory-count>6</inventory-count>
     <product-id>12337</product-id>
   </product>
   <product>
@@ -5275,7 +5275,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>26</inventory-count>
+    <inventory-count>20</inventory-count>
     <product-id>13057</product-id>
   </product>
 </vivino-product-list>
