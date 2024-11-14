@@ -2420,7 +2420,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-viura-branco/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>14162</product-id>
   </product>
   <product>
@@ -2430,7 +2430,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/viña-otano-reserva/p</link>
-    <inventory-count>2</inventory-count>
+    <inventory-count>0</inventory-count>
     <product-id>14164</product-id>
   </product>
   <product>
@@ -2440,7 +2440,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/la-viña-de-sofia-albariño-clasico/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>59</inventory-count>
     <product-id>14176</product-id>
   </product>
   <product>
@@ -2770,7 +2770,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-aurelio-crianza/p</link>
-    <inventory-count>0</inventory-count>
+    <inventory-count>2</inventory-count>
     <product-id>14182</product-id>
   </product>
   <product>
@@ -4214,7 +4214,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/barbera-d’asti-docg-cantine-del-borgo-reale/p</link>
-    <inventory-count>23</inventory-count>
+    <inventory-count>17</inventory-count>
     <product-id>11523</product-id>
   </product>
   <product>
@@ -4484,7 +4484,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/truffle-hunter-leda-langhe-chardonnay-doc/p</link>
-    <inventory-count>8</inventory-count>
+    <inventory-count>7</inventory-count>
     <product-id>12329</product-id>
   </product>
   <product>
