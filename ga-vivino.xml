@@ -720,7 +720,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/bom-juiz-reserva/p</link>
-    <inventory-count>4562</inventory-count>
+    <inventory-count>4560</inventory-count>
     <product-id>12131</product-id>
   </product>
   <product>
@@ -860,7 +860,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/espumante-3b-rose/p</link>
-    <inventory-count>13</inventory-count>
+    <inventory-count>15</inventory-count>
     <product-id>12186</product-id>
   </product>
   <product>
@@ -2730,7 +2730,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/santa-julia-coleccion-cabernet-sauvignon/p</link>
-    <inventory-count>10</inventory-count>
+    <inventory-count>8</inventory-count>
     <product-id>23241</product-id>
   </product>
   <product>
@@ -2770,7 +2770,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/don-aurelio-crianza/p</link>
-    <inventory-count>18</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>14182</product-id>
   </product>
   <product>
@@ -5014,7 +5014,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-doc-vinho-verde/p</link>
-    <inventory-count>1693</inventory-count>
+    <inventory-count>1741</inventory-count>
     <product-id>13057</product-id>
   </product>
   <product>
@@ -5794,7 +5794,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-rose/p</link>
-    <inventory-count>991</inventory-count>
+    <inventory-count>1015</inventory-count>
     <product-id>13058</product-id>
   </product>
   <product>
@@ -5804,7 +5804,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-branco-doce/p</link>
-    <inventory-count>1325</inventory-count>
+    <inventory-count>1337</inventory-count>
     <product-id>13059</product-id>
   </product>
 </vivino-product-list>
