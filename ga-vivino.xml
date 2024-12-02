@@ -2790,7 +2790,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/saludas-cosecha-tinto/p</link>
-    <inventory-count>21353</inventory-count>
+    <inventory-count>21349</inventory-count>
     <product-id>14185</product-id>
   </product>
   <product>
@@ -4154,7 +4154,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/-estelar-57-merlot/p</link>
-    <inventory-count>113</inventory-count>
+    <inventory-count>112</inventory-count>
     <product-id>23130</product-id>
   </product>
   <product>
@@ -4164,7 +4164,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/-estelar-57-chardonnay/p</link>
-    <inventory-count>17</inventory-count>
+    <inventory-count>16</inventory-count>
     <product-id>23131</product-id>
   </product>
   <product>
@@ -4374,7 +4374,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/veuve-du-vernay-edition-limitee-brut/p</link>
-    <inventory-count>221</inventory-count>
+    <inventory-count>209</inventory-count>
     <product-id>21408</product-id>
   </product>
   <product>
@@ -5034,7 +5034,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-moscatel-de-setubal-doc-adega-de-palmela/p</link>
-    <inventory-count>1694</inventory-count>
+    <inventory-count>1693</inventory-count>
     <product-id>12290</product-id>
   </product>
   <product>
@@ -5804,7 +5804,7 @@
     <bottle_size>750 ml</bottle_size>
     <bottle_quantity>1</bottle_quantity>
     <link>https://www.grandeadega.com.br/vinho-pardalito-branco-doce/p</link>
-    <inventory-count>1337</inventory-count>
+    <inventory-count>1336</inventory-count>
     <product-id>13059</product-id>
   </product>
 </vivino-product-list>
