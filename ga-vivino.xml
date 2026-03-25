@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2026-03-25T10:55:22.313149</feed-generation-date>
+		<feed-generation-date>2026-03-25T14:11:22.975176</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2022  Red</product-name>
@@ -290,7 +290,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/luccarelli-rosso-puglia-igp/p</link>
-		<inventory-count>624</inventory-count>
+		<inventory-count>623</inventory-count>
 		<product-id>11442</product-id>
 	</product>
 	<product>
@@ -400,7 +400,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/corbelli-primitivo/p</link>
-		<inventory-count>1007</inventory-count>
+		<inventory-count>839</inventory-count>
 		<product-id>11836</product-id>
 	</product>
 	<product>
@@ -480,7 +480,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-forte-ambrone-vino-rosso/p</link>
-		<inventory-count>2672</inventory-count>
+		<inventory-count>2671</inventory-count>
 		<product-id>11844</product-id>
 	</product>
 	<product>
@@ -510,7 +510,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-tawny/p</link>
-		<inventory-count>4613</inventory-count>
+		<inventory-count>4595</inventory-count>
 		<product-id>12013</product-id>
 	</product>
 	<product>
@@ -560,7 +560,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/porto-messias-ruby/p</link>
-		<inventory-count>1641</inventory-count>
+		<inventory-count>1617</inventory-count>
 		<product-id>12051</product-id>
 	</product>
 	<product>
@@ -770,7 +770,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/duorum-colheita/p</link>
-		<inventory-count>268</inventory-count>
+		<inventory-count>267</inventory-count>
 		<product-id>12155</product-id>
 	</product>
 	<product>
@@ -1680,7 +1680,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/carolina-reserva-pinot-noir/p</link>
-		<inventory-count>105</inventory-count>
+		<inventory-count>99</inventory-count>
 		<product-id>23082</product-id>
 	</product>
 	<product>
@@ -1710,7 +1710,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-chardonnay/p</link>
-		<inventory-count>869</inventory-count>
+		<inventory-count>865</inventory-count>
 		<product-id>24007</product-id>
 	</product>
 	<product>
@@ -1790,7 +1790,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/alfredo-roca-fincas-rose/p</link>
-		<inventory-count>86</inventory-count>
+		<inventory-count>85</inventory-count>
 		<product-id>24075</product-id>
 	</product>
 	<product>
@@ -1830,7 +1830,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/reserva-familiar-tannat/p</link>
-		<inventory-count>6535</inventory-count>
+		<inventory-count>6533</inventory-count>
 		<product-id>25013</product-id>
 	</product>
 	<product>
@@ -1932,6 +1932,16 @@
 		<link>https://www.grandeadega.com.br/nederburg-the-winemaster-s-sauvignon-blanc/p</link>
 		<inventory-count>22</inventory-count>
 		<product-id>51017</product-id>
+	</product>
+	<product>
+		<product-name>Nederburg Noble Late Harvest 375 ml NV  de Dessert</product-name>
+		<price>200.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/nederburg-noble-late-harvest-375-ml/p</link>
+		<inventory-count>22</inventory-count>
+		<product-id>51020</product-id>
 	</product>
 	<product>
 		<product-name>Nederburg The Winemasters Shiraz 2020  Red</product-name>
@@ -2874,6 +2884,16 @@
 		<product-id>23259</product-id>
 	</product>
 	<product>
+		<product-name>Château Laubès Sauvignon Blanc NV  White</product-name>
+		<price>229.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/chateau-laubes-sauvignon-blanc/p</link>
+		<inventory-count>4</inventory-count>
+		<product-id>23260</product-id>
+	</product>
+	<product>
 		<product-name>Château Troupian Haut-Médoc NV  Red</product-name>
 		<price>198.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3074,16 +3094,6 @@
 		<product-id>23281</product-id>
 	</product>
 	<product>
-		<product-name>Moillard Nuit-Saint-Georges Premier Cru Aux Boudots NV  Red</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/moillard-nuit-saint-georges-premier-cru-aux-boudots/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>23282</product-id>
-	</product>
-	<product>
 		<product-name>Moillard Pommard Premier Cru Les Charmots NV  Red</product-name>
 		<price>1217.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3184,16 +3194,6 @@
 		<product-id>21436</product-id>
 	</product>
 	<product>
-		<product-name>Domaine Denis Dubourdieu Château Doisy-Daëne Grand Vin Sec 2019 NV  White</product-name>
-		<price>480.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/chateau-doisy-daene-grand-vin-sec-2019/p</link>
-		<inventory-count>91</inventory-count>
-		<product-id>21264</product-id>
-	</product>
-	<product>
 		<product-name>Carmim Terras d'el Rei Red NV</product-name>
 		<price>44.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3254,16 +3254,6 @@
 		<product-id>24230</product-id>
 	</product>
 	<product>
-		<product-name>Cantina Negrar La Sorte Amarone della Valpolicella 2018  Red</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/amarone-della-valpolicella/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>24231</product-id>
-	</product>
-	<product>
 		<product-name>Carmim Olaria Suave White NV</product-name>
 		<price>43.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3294,16 +3284,6 @@
 		<product-id>12244</product-id>
 	</product>
 	<product>
-		<product-name>Justino's Fortified Sercial 10 Anos NV</product-name>
-		<price>469.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/justino-s-madeira-sercial-10-anos/p</link>
-		<inventory-count>4</inventory-count>
-		<product-id>12080</product-id>
-	</product>
-	<product>
 		<product-name>Justino's Fortified Verdelho 10 Anos Meio Seco NV</product-name>
 		<price>469.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3322,16 +3302,6 @@
 		<link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira/p</link>
 		<inventory-count>0</inventory-count>
 		<product-id>12079</product-id>
-	</product>
-	<product>
-		<product-name>Justino's Fortified Malvasia 10 Years Old NV</product-name>
-		<price>469.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/justino-s-madeira-malvasia-10-years-old-/p</link>
-		<inventory-count>2</inventory-count>
-		<product-id>12082</product-id>
 	</product>
 	<product>
 		<product-name>Justino's Fortified Colheita 1997 NV</product-name>
@@ -3354,26 +3324,6 @@
 		<product-id>12304</product-id>
 	</product>
 	<product>
-		<product-name>Justino's Fortified Justino’s Fortified Colheita 1998 Dessert NV</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/justino-s-madeira-colheita-1998---doce/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>12307</product-id>
-	</product>
-	<product>
-		<product-name>Justino's Fortified Colheita 2003 NV</product-name>
-		<price>642.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/justino-s-madeira-colheita-2003/p</link>
-		<inventory-count>1</inventory-count>
-		<product-id>12308</product-id>
-	</product>
-	<product>
 		<product-name>Justino's Fortified Boal 10 Years Old Fortified 375 ml NV</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -3382,46 +3332,6 @@
 		<link>https://www.grandeadega.com.br/justino-s-madeira-boal-10-years-old-madeira-375-ml----/p</link>
 		<inventory-count>0</inventory-count>
 		<product-id>12309</product-id>
-	</product>
-	<product>
-		<product-name>Cims de Porrera Vi de Vila Porrera 2016 NV  Red</product-name>
-		<price>505.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/vi-de-vila-porrera-2016/p</link>
-		<inventory-count>6</inventory-count>
-		<product-id>14187</product-id>
-	</product>
-	<product>
-		<product-name>Finca Fella Cala Rey White NV</product-name>
-		<price>105.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/cala-rey-branco/p</link>
-		<inventory-count>80</inventory-count>
-		<product-id>25043</product-id>
-	</product>
-	<product>
-		<product-name>Sparkling Imperial Vintage Rosé Brut Sperone NV</product-name>
-		<price>93.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/espumante-imperial-vintage-rose-brut-sperone/p</link>
-		<inventory-count>34</inventory-count>
-		<product-id>14192</product-id>
-	</product>
-	<product>
-		<product-name>Filipa Pato Post-Quer...s Bical NV  White</product-name>
-		<price>289.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/post-quercus-bical/p</link>
-		<inventory-count>7</inventory-count>
-		<product-id>12276</product-id>
 	</product>
 	<product>
 		<product-name>Filipa Pato Território Vivo Baga NV  Red</product-name>
@@ -3472,16 +3382,6 @@
 		<link>https://www.grandeadega.com.br/barolo-docg-truffle-hunter-leda/p</link>
 		<inventory-count>64</inventory-count>
 		<product-id>12320</product-id>
-	</product>
-	<product>
-		<product-name>Bosio Family Estates Barbaresco DOCG Truffle Hunter Leda NV  Red</product-name>
-		<price>314.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/barbaresco-docg-truffle-hunter-leda/p</link>
-		<inventory-count>369</inventory-count>
-		<product-id>12321</product-id>
 	</product>
 	<product>
 		<product-name>Bosio Family Estates Nebbiolo d’Alba DOC Truffle Hunter Leda NV  Red</product-name>
@@ -3892,6 +3792,16 @@
 		<link>https://www.grandeadega.com.br/espumante-messias-extra-brut-tinto/p</link>
 		<inventory-count>8</inventory-count>
 		<product-id>12268</product-id>
+	</product>
+	<product>
+		<product-name>Santa Carolina Estelar 57 Sauvignon Blanc NV  White</product-name>
+		<price>59.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/-estelar-57-sauvignon-blanc/p</link>
+		<inventory-count>602</inventory-count>
+		<product-id>23127</product-id>
 	</product>
 	<product>
 		<product-name>Santa Carolina Estelar 57 Merlot NV  Red</product-name>
@@ -4944,6 +4854,16 @@
 		<product-id>11149</product-id>
 	</product>
 	<product>
+		<product-name>Stemmari Pinot Grigio DOC Sicília NV  White</product-name>
+		<price>88.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-stemmari-pinot-grigio-doc/p</link>
+		<inventory-count>102</inventory-count>
+		<product-id>23335</product-id>
+	</product>
+	<product>
 		<product-name>Corbelli Blush Pinot Grigio Rosé IGT NV</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -5334,6 +5254,16 @@
 		<product-id>23521</product-id>
 	</product>
 	<product>
+		<product-name>Tabali Pedregoso Gran Reserva Chardonnay NV  White</product-name>
+		<price>124.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/vinho-tabali-pedregoso-gran-reserva-chardonnay/p</link>
+		<inventory-count>100</inventory-count>
+		<product-id>23520</product-id>
+	</product>
+	<product>
 		<product-name>Tabali Micas Carmenère NV  Red</product-name>
 		<price>234.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -5385,7 +5315,7 @@
 	</product>
 	<product>
 		<product-name>Château Gloria Saint-Julien AOP 2015  Red</product-name>
-		<price>971.12</price>
+		<price>1213.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -5465,7 +5395,7 @@
 	</product>
 	<product>
 		<product-name>Tabali Transversal Mezcla de Reds NV</product-name>
-		<price>324.9</price>
+		<price>292.41</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -5855,7 +5785,7 @@
 	</product>
 	<product>
 		<product-name>Viñedos Familia Chadwick Viñedo Chadwick 2016 NV  Red</product-name>
-		<price>8168.9</price>
+		<price>6535.12</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -6304,36 +6234,6 @@
 		<product-id>13029</product-id>
 	</product>
 	<product>
-		<product-name>Quinta do Zambujeiro Zambujeiro NV  Red</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/zambujeiro/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>13034</product-id>
-	</product>
-	<product>
-		<product-name>Quinta do Zambujeiro Monte do Zambujeiro 2015 NV  Red</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/monte-do-zambujeiro-safra-2015/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>13035</product-id>
-	</product>
-	<product>
-		<product-name>Quinta do Zambujeiro Terra do Zambujeiro NV  Red</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/terra-do-zambujeiro/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>13036</product-id>
-	</product>
-	<product>
 		<product-name>Marqués de Tomares Reserva NV  Red</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -6344,16 +6244,6 @@
 		<product-id>14031</product-id>
 	</product>
 	<product>
-		<product-name>Cims de Porrera Classic NV  Red</product-name>
-		<price>1562.9</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/cims-de-porrera-classic/p</link>
-		<inventory-count>7</inventory-count>
-		<product-id>14076</product-id>
-	</product>
-	<product>
 		<product-name>Cims de Porrera Vi de Vila Porrera NV  Red</product-name>
 		<price>9999876.0</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
@@ -6362,16 +6252,6 @@
 		<link>https://www.grandeadega.com.br/vi-de-vila-porrera/p</link>
 		<inventory-count>0</inventory-count>
 		<product-id>14078</product-id>
-	</product>
-	<product>
-		<product-name>Marqués de Tomares Gran Reserva Red NV</product-name>
-		<price>9999876.0</price>
-		<quantity-is-minimum>false</quantity-is-minimum>
-		<bottle_size>750 ml</bottle_size>
-		<bottle_quantity>1</bottle_quantity>
-		<link>https://www.grandeadega.com.br/marques-de-tomares-gran-reserva/p</link>
-		<inventory-count>0</inventory-count>
-		<product-id>14109</product-id>
 	</product>
 	<product>
 		<product-name>Premium Fincas Chan de Rosas Gran Cuvée Magnum NV  White</product-name>
@@ -6982,6 +6862,26 @@
 		<link>https://www.grandeadega.com.br/las-condes-varietal-cabernet-sauvignon/p</link>
 		<inventory-count>0</inventory-count>
 		<product-id>23226</product-id>
+	</product>
+	<product>
+		<product-name>Las Condes Varietal Carmenère NV  Red</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/las-condes-varietal-carmenere/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23227</product-id>
+	</product>
+	<product>
+		<product-name>Las Condes Varietal Chardonnay 2020  White</product-name>
+		<price>9999876.0</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/las-condes-varietal-chardonnay/p</link>
+		<inventory-count>0</inventory-count>
+		<product-id>23229</product-id>
 	</product>
 	<product>
 		<product-name>Las Condes Varietal Merlot NV  Red</product-name>
@@ -7972,6 +7872,16 @@
 		<link>https://www.grandeadega.com.br/vinho-bodega-iribarrem-reserva-tannat/p</link>
 		<inventory-count>7</inventory-count>
 		<product-id>25689</product-id>
+	</product>
+	<product>
+		<product-name>Frisante Bacio della Luna NV</product-name>
+		<price>32.9</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://www.grandeadega.com.br/frisante-bacio-della-luna/p</link>
+		<inventory-count>1672</inventory-count>
+		<product-id>25678</product-id>
 	</product>
 	<product>
 		<product-name>Caves Messias Fortified Intermares Ruby NV  do Fortified</product-name>
