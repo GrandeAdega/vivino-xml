@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <vivino-product-list>
 	<meta-data>
-		<feed-generation-date>2026-03-26T09:30:33.528784</feed-generation-date>
+		<feed-generation-date>2026-03-26T13:15:13.553797</feed-generation-date>
 	</meta-data>
 	<product>
 		<product-name>Cantina Bennati Bardolino Cornale 2022  Red</product-name>
@@ -5435,7 +5435,7 @@
 	</product>
 	<product>
 		<product-name>Château Gloria Saint-Julien AOP 2015  Red</product-name>
-		<price>971.12</price>
+		<price>1213.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -5445,7 +5445,7 @@
 	</product>
 	<product>
 		<product-name>Château Gloria Saint-Julien AOP 2019 NV  Red</product-name>
-		<price>825.52</price>
+		<price>1031.9</price>
 		<quantity-is-minimum>false</quantity-is-minimum>
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
@@ -5530,7 +5530,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/vinho-pardalito-rose/p</link>
-		<inventory-count>1842</inventory-count>
+		<inventory-count>1839</inventory-count>
 		<product-id>13058</product-id>
 	</product>
 	<product>
@@ -8050,7 +8050,7 @@
 		<bottle_size>750 ml</bottle_size>
 		<bottle_quantity>1</bottle_quantity>
 		<link>https://www.grandeadega.com.br/frisante-bacio-della-luna/p</link>
-		<inventory-count>1659</inventory-count>
+		<inventory-count>1653</inventory-count>
 		<product-id>25678</product-id>
 	</product>
 	<product>
